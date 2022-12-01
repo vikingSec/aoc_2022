@@ -5,3 +5,8 @@ This is the first year I've even heard of Advent of Code, and naturally I got a 
 I'll be covering my solutions on my [YouTube channel](https://youtube.com/@valhalla_dev) and will leave links to the videos covering my solutions in this README.
 
 Merry Christmas and happy hacking!
+
+
+## Solutions
+
+- [Day 1 Video](https://youtu.be/fOZqgTK4Iro)

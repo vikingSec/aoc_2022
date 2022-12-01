@@ -8,18 +8,16 @@ fn main() {
     println!("[-] Lines in input file: {}",lines.len());
     let mut totals : Vec<i32> = Vec::new();
     let mut curElf : Vec<i32> = Vec::new();
-    for mut line in lines{
-        if (line.len() < 2){
+    for line in lines{
+        if (line.len() < 1){
             let mut sum = curElf.iter().sum();
             totals.push(sum);
             curElf = Vec::new();
         }else{
-            println!("{}",line);
             let cleaned = line.trim();
             curElf.push(cleaned.parse::<i32>().unwrap());
         }
     }
     totals.sort();
-    let relsum : i32 = totals[totals.len()-3..totals.len()].iter().sum();
-    println!("The sum of the top 3 elves is {}", relsum);
+    println!("The top-carrying elf is carrying {} calories", totals[totals.len()]);
 }
