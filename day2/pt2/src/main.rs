@@ -20,7 +20,7 @@ fn main() {
         // x == loss
         // y == draw
         // z == win
-        // Winning conditions
+        // Lose
         if(res == "X"){
             score+=loss;
             if(opp == "A"){
