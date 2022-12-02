@@ -10,3 +10,4 @@ Merry Christmas and happy hacking!
 ## Solutions
 
 - [Day 1 Video](https://youtu.be/fOZqgTK4Iro)
+- [Day 2 Video](https://youtu.be/LRgoDIDi85o)
