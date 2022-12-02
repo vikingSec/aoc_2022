@@ -19,7 +19,6 @@ fn main() {
         // Winning conditions
         println!("[-] Opp: {}\tUs: {}", opp, us);
         if(opp == "A" && us == "Y"){
-            println!("opp chooses a");
             score+=win+paper;
         }
         if(opp == "B" && us == "Z"){

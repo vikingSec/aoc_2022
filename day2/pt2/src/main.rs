@@ -17,9 +17,9 @@ fn main() {
         let opp : String = String::from(spl[0]);
         let res : String = String::from(spl[1]);
 
-        // x == win
+        // x == loss
         // y == draw
-        // z == loss
+        // z == win
         // Winning conditions
         if(res == "X"){
             score+=loss;
