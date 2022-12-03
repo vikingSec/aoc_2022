@@ -3,7 +3,7 @@ const filename : &str = "./input.txt";
 
 fn chartonum(input : char) -> u32 {
     let lowercaseOff : u32 = 96;
-    let uppercaseOff : u32 = 64-26; 
+    let uppercaseOff : u32 = 38; 
      
     if(input.is_uppercase()){
 
@@ -29,7 +29,6 @@ pub fn solve1(){
         let comp2 = &chars[half..chars.len()];
         let shared : Vec<char> = comp1.into_iter().filter(|&a| comp2.contains(a)).cloned().collect::<Vec<char>>();
         if shared.len() > 0 {
-            
             sum+=chartonum(shared[0]);
         }else{
 
@@ -55,7 +54,6 @@ pub fn solve2(){
         let comp3 : Vec<char> = lines[index+2].trim().chars().collect();
         let shared: Vec<char> = comp1.into_iter().filter(|&a| comp2.contains(&a) && comp3.contains(&a)).collect::<Vec<char>>();
         if shared.len() > 0 {
-
             sum+=chartonum(shared[0]);
         }
 
