@@ -11,3 +11,4 @@ Merry Christmas and happy hacking!
 
 - [Day 1 Video](https://youtu.be/fOZqgTK4Iro)
 - [Day 2 Video](https://youtu.be/LRgoDIDi85o)
+- [Day 3 Video](https://www.youtube.com/watch?v=uYkZ-s-AQmc)
