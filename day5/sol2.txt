@@ -1,0 +1,4531 @@
+Stack base is at line 8
+Initialized a total of 9 new stacks!
+First move: move 5 from 4 to 5
+Stacks: ["SLW", "JTNQ", "SCHFJ", "TRMWNGB", "TRLSDHQB", "MJBVFHRL", "DWRNJM", "BZTFHNDJ", "HLQNBFT"]
+Move: move 5 from 4 to 5
+	From: TRMWNGB
+	To: TRLSDHQB
+	Amt: 5
+After operations:
+From: TR
+To: TRLSDHQBMWNGB
+Stacks: ["SLW", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWNGB", "MJBVFHRL", "DWRNJM", "BZTFHNDJ", "HLQNBFT"]
+Stacks: ["SLW", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWNGB", "MJBVFHRL", "DWRNJM", "BZTFHNDJ", "HLQNBFT"]
+Move: move 2 from 5 to 8
+	From: TRLSDHQBMWNGB
+	To: BZTFHNDJ
+	Amt: 2
+After operations:
+From: TRLSDHQBMWN
+To: BZTFHNDJGB
+Stacks: ["SLW", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWN", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQNBFT"]
+Stacks: ["SLW", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWN", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQNBFT"]
+Move: move 2 from 9 to 1
+	From: HLQNBFT
+	To: SLW
+	Amt: 2
+After operations:
+From: HLQNB
+To: SLWFT
+Stacks: ["SLWFT", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWN", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQNB"]
+Stacks: ["SLWFT", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWN", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQNB"]
+Move: move 2 from 9 to 1
+	From: HLQNB
+	To: SLWFT
+	Amt: 2
+After operations:
+From: HLQ
+To: SLWFTNB
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWN", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQ"]
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJ", "TR", "TRLSDHQBMWN", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQ"]
+Move: move 1 from 5 to 3
+	From: TRLSDHQBMWN
+	To: SCHFJ
+	Amt: 1
+After operations:
+From: TRLSDHQBMW
+To: SCHFJN
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJN", "TR", "TRLSDHQBMW", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQ"]
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJN", "TR", "TRLSDHQBMW", "MJBVFHRL", "DWRNJM", "BZTFHNDJGB", "HLQ"]
+Move: move 10 from 5 to 8
+	From: TRLSDHQBMW
+	To: BZTFHNDJGB
+	Amt: 10
+After operations:
+From: 
+To: BZTFHNDJGBTRLSDHQBMW
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJN", "TR", "", "MJBVFHRL", "DWRNJM", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJN", "TR", "", "MJBVFHRL", "DWRNJM", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Move: move 1 from 4 to 7
+	From: TR
+	To: DWRNJM
+	Amt: 1
+After operations:
+From: T
+To: DWRNJMR
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJN", "T", "", "MJBVFHRL", "DWRNJMR", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Stacks: ["SLWFTNB", "JTNQ", "SCHFJN", "T", "", "MJBVFHRL", "DWRNJMR", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Move: move 1 from 1 to 2
+	From: SLWFTNB
+	To: JTNQ
+	Amt: 1
+After operations:
+From: SLWFTN
+To: JTNQB
+Stacks: ["SLWFTN", "JTNQB", "SCHFJN", "T", "", "MJBVFHRL", "DWRNJMR", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Stacks: ["SLWFTN", "JTNQB", "SCHFJN", "T", "", "MJBVFHRL", "DWRNJMR", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Move: move 5 from 3 to 7
+	From: SCHFJN
+	To: DWRNJMR
+	Amt: 5
+After operations:
+From: S
+To: DWRNJMRCHFJN
+Stacks: ["SLWFTN", "JTNQB", "S", "T", "", "MJBVFHRL", "DWRNJMRCHFJN", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Stacks: ["SLWFTN", "JTNQB", "S", "T", "", "MJBVFHRL", "DWRNJMRCHFJN", "BZTFHNDJGBTRLSDHQBMW", "HLQ"]
+Move: move 1 from 2 to 8
+	From: JTNQB
+	To: BZTFHNDJGBTRLSDHQBMW
+	Amt: 1
+After operations:
+From: JTNQ
+To: BZTFHNDJGBTRLSDHQBMWB
+Stacks: ["SLWFTN", "JTNQ", "S", "T", "", "MJBVFHRL", "DWRNJMRCHFJN", "BZTFHNDJGBTRLSDHQBMWB", "HLQ"]
+Stacks: ["SLWFTN", "JTNQ", "S", "T", "", "MJBVFHRL", "DWRNJMRCHFJN", "BZTFHNDJGBTRLSDHQBMWB", "HLQ"]
+Move: move 21 from 8 to 5
+	From: BZTFHNDJGBTRLSDHQBMWB
+	To: 
+	Amt: 21
+After operations:
+From: 
+To: BZTFHNDJGBTRLSDHQBMWB
+Stacks: ["SLWFTN", "JTNQ", "S", "T", "BZTFHNDJGBTRLSDHQBMWB", "MJBVFHRL", "DWRNJMRCHFJN", "", "HLQ"]
+Stacks: ["SLWFTN", "JTNQ", "S", "T", "BZTFHNDJGBTRLSDHQBMWB", "MJBVFHRL", "DWRNJMRCHFJN", "", "HLQ"]
+Move: move 13 from 5 to 7
+	From: BZTFHNDJGBTRLSDHQBMWB
+	To: DWRNJMRCHFJN
+	Amt: 13
+After operations:
+From: BZTFHNDJ
+To: DWRNJMRCHFJNGBTRLSDHQBMWB
+Stacks: ["SLWFTN", "JTNQ", "S", "T", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWB", "", "HLQ"]
+Stacks: ["SLWFTN", "JTNQ", "S", "T", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWB", "", "HLQ"]
+Move: move 2 from 9 to 4
+	From: HLQ
+	To: T
+	Amt: 2
+After operations:
+From: H
+To: TLQ
+Stacks: ["SLWFTN", "JTNQ", "S", "TLQ", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWB", "", "H"]
+Stacks: ["SLWFTN", "JTNQ", "S", "TLQ", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWB", "", "H"]
+Move: move 1 from 7 to 4
+	From: DWRNJMRCHFJNGBTRLSDHQBMWB
+	To: TLQ
+	Amt: 1
+After operations:
+From: DWRNJMRCHFJNGBTRLSDHQBMW
+To: TLQB
+Stacks: ["SLWFTN", "JTNQ", "S", "TLQB", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMW", "", "H"]
+Stacks: ["SLWFTN", "JTNQ", "S", "TLQB", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMW", "", "H"]
+Move: move 5 from 1 to 4
+	From: SLWFTN
+	To: TLQB
+	Amt: 5
+After operations:
+From: S
+To: TLQBLWFTN
+Stacks: ["S", "JTNQ", "S", "TLQBLWFTN", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMW", "", "H"]
+Stacks: ["S", "JTNQ", "S", "TLQBLWFTN", "BZTFHNDJ", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMW", "", "H"]
+Move: move 1 from 5 to 7
+	From: BZTFHNDJ
+	To: DWRNJMRCHFJNGBTRLSDHQBMW
+	Amt: 1
+After operations:
+From: BZTFHND
+To: DWRNJMRCHFJNGBTRLSDHQBMWJ
+Stacks: ["S", "JTNQ", "S", "TLQBLWFTN", "BZTFHND", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWJ", "", "H"]
+Stacks: ["S", "JTNQ", "S", "TLQBLWFTN", "BZTFHND", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWJ", "", "H"]
+Move: move 2 from 2 to 7
+	From: JTNQ
+	To: DWRNJMRCHFJNGBTRLSDHQBMWJ
+	Amt: 2
+After operations:
+From: JT
+To: DWRNJMRCHFJNGBTRLSDHQBMWJNQ
+Stacks: ["S", "JT", "S", "TLQBLWFTN", "BZTFHND", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "H"]
+Stacks: ["S", "JT", "S", "TLQBLWFTN", "BZTFHND", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "H"]
+Move: move 1 from 3 to 2
+	From: S
+	To: JT
+	Amt: 1
+After operations:
+From: 
+To: JTS
+Stacks: ["S", "JTS", "", "TLQBLWFTN", "BZTFHND", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "H"]
+Stacks: ["S", "JTS", "", "TLQBLWFTN", "BZTFHND", "MJBVFHRL", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "H"]
+Move: move 1 from 1 to 6
+	From: S
+	To: MJBVFHRL
+	Amt: 1
+After operations:
+From: 
+To: MJBVFHRLS
+Stacks: ["", "JTS", "", "TLQBLWFTN", "BZTFHND", "MJBVFHRLS", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "H"]
+Stacks: ["", "JTS", "", "TLQBLWFTN", "BZTFHND", "MJBVFHRLS", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "H"]
+Move: move 7 from 5 to 9
+	From: BZTFHND
+	To: H
+	Amt: 7
+After operations:
+From: 
+To: HBZTFHND
+Stacks: ["", "JTS", "", "TLQBLWFTN", "", "MJBVFHRLS", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "HBZTFHND"]
+Stacks: ["", "JTS", "", "TLQBLWFTN", "", "MJBVFHRLS", "DWRNJMRCHFJNGBTRLSDHQBMWJNQ", "", "HBZTFHND"]
+Move: move 16 from 7 to 4
+	From: DWRNJMRCHFJNGBTRLSDHQBMWJNQ
+	To: TLQBLWFTN
+	Amt: 16
+After operations:
+From: DWRNJMRCHFJ
+To: TLQBLWFTNNGBTRLSDHQBMWJNQ
+Stacks: ["", "JTS", "", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "", "MJBVFHRLS", "DWRNJMRCHFJ", "", "HBZTFHND"]
+Stacks: ["", "JTS", "", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "", "MJBVFHRLS", "DWRNJMRCHFJ", "", "HBZTFHND"]
+Move: move 7 from 9 to 3
+	From: HBZTFHND
+	To: 
+	Amt: 7
+After operations:
+From: H
+To: BZTFHND
+Stacks: ["", "JTS", "BZTFHND", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "", "MJBVFHRLS", "DWRNJMRCHFJ", "", "H"]
+Stacks: ["", "JTS", "BZTFHND", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "", "MJBVFHRLS", "DWRNJMRCHFJ", "", "H"]
+Move: move 1 from 7 to 5
+	From: DWRNJMRCHFJ
+	To: 
+	Amt: 1
+After operations:
+From: DWRNJMRCHF
+To: J
+Stacks: ["", "JTS", "BZTFHND", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHF", "", "H"]
+Stacks: ["", "JTS", "BZTFHND", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHF", "", "H"]
+Move: move 1 from 3 to 8
+	From: BZTFHND
+	To: 
+	Amt: 1
+After operations:
+From: BZTFHN
+To: D
+Stacks: ["", "JTS", "BZTFHN", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHF", "D", "H"]
+Stacks: ["", "JTS", "BZTFHN", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHF", "D", "H"]
+Move: move 3 from 2 to 7
+	From: JTS
+	To: DWRNJMRCHF
+	Amt: 3
+After operations:
+From: 
+To: DWRNJMRCHFJTS
+Stacks: ["", "", "BZTFHN", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHFJTS", "D", "H"]
+Stacks: ["", "", "BZTFHN", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHFJTS", "D", "H"]
+Move: move 1 from 8 to 9
+	From: D
+	To: H
+	Amt: 1
+After operations:
+From: 
+To: HD
+Stacks: ["", "", "BZTFHN", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHFJTS", "", "HD"]
+Stacks: ["", "", "BZTFHN", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLS", "DWRNJMRCHFJTS", "", "HD"]
+Move: move 3 from 3 to 6
+	From: BZTFHN
+	To: MJBVFHRLS
+	Amt: 3
+After operations:
+From: BZT
+To: MJBVFHRLSFHN
+Stacks: ["", "", "BZT", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLSFHN", "DWRNJMRCHFJTS", "", "HD"]
+Stacks: ["", "", "BZT", "TLQBLWFTNNGBTRLSDHQBMWJNQ", "J", "MJBVFHRLSFHN", "DWRNJMRCHFJTS", "", "HD"]
+Move: move 21 from 4 to 9
+	From: TLQBLWFTNNGBTRLSDHQBMWJNQ
+	To: HD
+	Amt: 21
+After operations:
+From: TLQB
+To: HDLWFTNNGBTRLSDHQBMWJNQ
+Stacks: ["", "", "BZT", "TLQB", "J", "MJBVFHRLSFHN", "DWRNJMRCHFJTS", "", "HDLWFTNNGBTRLSDHQBMWJNQ"]
+Stacks: ["", "", "BZT", "TLQB", "J", "MJBVFHRLSFHN", "DWRNJMRCHFJTS", "", "HDLWFTNNGBTRLSDHQBMWJNQ"]
+Move: move 1 from 5 to 7
+	From: J
+	To: DWRNJMRCHFJTS
+	Amt: 1
+After operations:
+From: 
+To: DWRNJMRCHFJTSJ
+Stacks: ["", "", "BZT", "TLQB", "", "MJBVFHRLSFHN", "DWRNJMRCHFJTSJ", "", "HDLWFTNNGBTRLSDHQBMWJNQ"]
+Stacks: ["", "", "BZT", "TLQB", "", "MJBVFHRLSFHN", "DWRNJMRCHFJTSJ", "", "HDLWFTNNGBTRLSDHQBMWJNQ"]
+Move: move 4 from 4 to 9
+	From: TLQB
+	To: HDLWFTNNGBTRLSDHQBMWJNQ
+	Amt: 4
+After operations:
+From: 
+To: HDLWFTNNGBTRLSDHQBMWJNQTLQB
+Stacks: ["", "", "BZT", "", "", "MJBVFHRLSFHN", "DWRNJMRCHFJTSJ", "", "HDLWFTNNGBTRLSDHQBMWJNQTLQB"]
+Stacks: ["", "", "BZT", "", "", "MJBVFHRLSFHN", "DWRNJMRCHFJTSJ", "", "HDLWFTNNGBTRLSDHQBMWJNQTLQB"]
+Move: move 8 from 6 to 3
+	From: MJBVFHRLSFHN
+	To: BZT
+	Amt: 8
+After operations:
+From: MJBV
+To: BZTFHRLSFHN
+Stacks: ["", "", "BZTFHRLSFHN", "", "", "MJBV", "DWRNJMRCHFJTSJ", "", "HDLWFTNNGBTRLSDHQBMWJNQTLQB"]
+Stacks: ["", "", "BZTFHRLSFHN", "", "", "MJBV", "DWRNJMRCHFJTSJ", "", "HDLWFTNNGBTRLSDHQBMWJNQTLQB"]
+Move: move 6 from 7 to 1
+	From: DWRNJMRCHFJTSJ
+	To: 
+	Amt: 6
+After operations:
+From: DWRNJMRC
+To: HFJTSJ
+Stacks: ["HFJTSJ", "", "BZTFHRLSFHN", "", "", "MJBV", "DWRNJMRC", "", "HDLWFTNNGBTRLSDHQBMWJNQTLQB"]
+Stacks: ["HFJTSJ", "", "BZTFHRLSFHN", "", "", "MJBV", "DWRNJMRC", "", "HDLWFTNNGBTRLSDHQBMWJNQTLQB"]
+Move: move 12 from 9 to 8
+	From: HDLWFTNNGBTRLSDHQBMWJNQTLQB
+	To: 
+	Amt: 12
+After operations:
+From: HDLWFTNNGBTRLSD
+To: HQBMWJNQTLQB
+Stacks: ["HFJTSJ", "", "BZTFHRLSFHN", "", "", "MJBV", "DWRNJMRC", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSD"]
+Stacks: ["HFJTSJ", "", "BZTFHRLSFHN", "", "", "MJBV", "DWRNJMRC", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSD"]
+Move: move 6 from 7 to 2
+	From: DWRNJMRC
+	To: 
+	Amt: 6
+After operations:
+From: DW
+To: RNJMRC
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "", "MJBV", "DW", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSD"]
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "", "MJBV", "DW", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSD"]
+Move: move 3 from 6 to 5
+	From: MJBV
+	To: 
+	Amt: 3
+After operations:
+From: M
+To: JBV
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBV", "M", "DW", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSD"]
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBV", "M", "DW", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSD"]
+Move: move 1 from 6 to 9
+	From: M
+	To: HDLWFTNNGBTRLSD
+	Amt: 1
+After operations:
+From: 
+To: HDLWFTNNGBTRLSDM
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBV", "", "DW", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBV", "", "DW", "HQBMWJNQTLQB", "HDLWFTNNGBTRLSDM"]
+Move: move 4 from 8 to 6
+	From: HQBMWJNQTLQB
+	To: 
+	Amt: 4
+After operations:
+From: HQBMWJNQ
+To: TLQB
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBV", "TLQB", "DW", "HQBMWJNQ", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBV", "TLQB", "DW", "HQBMWJNQ", "HDLWFTNNGBTRLSDM"]
+Move: move 3 from 8 to 5
+	From: HQBMWJNQ
+	To: JBV
+	Amt: 3
+After operations:
+From: HQBMW
+To: JBVJNQ
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBVJNQ", "TLQB", "DW", "HQBMW", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFJTSJ", "RNJMRC", "BZTFHRLSFHN", "", "JBVJNQ", "TLQB", "DW", "HQBMW", "HDLWFTNNGBTRLSDM"]
+Move: move 4 from 1 to 8
+	From: HFJTSJ
+	To: HQBMW
+	Amt: 4
+After operations:
+From: HF
+To: HQBMWJTSJ
+Stacks: ["HF", "RNJMRC", "BZTFHRLSFHN", "", "JBVJNQ", "TLQB", "DW", "HQBMWJTSJ", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HF", "RNJMRC", "BZTFHRLSFHN", "", "JBVJNQ", "TLQB", "DW", "HQBMWJTSJ", "HDLWFTNNGBTRLSDM"]
+Move: move 4 from 6 to 1
+	From: TLQB
+	To: HF
+	Amt: 4
+After operations:
+From: 
+To: HFTLQB
+Stacks: ["HFTLQB", "RNJMRC", "BZTFHRLSFHN", "", "JBVJNQ", "", "DW", "HQBMWJTSJ", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTLQB", "RNJMRC", "BZTFHRLSFHN", "", "JBVJNQ", "", "DW", "HQBMWJTSJ", "HDLWFTNNGBTRLSDM"]
+Move: move 2 from 1 to 3
+	From: HFTLQB
+	To: BZTFHRLSFHN
+	Amt: 2
+After operations:
+From: HFTL
+To: BZTFHRLSFHNQB
+Stacks: ["HFTL", "RNJMRC", "BZTFHRLSFHNQB", "", "JBVJNQ", "", "DW", "HQBMWJTSJ", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTL", "RNJMRC", "BZTFHRLSFHNQB", "", "JBVJNQ", "", "DW", "HQBMWJTSJ", "HDLWFTNNGBTRLSDM"]
+Move: move 1 from 5 to 8
+	From: JBVJNQ
+	To: HQBMWJTSJ
+	Amt: 1
+After operations:
+From: JBVJN
+To: HQBMWJTSJQ
+Stacks: ["HFTL", "RNJMRC", "BZTFHRLSFHNQB", "", "JBVJN", "", "DW", "HQBMWJTSJQ", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTL", "RNJMRC", "BZTFHRLSFHNQB", "", "JBVJN", "", "DW", "HQBMWJTSJQ", "HDLWFTNNGBTRLSDM"]
+Move: move 2 from 2 to 8
+	From: RNJMRC
+	To: HQBMWJTSJQ
+	Amt: 2
+After operations:
+From: RNJM
+To: HQBMWJTSJQRC
+Stacks: ["HFTL", "RNJM", "BZTFHRLSFHNQB", "", "JBVJN", "", "DW", "HQBMWJTSJQRC", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTL", "RNJM", "BZTFHRLSFHNQB", "", "JBVJN", "", "DW", "HQBMWJTSJQRC", "HDLWFTNNGBTRLSDM"]
+Move: move 5 from 8 to 3
+	From: HQBMWJTSJQRC
+	To: BZTFHRLSFHNQB
+	Amt: 5
+After operations:
+From: HQBMWJT
+To: BZTFHRLSFHNQBSJQRC
+Stacks: ["HFTL", "RNJM", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DW", "HQBMWJT", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTL", "RNJM", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DW", "HQBMWJT", "HDLWFTNNGBTRLSDM"]
+Move: move 4 from 2 to 7
+	From: RNJM
+	To: DW
+	Amt: 4
+After operations:
+From: 
+To: DWRNJM
+Stacks: ["HFTL", "", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJM", "HQBMWJT", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTL", "", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJM", "HQBMWJT", "HDLWFTNNGBTRLSDM"]
+Move: move 5 from 8 to 1
+	From: HQBMWJT
+	To: HFTL
+	Amt: 5
+After operations:
+From: HQ
+To: HFTLBMWJT
+Stacks: ["HFTLBMWJT", "", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJM", "HQ", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTLBMWJT", "", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJM", "HQ", "HDLWFTNNGBTRLSDM"]
+Move: move 2 from 1 to 7
+	From: HFTLBMWJT
+	To: DWRNJM
+	Amt: 2
+After operations:
+From: HFTLBMW
+To: DWRNJMJT
+Stacks: ["HFTLBMW", "", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJT", "HQ", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTLBMW", "", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJT", "HQ", "HDLWFTNNGBTRLSDM"]
+Move: move 1 from 8 to 2
+	From: HQ
+	To: 
+	Amt: 1
+After operations:
+From: H
+To: Q
+Stacks: ["HFTLBMW", "Q", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJT", "H", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTLBMW", "Q", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJT", "H", "HDLWFTNNGBTRLSDM"]
+Move: move 2 from 1 to 7
+	From: HFTLBMW
+	To: DWRNJMJT
+	Amt: 2
+After operations:
+From: HFTLB
+To: DWRNJMJTMW
+Stacks: ["HFTLB", "Q", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJTMW", "H", "HDLWFTNNGBTRLSDM"]
+Stacks: ["HFTLB", "Q", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJTMW", "H", "HDLWFTNNGBTRLSDM"]
+Move: move 11 from 9 to 2
+	From: HDLWFTNNGBTRLSDM
+	To: Q
+	Amt: 11
+After operations:
+From: HDLWF
+To: QTNNGBTRLSDM
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJTMW", "H", "HDLWF"]
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "JBVJN", "", "DWRNJMJTMW", "H", "HDLWF"]
+Move: move 1 from 8 to 5
+	From: H
+	To: JBVJN
+	Amt: 1
+After operations:
+From: 
+To: JBVJNH
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "JBVJNH", "", "DWRNJMJTMW", "", "HDLWF"]
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "JBVJNH", "", "DWRNJMJTMW", "", "HDLWF"]
+Move: move 2 from 9 to 4
+	From: HDLWF
+	To: 
+	Amt: 2
+After operations:
+From: HDL
+To: WF
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "JBVJNH", "", "DWRNJMJTMW", "", "HDL"]
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "JBVJNH", "", "DWRNJMJTMW", "", "HDL"]
+Move: move 3 from 9 to 5
+	From: HDL
+	To: JBVJNH
+	Amt: 3
+After operations:
+From: 
+To: JBVJNHHDL
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "JBVJNHHDL", "", "DWRNJMJTMW", "", ""]
+Stacks: ["HFTLB", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "JBVJNHHDL", "", "DWRNJMJTMW", "", ""]
+Move: move 2 from 5 to 1
+	From: JBVJNHHDL
+	To: HFTLB
+	Amt: 2
+After operations:
+From: JBVJNHH
+To: HFTLBDL
+Stacks: ["HFTLBDL", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "JBVJNHH", "", "DWRNJMJTMW", "", ""]
+Stacks: ["HFTLBDL", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "JBVJNHH", "", "DWRNJMJTMW", "", ""]
+Move: move 6 from 5 to 8
+	From: JBVJNHH
+	To: 
+	Amt: 6
+After operations:
+From: J
+To: BVJNHH
+Stacks: ["HFTLBDL", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "J", "", "DWRNJMJTMW", "BVJNHH", ""]
+Stacks: ["HFTLBDL", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "WF", "J", "", "DWRNJMJTMW", "BVJNHH", ""]
+Move: move 2 from 4 to 2
+	From: WF
+	To: QTNNGBTRLSDM
+	Amt: 2
+After operations:
+From: 
+To: QTNNGBTRLSDMWF
+Stacks: ["HFTLBDL", "QTNNGBTRLSDMWF", "BZTFHRLSFHNQBSJQRC", "", "J", "", "DWRNJMJTMW", "BVJNHH", ""]
+Stacks: ["HFTLBDL", "QTNNGBTRLSDMWF", "BZTFHRLSFHNQBSJQRC", "", "J", "", "DWRNJMJTMW", "BVJNHH", ""]
+Move: move 1 from 5 to 6
+	From: J
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: J
+Stacks: ["HFTLBDL", "QTNNGBTRLSDMWF", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMW", "BVJNHH", ""]
+Stacks: ["HFTLBDL", "QTNNGBTRLSDMWF", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMW", "BVJNHH", ""]
+Move: move 7 from 1 to 8
+	From: HFTLBDL
+	To: BVJNHH
+	Amt: 7
+After operations:
+From: 
+To: BVJNHHHFTLBDL
+Stacks: ["", "QTNNGBTRLSDMWF", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMW", "BVJNHHHFTLBDL", ""]
+Stacks: ["", "QTNNGBTRLSDMWF", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMW", "BVJNHHHFTLBDL", ""]
+Move: move 2 from 2 to 7
+	From: QTNNGBTRLSDMWF
+	To: DWRNJMJTMW
+	Amt: 2
+After operations:
+From: QTNNGBTRLSDM
+To: DWRNJMJTMWWF
+Stacks: ["", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMWWF", "BVJNHHHFTLBDL", ""]
+Stacks: ["", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMWWF", "BVJNHHHFTLBDL", ""]
+Move: move 13 from 8 to 1
+	From: BVJNHHHFTLBDL
+	To: 
+	Amt: 13
+After operations:
+From: 
+To: BVJNHHHFTLBDL
+Stacks: ["BVJNHHHFTLBDL", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMWWF", "", ""]
+Stacks: ["BVJNHHHFTLBDL", "QTNNGBTRLSDM", "BZTFHRLSFHNQBSJQRC", "", "", "J", "DWRNJMJTMWWF", "", ""]
+Move: move 16 from 3 to 1
+	From: BZTFHRLSFHNQBSJQRC
+	To: BVJNHHHFTLBDL
+	Amt: 16
+After operations:
+From: BZ
+To: BVJNHHHFTLBDLTFHRLSFHNQBSJQRC
+Stacks: ["BVJNHHHFTLBDLTFHRLSFHNQBSJQRC", "QTNNGBTRLSDM", "BZ", "", "", "J", "DWRNJMJTMWWF", "", ""]
+Stacks: ["BVJNHHHFTLBDLTFHRLSFHNQBSJQRC", "QTNNGBTRLSDM", "BZ", "", "", "J", "DWRNJMJTMWWF", "", ""]
+Move: move 3 from 2 to 1
+	From: QTNNGBTRLSDM
+	To: BVJNHHHFTLBDLTFHRLSFHNQBSJQRC
+	Amt: 3
+After operations:
+From: QTNNGBTRL
+To: BVJNHHHFTLBDLTFHRLSFHNQBSJQRCSDM
+Stacks: ["BVJNHHHFTLBDLTFHRLSFHNQBSJQRCSDM", "QTNNGBTRL", "BZ", "", "", "J", "DWRNJMJTMWWF", "", ""]
+Stacks: ["BVJNHHHFTLBDLTFHRLSFHNQBSJQRCSDM", "QTNNGBTRL", "BZ", "", "", "J", "DWRNJMJTMWWF", "", ""]
+Move: move 12 from 7 to 6
+	From: DWRNJMJTMWWF
+	To: J
+	Amt: 12
+After operations:
+From: 
+To: JDWRNJMJTMWWF
+Stacks: ["BVJNHHHFTLBDLTFHRLSFHNQBSJQRCSDM", "QTNNGBTRL", "BZ", "", "", "JDWRNJMJTMWWF", "", "", ""]
+Stacks: ["BVJNHHHFTLBDLTFHRLSFHNQBSJQRCSDM", "QTNNGBTRL", "BZ", "", "", "JDWRNJMJTMWWF", "", "", ""]
+Move: move 15 from 1 to 8
+	From: BVJNHHHFTLBDLTFHRLSFHNQBSJQRCSDM
+	To: 
+	Amt: 15
+After operations:
+From: BVJNHHHFTLBDLTFHR
+To: LSFHNQBSJQRCSDM
+Stacks: ["BVJNHHHFTLBDLTFHR", "QTNNGBTRL", "BZ", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDM", ""]
+Stacks: ["BVJNHHHFTLBDLTFHR", "QTNNGBTRL", "BZ", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDM", ""]
+Move: move 2 from 3 to 8
+	From: BZ
+	To: LSFHNQBSJQRCSDM
+	Amt: 2
+After operations:
+From: 
+To: LSFHNQBSJQRCSDMBZ
+Stacks: ["BVJNHHHFTLBDLTFHR", "QTNNGBTRL", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZ", ""]
+Stacks: ["BVJNHHHFTLBDLTFHR", "QTNNGBTRL", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZ", ""]
+Move: move 16 from 1 to 2
+	From: BVJNHHHFTLBDLTFHR
+	To: QTNNGBTRL
+	Amt: 16
+After operations:
+From: B
+To: QTNNGBTRLVJNHHHFTLBDLTFHR
+Stacks: ["B", "QTNNGBTRLVJNHHHFTLBDLTFHR", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZ", ""]
+Stacks: ["B", "QTNNGBTRLVJNHHHFTLBDLTFHR", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZ", ""]
+Move: move 24 from 2 to 8
+	From: QTNNGBTRLVJNHHHFTLBDLTFHR
+	To: LSFHNQBSJQRCSDMBZ
+	Amt: 24
+After operations:
+From: Q
+To: LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHR
+Stacks: ["B", "Q", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHR", ""]
+Stacks: ["B", "Q", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHR", ""]
+Move: move 1 from 1 to 5
+	From: B
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: B
+Stacks: ["", "Q", "", "", "B", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHR", ""]
+Stacks: ["", "Q", "", "", "B", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHR", ""]
+Move: move 1 from 5 to 8
+	From: B
+	To: LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHR
+	Amt: 1
+After operations:
+From: 
+To: LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHRB
+Stacks: ["", "Q", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHRB", ""]
+Stacks: ["", "Q", "", "", "", "JDWRNJMJTMWWF", "", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHRB", ""]
+Move: move 3 from 6 to 7
+	From: JDWRNJMJTMWWF
+	To: 
+	Amt: 3
+After operations:
+From: JDWRNJMJTM
+To: WWF
+Stacks: ["", "Q", "", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHRB", ""]
+Stacks: ["", "Q", "", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHRB", ""]
+Move: move 26 from 8 to 3
+	From: LSFHNQBSJQRCSDMBZTNNGBTRLVJNHHHFTLBDLTFHRB
+	To: 
+	Amt: 26
+After operations:
+From: LSFHNQBSJQRCSDMB
+To: ZTNNGBTRLVJNHHHFTLBDLTFHRB
+Stacks: ["", "Q", "ZTNNGBTRLVJNHHHFTLBDLTFHRB", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", ""]
+Stacks: ["", "Q", "ZTNNGBTRLVJNHHHFTLBDLTFHRB", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", ""]
+Move: move 20 from 3 to 9
+	From: ZTNNGBTRLVJNHHHFTLBDLTFHRB
+	To: 
+	Amt: 20
+After operations:
+From: ZTNNGB
+To: TRLVJNHHHFTLBDLTFHRB
+Stacks: ["", "Q", "ZTNNGB", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJNHHHFTLBDLTFHRB"]
+Stacks: ["", "Q", "ZTNNGB", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJNHHHFTLBDLTFHRB"]
+Move: move 1 from 2 to 9
+	From: Q
+	To: TRLVJNHHHFTLBDLTFHRB
+	Amt: 1
+After operations:
+From: 
+To: TRLVJNHHHFTLBDLTFHRBQ
+Stacks: ["", "", "ZTNNGB", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJNHHHFTLBDLTFHRBQ"]
+Stacks: ["", "", "ZTNNGB", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJNHHHFTLBDLTFHRBQ"]
+Move: move 16 from 9 to 3
+	From: TRLVJNHHHFTLBDLTFHRBQ
+	To: ZTNNGB
+	Amt: 16
+After operations:
+From: TRLVJ
+To: ZTNNGBNHHHFTLBDLTFHRBQ
+Stacks: ["", "", "ZTNNGBNHHHFTLBDLTFHRBQ", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Stacks: ["", "", "ZTNNGBNHHHFTLBDLTFHRBQ", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Move: move 14 from 3 to 1
+	From: ZTNNGBNHHHFTLBDLTFHRBQ
+	To: 
+	Amt: 14
+After operations:
+From: ZTNNGBNH
+To: HHFTLBDLTFHRBQ
+Stacks: ["HHFTLBDLTFHRBQ", "", "ZTNNGBNH", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Stacks: ["HHFTLBDLTFHRBQ", "", "ZTNNGBNH", "", "", "JDWRNJMJTM", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Move: move 13 from 1 to 6
+	From: HHFTLBDLTFHRBQ
+	To: JDWRNJMJTM
+	Amt: 13
+After operations:
+From: H
+To: JDWRNJMJTMHFTLBDLTFHRBQ
+Stacks: ["H", "", "ZTNNGBNH", "", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Stacks: ["H", "", "ZTNNGBNH", "", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Move: move 3 from 3 to 4
+	From: ZTNNGBNH
+	To: 
+	Amt: 3
+After operations:
+From: ZTNNG
+To: BNH
+Stacks: ["H", "", "ZTNNG", "BNH", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Stacks: ["H", "", "ZTNNG", "BNH", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WWF", "LSFHNQBSJQRCSDMB", "TRLVJ"]
+Move: move 3 from 9 to 4
+	From: TRLVJ
+	To: BNH
+	Amt: 3
+After operations:
+From: TR
+To: BNHLVJ
+Stacks: ["H", "", "ZTNNG", "BNHLVJ", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WWF", "LSFHNQBSJQRCSDMB", "TR"]
+Stacks: ["H", "", "ZTNNG", "BNHLVJ", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WWF", "LSFHNQBSJQRCSDMB", "TR"]
+Move: move 1 from 7 to 8
+	From: WWF
+	To: LSFHNQBSJQRCSDMB
+	Amt: 1
+After operations:
+From: WW
+To: LSFHNQBSJQRCSDMBF
+Stacks: ["H", "", "ZTNNG", "BNHLVJ", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WW", "LSFHNQBSJQRCSDMBF", "TR"]
+Stacks: ["H", "", "ZTNNG", "BNHLVJ", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WW", "LSFHNQBSJQRCSDMBF", "TR"]
+Move: move 5 from 8 to 2
+	From: LSFHNQBSJQRCSDMBF
+	To: 
+	Amt: 5
+After operations:
+From: LSFHNQBSJQRC
+To: SDMBF
+Stacks: ["H", "SDMBF", "ZTNNG", "BNHLVJ", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WW", "LSFHNQBSJQRC", "TR"]
+Stacks: ["H", "SDMBF", "ZTNNG", "BNHLVJ", "", "JDWRNJMJTMHFTLBDLTFHRBQ", "WW", "LSFHNQBSJQRC", "TR"]
+Move: move 8 from 8 to 5
+	From: LSFHNQBSJQRC
+	To: 
+	Amt: 8
+After operations:
+From: LSFH
+To: NQBSJQRC
+Stacks: ["H", "SDMBF", "ZTNNG", "BNHLVJ", "NQBSJQRC", "JDWRNJMJTMHFTLBDLTFHRBQ", "WW", "LSFH", "TR"]
+Stacks: ["H", "SDMBF", "ZTNNG", "BNHLVJ", "NQBSJQRC", "JDWRNJMJTMHFTLBDLTFHRBQ", "WW", "LSFH", "TR"]
+Move: move 18 from 6 to 1
+	From: JDWRNJMJTMHFTLBDLTFHRBQ
+	To: H
+	Amt: 18
+After operations:
+From: JDWRN
+To: HJMJTMHFTLBDLTFHRBQ
+Stacks: ["HJMJTMHFTLBDLTFHRBQ", "SDMBF", "ZTNNG", "BNHLVJ", "NQBSJQRC", "JDWRN", "WW", "LSFH", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQ", "SDMBF", "ZTNNG", "BNHLVJ", "NQBSJQRC", "JDWRN", "WW", "LSFH", "TR"]
+Move: move 4 from 8 to 5
+	From: LSFH
+	To: NQBSJQRC
+	Amt: 4
+After operations:
+From: 
+To: NQBSJQRCLSFH
+Stacks: ["HJMJTMHFTLBDLTFHRBQ", "SDMBF", "ZTNNG", "BNHLVJ", "NQBSJQRCLSFH", "JDWRN", "WW", "", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQ", "SDMBF", "ZTNNG", "BNHLVJ", "NQBSJQRCLSFH", "JDWRN", "WW", "", "TR"]
+Move: move 6 from 4 to 1
+	From: BNHLVJ
+	To: HJMJTMHFTLBDLTFHRBQ
+	Amt: 6
+After operations:
+From: 
+To: HJMJTMHFTLBDLTFHRBQBNHLVJ
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDMBF", "ZTNNG", "", "NQBSJQRCLSFH", "JDWRN", "WW", "", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDMBF", "ZTNNG", "", "NQBSJQRCLSFH", "JDWRN", "WW", "", "TR"]
+Move: move 2 from 2 to 5
+	From: SDMBF
+	To: NQBSJQRCLSFH
+	Amt: 2
+After operations:
+From: SDM
+To: NQBSJQRCLSFHBF
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "ZTNNG", "", "NQBSJQRCLSFHBF", "JDWRN", "WW", "", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "ZTNNG", "", "NQBSJQRCLSFHBF", "JDWRN", "WW", "", "TR"]
+Move: move 5 from 3 to 8
+	From: ZTNNG
+	To: 
+	Amt: 5
+After operations:
+From: 
+To: ZTNNG
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "", "NQBSJQRCLSFHBF", "JDWRN", "WW", "ZTNNG", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "", "NQBSJQRCLSFHBF", "JDWRN", "WW", "ZTNNG", "TR"]
+Move: move 5 from 8 to 7
+	From: ZTNNG
+	To: WW
+	Amt: 5
+After operations:
+From: 
+To: WWZTNNG
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "", "NQBSJQRCLSFHBF", "JDWRN", "WWZTNNG", "", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "", "NQBSJQRCLSFHBF", "JDWRN", "WWZTNNG", "", "TR"]
+Move: move 2 from 5 to 8
+	From: NQBSJQRCLSFHBF
+	To: 
+	Amt: 2
+After operations:
+From: NQBSJQRCLSFH
+To: BF
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "", "NQBSJQRCLSFH", "JDWRN", "WWZTNNG", "BF", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "", "NQBSJQRCLSFH", "JDWRN", "WWZTNNG", "BF", "TR"]
+Move: move 5 from 5 to 4
+	From: NQBSJQRCLSFH
+	To: 
+	Amt: 5
+After operations:
+From: NQBSJQR
+To: CLSFH
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BF", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "SDM", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BF", "TR"]
+Move: move 3 from 2 to 8
+	From: SDM
+	To: BF
+	Amt: 3
+After operations:
+From: 
+To: BFSDM
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BFSDM", "TR"]
+Stacks: ["HJMJTMHFTLBDLTFHRBQBNHLVJ", "", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BFSDM", "TR"]
+Move: move 22 from 1 to 2
+	From: HJMJTMHFTLBDLTFHRBQBNHLVJ
+	To: 
+	Amt: 22
+After operations:
+From: HJM
+To: JTMHFTLBDLTFHRBQBNHLVJ
+Stacks: ["HJM", "JTMHFTLBDLTFHRBQBNHLVJ", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BFSDM", "TR"]
+Stacks: ["HJM", "JTMHFTLBDLTFHRBQBNHLVJ", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BFSDM", "TR"]
+Move: move 1 from 1 to 2
+	From: HJM
+	To: JTMHFTLBDLTFHRBQBNHLVJ
+	Amt: 1
+After operations:
+From: HJ
+To: JTMHFTLBDLTFHRBQBNHLVJM
+Stacks: ["HJ", "JTMHFTLBDLTFHRBQBNHLVJM", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BFSDM", "TR"]
+Stacks: ["HJ", "JTMHFTLBDLTFHRBQBNHLVJM", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "BFSDM", "TR"]
+Move: move 5 from 8 to 2
+	From: BFSDM
+	To: JTMHFTLBDLTFHRBQBNHLVJM
+	Amt: 5
+After operations:
+From: 
+To: JTMHFTLBDLTFHRBQBNHLVJMBFSDM
+Stacks: ["HJ", "JTMHFTLBDLTFHRBQBNHLVJMBFSDM", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "", "TR"]
+Stacks: ["HJ", "JTMHFTLBDLTFHRBQBNHLVJMBFSDM", "", "CLSFH", "NQBSJQR", "JDWRN", "WWZTNNG", "", "TR"]
+Move: move 2 from 5 to 2
+	From: NQBSJQR
+	To: JTMHFTLBDLTFHRBQBNHLVJMBFSDM
+	Amt: 2
+After operations:
+From: NQBSJ
+To: JTMHFTLBDLTFHRBQBNHLVJMBFSDMQR
+Stacks: ["HJ", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQR", "", "CLSFH", "NQBSJ", "JDWRN", "WWZTNNG", "", "TR"]
+Stacks: ["HJ", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQR", "", "CLSFH", "NQBSJ", "JDWRN", "WWZTNNG", "", "TR"]
+Move: move 1 from 1 to 6
+	From: HJ
+	To: JDWRN
+	Amt: 1
+After operations:
+From: H
+To: JDWRNJ
+Stacks: ["H", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQR", "", "CLSFH", "NQBSJ", "JDWRNJ", "WWZTNNG", "", "TR"]
+Stacks: ["H", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQR", "", "CLSFH", "NQBSJ", "JDWRNJ", "WWZTNNG", "", "TR"]
+Move: move 5 from 5 to 2
+	From: NQBSJ
+	To: JTMHFTLBDLTFHRBQBNHLVJMBFSDMQR
+	Amt: 5
+After operations:
+From: 
+To: JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ
+Stacks: ["H", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "CLSFH", "", "JDWRNJ", "WWZTNNG", "", "TR"]
+Stacks: ["H", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "CLSFH", "", "JDWRNJ", "WWZTNNG", "", "TR"]
+Move: move 1 from 9 to 8
+	From: TR
+	To: 
+	Amt: 1
+After operations:
+From: T
+To: R
+Stacks: ["H", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "CLSFH", "", "JDWRNJ", "WWZTNNG", "R", "T"]
+Stacks: ["H", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "CLSFH", "", "JDWRNJ", "WWZTNNG", "R", "T"]
+Move: move 5 from 4 to 1
+	From: CLSFH
+	To: H
+	Amt: 5
+After operations:
+From: 
+To: HCLSFH
+Stacks: ["HCLSFH", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "JDWRNJ", "WWZTNNG", "R", "T"]
+Stacks: ["HCLSFH", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "JDWRNJ", "WWZTNNG", "R", "T"]
+Move: move 6 from 6 to 9
+	From: JDWRNJ
+	To: T
+	Amt: 6
+After operations:
+From: 
+To: TJDWRNJ
+Stacks: ["HCLSFH", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "", "WWZTNNG", "R", "TJDWRNJ"]
+Stacks: ["HCLSFH", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "", "WWZTNNG", "R", "TJDWRNJ"]
+Move: move 3 from 1 to 9
+	From: HCLSFH
+	To: TJDWRNJ
+	Amt: 3
+After operations:
+From: HCL
+To: TJDWRNJSFH
+Stacks: ["HCL", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "", "WWZTNNG", "R", "TJDWRNJSFH"]
+Stacks: ["HCL", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "", "WWZTNNG", "R", "TJDWRNJSFH"]
+Move: move 1 from 1 to 7
+	From: HCL
+	To: WWZTNNG
+	Amt: 1
+After operations:
+From: HC
+To: WWZTNNGL
+Stacks: ["HC", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "", "WWZTNNGL", "R", "TJDWRNJSFH"]
+Stacks: ["HC", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "", "WWZTNNGL", "R", "TJDWRNJSFH"]
+Move: move 8 from 9 to 6
+	From: TJDWRNJSFH
+	To: 
+	Amt: 8
+After operations:
+From: TJ
+To: DWRNJSFH
+Stacks: ["HC", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "DWRNJSFH", "WWZTNNGL", "R", "TJ"]
+Stacks: ["HC", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "DWRNJSFH", "WWZTNNGL", "R", "TJ"]
+Move: move 6 from 7 to 1
+	From: WWZTNNGL
+	To: HC
+	Amt: 6
+After operations:
+From: WW
+To: HCZTNNGL
+Stacks: ["HCZTNNGL", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "DWRNJSFH", "WW", "R", "TJ"]
+Stacks: ["HCZTNNGL", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "", "DWRNJSFH", "WW", "R", "TJ"]
+Move: move 5 from 6 to 5
+	From: DWRNJSFH
+	To: 
+	Amt: 5
+After operations:
+From: DWR
+To: NJSFH
+Stacks: ["HCZTNNGL", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "NJSFH", "DWR", "WW", "R", "TJ"]
+Stacks: ["HCZTNNGL", "JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "", "", "NJSFH", "DWR", "WW", "R", "TJ"]
+Move: move 27 from 2 to 1
+	From: JTMHFTLBDLTFHRBQBNHLVJMBFSDMQRNQBSJ
+	To: HCZTNNGL
+	Amt: 27
+After operations:
+From: JTMHFTLB
+To: HCZTNNGLDLTFHRBQBNHLVJMBFSDMQRNQBSJ
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "JTMHFTLB", "", "", "NJSFH", "DWR", "WW", "R", "TJ"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "JTMHFTLB", "", "", "NJSFH", "DWR", "WW", "R", "TJ"]
+Move: move 4 from 5 to 7
+	From: NJSFH
+	To: WW
+	Amt: 4
+After operations:
+From: N
+To: WWJSFH
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "JTMHFTLB", "", "", "N", "DWR", "WWJSFH", "R", "TJ"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSDMQRNQBSJ", "JTMHFTLB", "", "", "N", "DWR", "WWJSFH", "R", "TJ"]
+Move: move 9 from 1 to 5
+	From: HCZTNNGLDLTFHRBQBNHLVJMBFSDMQRNQBSJ
+	To: N
+	Amt: 9
+After operations:
+From: HCZTNNGLDLTFHRBQBNHLVJMBFS
+To: NDMQRNQBSJ
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFS", "JTMHFTLB", "", "", "NDMQRNQBSJ", "DWR", "WWJSFH", "R", "TJ"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFS", "JTMHFTLB", "", "", "NDMQRNQBSJ", "DWR", "WWJSFH", "R", "TJ"]
+Move: move 1 from 9 to 1
+	From: TJ
+	To: HCZTNNGLDLTFHRBQBNHLVJMBFS
+	Amt: 1
+After operations:
+From: T
+To: HCZTNNGLDLTFHRBQBNHLVJMBFSJ
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJ", "JTMHFTLB", "", "", "NDMQRNQBSJ", "DWR", "WWJSFH", "R", "T"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJ", "JTMHFTLB", "", "", "NDMQRNQBSJ", "DWR", "WWJSFH", "R", "T"]
+Move: move 3 from 6 to 2
+	From: DWR
+	To: JTMHFTLB
+	Amt: 3
+After operations:
+From: 
+To: JTMHFTLBDWR
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJ", "JTMHFTLBDWR", "", "", "NDMQRNQBSJ", "", "WWJSFH", "R", "T"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJ", "JTMHFTLBDWR", "", "", "NDMQRNQBSJ", "", "WWJSFH", "R", "T"]
+Move: move 9 from 2 to 1
+	From: JTMHFTLBDWR
+	To: HCZTNNGLDLTFHRBQBNHLVJMBFSJ
+	Amt: 9
+After operations:
+From: JT
+To: HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JT", "", "", "NDMQRNQBSJ", "", "WWJSFH", "R", "T"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JT", "", "", "NDMQRNQBSJ", "", "WWJSFH", "R", "T"]
+Move: move 2 from 7 to 2
+	From: WWJSFH
+	To: JT
+	Amt: 2
+After operations:
+From: WWJS
+To: JTFH
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "NDMQRNQBSJ", "", "WWJS", "R", "T"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "NDMQRNQBSJ", "", "WWJS", "R", "T"]
+Move: move 1 from 8 to 7
+	From: R
+	To: WWJS
+	Amt: 1
+After operations:
+From: 
+To: WWJSR
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "NDMQRNQBSJ", "", "WWJSR", "", "T"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "NDMQRNQBSJ", "", "WWJSR", "", "T"]
+Move: move 10 from 5 to 9
+	From: NDMQRNQBSJ
+	To: T
+	Amt: 10
+After operations:
+From: 
+To: TNDMQRNQBSJ
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "", "", "WWJSR", "", "TNDMQRNQBSJ"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "", "", "WWJSR", "", "TNDMQRNQBSJ"]
+Move: move 1 from 9 to 7
+	From: TNDMQRNQBSJ
+	To: WWJSR
+	Amt: 1
+After operations:
+From: TNDMQRNQBS
+To: WWJSRJ
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "", "", "WWJSRJ", "", "TNDMQRNQBS"]
+Stacks: ["HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR", "JTFH", "", "", "", "", "WWJSRJ", "", "TNDMQRNQBS"]
+Move: move 25 from 1 to 8
+	From: HCZTNNGLDLTFHRBQBNHLVJMBFSJMHFTLBDWR
+	To: 
+	Amt: 25
+After operations:
+From: HCZTNNGLDLT
+To: FHRBQBNHLVJMBFSJMHFTLBDWR
+Stacks: ["HCZTNNGLDLT", "JTFH", "", "", "", "", "WWJSRJ", "FHRBQBNHLVJMBFSJMHFTLBDWR", "TNDMQRNQBS"]
+Stacks: ["HCZTNNGLDLT", "JTFH", "", "", "", "", "WWJSRJ", "FHRBQBNHLVJMBFSJMHFTLBDWR", "TNDMQRNQBS"]
+Move: move 6 from 7 to 4
+	From: WWJSRJ
+	To: 
+	Amt: 6
+After operations:
+From: 
+To: WWJSRJ
+Stacks: ["HCZTNNGLDLT", "JTFH", "", "WWJSRJ", "", "", "", "FHRBQBNHLVJMBFSJMHFTLBDWR", "TNDMQRNQBS"]
+Stacks: ["HCZTNNGLDLT", "JTFH", "", "WWJSRJ", "", "", "", "FHRBQBNHLVJMBFSJMHFTLBDWR", "TNDMQRNQBS"]
+Move: move 11 from 1 to 7
+	From: HCZTNNGLDLT
+	To: 
+	Amt: 11
+After operations:
+From: 
+To: HCZTNNGLDLT
+Stacks: ["", "JTFH", "", "WWJSRJ", "", "", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHFTLBDWR", "TNDMQRNQBS"]
+Stacks: ["", "JTFH", "", "WWJSRJ", "", "", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHFTLBDWR", "TNDMQRNQBS"]
+Move: move 3 from 8 to 1
+	From: FHRBQBNHLVJMBFSJMHFTLBDWR
+	To: 
+	Amt: 3
+After operations:
+From: FHRBQBNHLVJMBFSJMHFTLB
+To: DWR
+Stacks: ["DWR", "JTFH", "", "WWJSRJ", "", "", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHFTLB", "TNDMQRNQBS"]
+Stacks: ["DWR", "JTFH", "", "WWJSRJ", "", "", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHFTLB", "TNDMQRNQBS"]
+Move: move 3 from 2 to 6
+	From: JTFH
+	To: 
+	Amt: 3
+After operations:
+From: J
+To: TFH
+Stacks: ["DWR", "J", "", "WWJSRJ", "", "TFH", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHFTLB", "TNDMQRNQBS"]
+Stacks: ["DWR", "J", "", "WWJSRJ", "", "TFH", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHFTLB", "TNDMQRNQBS"]
+Move: move 3 from 8 to 9
+	From: FHRBQBNHLVJMBFSJMHFTLB
+	To: TNDMQRNQBS
+	Amt: 3
+After operations:
+From: FHRBQBNHLVJMBFSJMHF
+To: TNDMQRNQBSTLB
+Stacks: ["DWR", "J", "", "WWJSRJ", "", "TFH", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHF", "TNDMQRNQBSTLB"]
+Stacks: ["DWR", "J", "", "WWJSRJ", "", "TFH", "HCZTNNGLDLT", "FHRBQBNHLVJMBFSJMHF", "TNDMQRNQBSTLB"]
+Move: move 11 from 8 to 6
+	From: FHRBQBNHLVJMBFSJMHF
+	To: TFH
+	Amt: 11
+After operations:
+From: FHRBQBNH
+To: TFHLVJMBFSJMHF
+Stacks: ["DWR", "J", "", "WWJSRJ", "", "TFHLVJMBFSJMHF", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Stacks: ["DWR", "J", "", "WWJSRJ", "", "TFHLVJMBFSJMHF", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Move: move 1 from 2 to 6
+	From: J
+	To: TFHLVJMBFSJMHF
+	Amt: 1
+After operations:
+From: 
+To: TFHLVJMBFSJMHFJ
+Stacks: ["DWR", "", "", "WWJSRJ", "", "TFHLVJMBFSJMHFJ", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Stacks: ["DWR", "", "", "WWJSRJ", "", "TFHLVJMBFSJMHFJ", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Move: move 12 from 6 to 4
+	From: TFHLVJMBFSJMHFJ
+	To: WWJSRJ
+	Amt: 12
+After operations:
+From: TFH
+To: WWJSRJLVJMBFSJMHFJ
+Stacks: ["DWR", "", "", "WWJSRJLVJMBFSJMHFJ", "", "TFH", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Stacks: ["DWR", "", "", "WWJSRJLVJMBFSJMHFJ", "", "TFH", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Move: move 13 from 4 to 5
+	From: WWJSRJLVJMBFSJMHFJ
+	To: 
+	Amt: 13
+After operations:
+From: WWJSR
+To: JLVJMBFSJMHFJ
+Stacks: ["DWR", "", "", "WWJSR", "JLVJMBFSJMHFJ", "TFH", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Stacks: ["DWR", "", "", "WWJSR", "JLVJMBFSJMHFJ", "TFH", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Move: move 1 from 6 to 1
+	From: TFH
+	To: DWR
+	Amt: 1
+After operations:
+From: TF
+To: DWRH
+Stacks: ["DWRH", "", "", "WWJSR", "JLVJMBFSJMHFJ", "TF", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Stacks: ["DWRH", "", "", "WWJSR", "JLVJMBFSJMHFJ", "TF", "HCZTNNGLDLT", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Move: move 3 from 7 to 5
+	From: HCZTNNGLDLT
+	To: JLVJMBFSJMHFJ
+	Amt: 3
+After operations:
+From: HCZTNNGL
+To: JLVJMBFSJMHFJDLT
+Stacks: ["DWRH", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TF", "HCZTNNGL", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Stacks: ["DWRH", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TF", "HCZTNNGL", "FHRBQBNH", "TNDMQRNQBSTLB"]
+Move: move 5 from 8 to 7
+	From: FHRBQBNH
+	To: HCZTNNGL
+	Amt: 5
+After operations:
+From: FHR
+To: HCZTNNGLBQBNH
+Stacks: ["DWRH", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TF", "HCZTNNGLBQBNH", "FHR", "TNDMQRNQBSTLB"]
+Stacks: ["DWRH", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TF", "HCZTNNGLBQBNH", "FHR", "TNDMQRNQBSTLB"]
+Move: move 1 from 7 to 1
+	From: HCZTNNGLBQBNH
+	To: DWRH
+	Amt: 1
+After operations:
+From: HCZTNNGLBQBN
+To: DWRHH
+Stacks: ["DWRHH", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TF", "HCZTNNGLBQBN", "FHR", "TNDMQRNQBSTLB"]
+Stacks: ["DWRHH", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TF", "HCZTNNGLBQBN", "FHR", "TNDMQRNQBSTLB"]
+Move: move 5 from 1 to 6
+	From: DWRHH
+	To: TF
+	Amt: 5
+After operations:
+From: 
+To: TFDWRHH
+Stacks: ["", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TFDWRHH", "HCZTNNGLBQBN", "FHR", "TNDMQRNQBSTLB"]
+Stacks: ["", "", "", "WWJSR", "JLVJMBFSJMHFJDLT", "TFDWRHH", "HCZTNNGLBQBN", "FHR", "TNDMQRNQBSTLB"]
+Move: move 3 from 6 to 4
+	From: TFDWRHH
+	To: WWJSR
+	Amt: 3
+After operations:
+From: TFDW
+To: WWJSRRHH
+Stacks: ["", "", "", "WWJSRRHH", "JLVJMBFSJMHFJDLT", "TFDW", "HCZTNNGLBQBN", "FHR", "TNDMQRNQBSTLB"]
+Stacks: ["", "", "", "WWJSRRHH", "JLVJMBFSJMHFJDLT", "TFDW", "HCZTNNGLBQBN", "FHR", "TNDMQRNQBSTLB"]
+Move: move 3 from 8 to 6
+	From: FHR
+	To: TFDW
+	Amt: 3
+After operations:
+From: 
+To: TFDWFHR
+Stacks: ["", "", "", "WWJSRRHH", "JLVJMBFSJMHFJDLT", "TFDWFHR", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLB"]
+Stacks: ["", "", "", "WWJSRRHH", "JLVJMBFSJMHFJDLT", "TFDWFHR", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLB"]
+Move: move 2 from 5 to 2
+	From: JLVJMBFSJMHFJDLT
+	To: 
+	Amt: 2
+After operations:
+From: JLVJMBFSJMHFJD
+To: LT
+Stacks: ["", "LT", "", "WWJSRRHH", "JLVJMBFSJMHFJD", "TFDWFHR", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLB"]
+Stacks: ["", "LT", "", "WWJSRRHH", "JLVJMBFSJMHFJD", "TFDWFHR", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLB"]
+Move: move 12 from 5 to 9
+	From: JLVJMBFSJMHFJD
+	To: TNDMQRNQBSTLB
+	Amt: 12
+After operations:
+From: JL
+To: TNDMQRNQBSTLBVJMBFSJMHFJD
+Stacks: ["", "LT", "", "WWJSRRHH", "JL", "TFDWFHR", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJD"]
+Stacks: ["", "LT", "", "WWJSRRHH", "JL", "TFDWFHR", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJD"]
+Move: move 5 from 6 to 2
+	From: TFDWFHR
+	To: LT
+	Amt: 5
+After operations:
+From: TF
+To: LTDWFHR
+Stacks: ["", "LTDWFHR", "", "WWJSRRHH", "JL", "TF", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJD"]
+Stacks: ["", "LTDWFHR", "", "WWJSRRHH", "JL", "TF", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJD"]
+Move: move 2 from 5 to 9
+	From: JL
+	To: TNDMQRNQBSTLBVJMBFSJMHFJD
+	Amt: 2
+After operations:
+From: 
+To: TNDMQRNQBSTLBVJMBFSJMHFJDJL
+Stacks: ["", "LTDWFHR", "", "WWJSRRHH", "", "TF", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJL"]
+Stacks: ["", "LTDWFHR", "", "WWJSRRHH", "", "TF", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJL"]
+Move: move 6 from 4 to 9
+	From: WWJSRRHH
+	To: TNDMQRNQBSTLBVJMBFSJMHFJDJL
+	Amt: 6
+After operations:
+From: WW
+To: TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH
+Stacks: ["", "LTDWFHR", "", "WW", "", "TF", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["", "LTDWFHR", "", "WW", "", "TF", "HCZTNNGLBQBN", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 11 from 7 to 3
+	From: HCZTNNGLBQBN
+	To: 
+	Amt: 11
+After operations:
+From: H
+To: CZTNNGLBQBN
+Stacks: ["", "LTDWFHR", "CZTNNGLBQBN", "WW", "", "TF", "H", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["", "LTDWFHR", "CZTNNGLBQBN", "WW", "", "TF", "H", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 1 from 2 to 5
+	From: LTDWFHR
+	To: 
+	Amt: 1
+After operations:
+From: LTDWFH
+To: R
+Stacks: ["", "LTDWFH", "CZTNNGLBQBN", "WW", "R", "TF", "H", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["", "LTDWFH", "CZTNNGLBQBN", "WW", "R", "TF", "H", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 1 from 7 to 8
+	From: H
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: H
+Stacks: ["", "LTDWFH", "CZTNNGLBQBN", "WW", "R", "TF", "", "H", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["", "LTDWFH", "CZTNNGLBQBN", "WW", "R", "TF", "", "H", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 1 from 5 to 7
+	From: R
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: R
+Stacks: ["", "LTDWFH", "CZTNNGLBQBN", "WW", "", "TF", "R", "H", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["", "LTDWFH", "CZTNNGLBQBN", "WW", "", "TF", "R", "H", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 1 from 7 to 1
+	From: R
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: R
+Stacks: ["R", "LTDWFH", "CZTNNGLBQBN", "WW", "", "TF", "", "H", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["R", "LTDWFH", "CZTNNGLBQBN", "WW", "", "TF", "", "H", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 1 from 8 to 1
+	From: H
+	To: R
+	Amt: 1
+After operations:
+From: 
+To: RH
+Stacks: ["RH", "LTDWFH", "CZTNNGLBQBN", "WW", "", "TF", "", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["RH", "LTDWFH", "CZTNNGLBQBN", "WW", "", "TF", "", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 2 from 4 to 7
+	From: WW
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: WW
+Stacks: ["RH", "LTDWFH", "CZTNNGLBQBN", "", "", "TF", "WW", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["RH", "LTDWFH", "CZTNNGLBQBN", "", "", "TF", "WW", "", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 2 from 6 to 8
+	From: TF
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: TF
+Stacks: ["RH", "LTDWFH", "CZTNNGLBQBN", "", "", "", "WW", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["RH", "LTDWFH", "CZTNNGLBQBN", "", "", "", "WW", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 5 from 3 to 6
+	From: CZTNNGLBQBN
+	To: 
+	Amt: 5
+After operations:
+From: CZTNNG
+To: LBQBN
+Stacks: ["RH", "LTDWFH", "CZTNNG", "", "", "LBQBN", "WW", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["RH", "LTDWFH", "CZTNNG", "", "", "LBQBN", "WW", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 2 from 7 to 2
+	From: WW
+	To: LTDWFH
+	Amt: 2
+After operations:
+From: 
+To: LTDWFHWW
+Stacks: ["RH", "LTDWFHWW", "CZTNNG", "", "", "LBQBN", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Stacks: ["RH", "LTDWFHWW", "CZTNNG", "", "", "LBQBN", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH"]
+Move: move 2 from 2 to 9
+	From: LTDWFHWW
+	To: TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHH
+	Amt: 2
+After operations:
+From: LTDWFH
+To: TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWW
+Stacks: ["RH", "LTDWFH", "CZTNNG", "", "", "LBQBN", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWW"]
+Stacks: ["RH", "LTDWFH", "CZTNNG", "", "", "LBQBN", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWW"]
+Move: move 1 from 2 to 9
+	From: LTDWFH
+	To: TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWW
+	Amt: 1
+After operations:
+From: LTDWF
+To: TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH
+Stacks: ["RH", "LTDWF", "CZTNNG", "", "", "LBQBN", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH"]
+Stacks: ["RH", "LTDWF", "CZTNNG", "", "", "LBQBN", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH"]
+Move: move 1 from 1 to 6
+	From: RH
+	To: LBQBN
+	Amt: 1
+After operations:
+From: R
+To: LBQBNH
+Stacks: ["R", "LTDWF", "CZTNNG", "", "", "LBQBNH", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH"]
+Stacks: ["R", "LTDWF", "CZTNNG", "", "", "LBQBNH", "", "TF", "TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH"]
+Move: move 35 from 9 to 7
+	From: TNDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH
+	To: 
+	Amt: 35
+After operations:
+From: T
+To: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH
+Stacks: ["R", "LTDWF", "CZTNNG", "", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH", "TF", "T"]
+Stacks: ["R", "LTDWF", "CZTNNG", "", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH", "TF", "T"]
+Move: move 2 from 8 to 7
+	From: TF
+	To: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWH
+	Amt: 2
+After operations:
+From: 
+To: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF
+Stacks: ["R", "LTDWF", "CZTNNG", "", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF", "", "T"]
+Stacks: ["R", "LTDWF", "CZTNNG", "", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF", "", "T"]
+Move: move 3 from 3 to 8
+	From: CZTNNG
+	To: 
+	Amt: 3
+After operations:
+From: CZT
+To: NNG
+Stacks: ["R", "LTDWF", "CZT", "", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF", "NNG", "T"]
+Stacks: ["R", "LTDWF", "CZT", "", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF", "NNG", "T"]
+Move: move 5 from 2 to 4
+	From: LTDWF
+	To: 
+	Amt: 5
+After operations:
+From: 
+To: LTDWF
+Stacks: ["R", "", "CZT", "LTDWF", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF", "NNG", "T"]
+Stacks: ["R", "", "CZT", "LTDWF", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF", "NNG", "T"]
+Move: move 3 from 3 to 7
+	From: CZT
+	To: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTF
+	Amt: 3
+After operations:
+From: 
+To: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZT
+Stacks: ["R", "", "", "LTDWF", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZT", "NNG", "T"]
+Stacks: ["R", "", "", "LTDWF", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZT", "NNG", "T"]
+Move: move 2 from 4 to 7
+	From: LTDWF
+	To: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZT
+	Amt: 2
+After operations:
+From: LTD
+To: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF
+Stacks: ["R", "", "", "LTD", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "T"]
+Stacks: ["R", "", "", "LTD", "", "LBQBNH", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "T"]
+Move: move 4 from 6 to 5
+	From: LBQBNH
+	To: 
+	Amt: 4
+After operations:
+From: LB
+To: QBNH
+Stacks: ["R", "", "", "LTD", "QBNH", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "T"]
+Stacks: ["R", "", "", "LTD", "QBNH", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "T"]
+Move: move 4 from 5 to 9
+	From: QBNH
+	To: T
+	Amt: 4
+After operations:
+From: 
+To: TQBNH
+Stacks: ["R", "", "", "LTD", "", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "TQBNH"]
+Stacks: ["R", "", "", "LTD", "", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "TQBNH"]
+Move: move 3 from 4 to 5
+	From: LTD
+	To: 
+	Amt: 3
+After operations:
+From: 
+To: LTD
+Stacks: ["R", "", "", "", "LTD", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "TQBNH"]
+Stacks: ["R", "", "", "", "LTD", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNG", "TQBNH"]
+Move: move 1 from 8 to 3
+	From: NNG
+	To: 
+	Amt: 1
+After operations:
+From: NN
+To: G
+Stacks: ["R", "", "G", "", "LTD", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NN", "TQBNH"]
+Stacks: ["R", "", "G", "", "LTD", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NN", "TQBNH"]
+Move: move 4 from 9 to 8
+	From: TQBNH
+	To: NN
+	Amt: 4
+After operations:
+From: T
+To: NNQBNH
+Stacks: ["R", "", "G", "", "LTD", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNQBNH", "T"]
+Stacks: ["R", "", "G", "", "LTD", "LB", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNQBNH", "T"]
+Move: move 1 from 9 to 6
+	From: T
+	To: LB
+	Amt: 1
+After operations:
+From: 
+To: LBT
+Stacks: ["R", "", "G", "", "LTD", "LBT", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNQBNH", ""]
+Stacks: ["R", "", "G", "", "LTD", "LBT", "NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "NNQBNH", ""]
+Move: move 38 from 7 to 2
+	From: NDMQRNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF
+	To: 
+	Amt: 38
+After operations:
+From: NDMQ
+To: RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF
+Stacks: ["R", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "G", "", "LTD", "LBT", "NDMQ", "NNQBNH", ""]
+Stacks: ["R", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "G", "", "LTD", "LBT", "NDMQ", "NNQBNH", ""]
+Move: move 1 from 3 to 5
+	From: G
+	To: LTD
+	Amt: 1
+After operations:
+From: 
+To: LTDG
+Stacks: ["R", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "", "", "LTDG", "LBT", "NDMQ", "NNQBNH", ""]
+Stacks: ["R", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "", "", "LTDG", "LBT", "NDMQ", "NNQBNH", ""]
+Move: move 1 from 1 to 7
+	From: R
+	To: NDMQ
+	Amt: 1
+After operations:
+From: 
+To: NDMQR
+Stacks: ["", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "", "", "LTDG", "LBT", "NDMQR", "NNQBNH", ""]
+Stacks: ["", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "", "", "LTDG", "LBT", "NDMQR", "NNQBNH", ""]
+Move: move 4 from 7 to 3
+	From: NDMQR
+	To: 
+	Amt: 4
+After operations:
+From: N
+To: DMQR
+Stacks: ["", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "DMQR", "", "LTDG", "LBT", "N", "NNQBNH", ""]
+Stacks: ["", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "DMQR", "", "LTDG", "LBT", "N", "NNQBNH", ""]
+Move: move 3 from 6 to 1
+	From: LBT
+	To: 
+	Amt: 3
+After operations:
+From: 
+To: LBT
+Stacks: ["LBT", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "DMQR", "", "LTDG", "", "N", "NNQBNH", ""]
+Stacks: ["LBT", "RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF", "DMQR", "", "LTDG", "", "N", "NNQBNH", ""]
+Move: move 22 from 2 to 7
+	From: RNQBSTLBVJMBFSJMHFJDJLJSRRHHWWHTFCZTWF
+	To: N
+	Amt: 22
+After operations:
+From: RNQBSTLBVJMBFSJM
+To: NHFJDJLJSRRHHWWHTFCZTWF
+Stacks: ["LBT", "RNQBSTLBVJMBFSJM", "DMQR", "", "LTDG", "", "NHFJDJLJSRRHHWWHTFCZTWF", "NNQBNH", ""]
+Stacks: ["LBT", "RNQBSTLBVJMBFSJM", "DMQR", "", "LTDG", "", "NHFJDJLJSRRHHWWHTFCZTWF", "NNQBNH", ""]
+Move: move 1 from 5 to 8
+	From: LTDG
+	To: NNQBNH
+	Amt: 1
+After operations:
+From: LTD
+To: NNQBNHG
+Stacks: ["LBT", "RNQBSTLBVJMBFSJM", "DMQR", "", "LTD", "", "NHFJDJLJSRRHHWWHTFCZTWF", "NNQBNHG", ""]
+Stacks: ["LBT", "RNQBSTLBVJMBFSJM", "DMQR", "", "LTD", "", "NHFJDJLJSRRHHWWHTFCZTWF", "NNQBNHG", ""]
+Move: move 7 from 8 to 4
+	From: NNQBNHG
+	To: 
+	Amt: 7
+After operations:
+From: 
+To: NNQBNHG
+Stacks: ["LBT", "RNQBSTLBVJMBFSJM", "DMQR", "NNQBNHG", "LTD", "", "NHFJDJLJSRRHHWWHTFCZTWF", "", ""]
+Stacks: ["LBT", "RNQBSTLBVJMBFSJM", "DMQR", "NNQBNHG", "LTD", "", "NHFJDJLJSRRHHWWHTFCZTWF", "", ""]
+Move: move 8 from 2 to 8
+	From: RNQBSTLBVJMBFSJM
+	To: 
+	Amt: 8
+After operations:
+From: RNQBSTLB
+To: VJMBFSJM
+Stacks: ["LBT", "RNQBSTLB", "DMQR", "NNQBNHG", "LTD", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJM", ""]
+Stacks: ["LBT", "RNQBSTLB", "DMQR", "NNQBNHG", "LTD", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJM", ""]
+Move: move 3 from 5 to 1
+	From: LTD
+	To: LBT
+	Amt: 3
+After operations:
+From: 
+To: LBTLTD
+Stacks: ["LBTLTD", "RNQBSTLB", "DMQR", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJM", ""]
+Stacks: ["LBTLTD", "RNQBSTLB", "DMQR", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJM", ""]
+Move: move 4 from 3 to 9
+	From: DMQR
+	To: 
+	Amt: 4
+After operations:
+From: 
+To: DMQR
+Stacks: ["LBTLTD", "RNQBSTLB", "", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJM", "DMQR"]
+Stacks: ["LBTLTD", "RNQBSTLB", "", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJM", "DMQR"]
+Move: move 1 from 8 to 3
+	From: VJMBFSJM
+	To: 
+	Amt: 1
+After operations:
+From: VJMBFSJ
+To: M
+Stacks: ["LBTLTD", "RNQBSTLB", "M", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJ", "DMQR"]
+Stacks: ["LBTLTD", "RNQBSTLB", "M", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWF", "VJMBFSJ", "DMQR"]
+Move: move 1 from 3 to 7
+	From: M
+	To: NHFJDJLJSRRHHWWHTFCZTWF
+	Amt: 1
+After operations:
+From: 
+To: NHFJDJLJSRRHHWWHTFCZTWFM
+Stacks: ["LBTLTD", "RNQBSTLB", "", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJMBFSJ", "DMQR"]
+Stacks: ["LBTLTD", "RNQBSTLB", "", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJMBFSJ", "DMQR"]
+Move: move 2 from 2 to 3
+	From: RNQBSTLB
+	To: 
+	Amt: 2
+After operations:
+From: RNQBST
+To: LB
+Stacks: ["LBTLTD", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJMBFSJ", "DMQR"]
+Stacks: ["LBTLTD", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJMBFSJ", "DMQR"]
+Move: move 5 from 8 to 9
+	From: VJMBFSJ
+	To: DMQR
+	Amt: 5
+After operations:
+From: VJ
+To: DMQRMBFSJ
+Stacks: ["LBTLTD", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJ", "DMQRMBFSJ"]
+Stacks: ["LBTLTD", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJ", "DMQRMBFSJ"]
+Move: move 3 from 9 to 1
+	From: DMQRMBFSJ
+	To: LBTLTD
+	Amt: 3
+After operations:
+From: DMQRMB
+To: LBTLTDFSJ
+Stacks: ["LBTLTDFSJ", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDFSJ", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFM", "VJ", "DMQRMB"]
+Move: move 2 from 1 to 7
+	From: LBTLTDFSJ
+	To: NHFJDJLJSRRHHWWHTFCZTWFM
+	Amt: 2
+After operations:
+From: LBTLTDF
+To: NHFJDJLJSRRHHWWHTFCZTWFMSJ
+Stacks: ["LBTLTDF", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDF", "RNQBST", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Move: move 6 from 2 to 3
+	From: RNQBST
+	To: LB
+	Amt: 6
+After operations:
+From: 
+To: LBRNQBST
+Stacks: ["LBTLTDF", "", "LBRNQBST", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDF", "", "LBRNQBST", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Move: move 6 from 3 to 1
+	From: LBRNQBST
+	To: LBTLTDF
+	Amt: 6
+After operations:
+From: LB
+To: LBTLTDFRNQBST
+Stacks: ["LBTLTDFRNQBST", "", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDFRNQBST", "", "LB", "NNQBNHG", "", "", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Move: move 2 from 3 to 6
+	From: LB
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: LB
+Stacks: ["LBTLTDFRNQBST", "", "", "NNQBNHG", "", "LB", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDFRNQBST", "", "", "NNQBNHG", "", "LB", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Move: move 1 from 6 to 1
+	From: LB
+	To: LBTLTDFRNQBST
+	Amt: 1
+After operations:
+From: L
+To: LBTLTDFRNQBSTB
+Stacks: ["LBTLTDFRNQBSTB", "", "", "NNQBNHG", "", "L", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDFRNQBSTB", "", "", "NNQBNHG", "", "L", "NHFJDJLJSRRHHWWHTFCZTWFMSJ", "VJ", "DMQRMB"]
+Move: move 14 from 7 to 2
+	From: NHFJDJLJSRRHHWWHTFCZTWFMSJ
+	To: 
+	Amt: 14
+After operations:
+From: NHFJDJLJSRRH
+To: HWWHTFCZTWFMSJ
+Stacks: ["LBTLTDFRNQBSTB", "HWWHTFCZTWFMSJ", "", "NNQBNHG", "", "L", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDFRNQBSTB", "HWWHTFCZTWFMSJ", "", "NNQBNHG", "", "L", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Move: move 4 from 1 to 6
+	From: LBTLTDFRNQBSTB
+	To: L
+	Amt: 4
+After operations:
+From: LBTLTDFRNQ
+To: LBSTB
+Stacks: ["LBTLTDFRNQ", "HWWHTFCZTWFMSJ", "", "NNQBNHG", "", "LBSTB", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Stacks: ["LBTLTDFRNQ", "HWWHTFCZTWFMSJ", "", "NNQBNHG", "", "LBSTB", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Move: move 8 from 1 to 3
+	From: LBTLTDFRNQ
+	To: 
+	Amt: 8
+After operations:
+From: LB
+To: TLTDFRNQ
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTDFRNQ", "NNQBNHG", "", "LBSTB", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTDFRNQ", "NNQBNHG", "", "LBSTB", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Move: move 4 from 3 to 6
+	From: TLTDFRNQ
+	To: LBSTB
+	Amt: 4
+After operations:
+From: TLTD
+To: LBSTBFRNQ
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHG", "", "LBSTBFRNQ", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHG", "", "LBSTBFRNQ", "NHFJDJLJSRRH", "VJ", "DMQRMB"]
+Move: move 3 from 9 to 5
+	From: DMQRMB
+	To: 
+	Amt: 3
+After operations:
+From: DMQ
+To: RMB
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHG", "RMB", "LBSTBFRNQ", "NHFJDJLJSRRH", "VJ", "DMQ"]
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHG", "RMB", "LBSTBFRNQ", "NHFJDJLJSRRH", "VJ", "DMQ"]
+Move: move 1 from 8 to 6
+	From: VJ
+	To: LBSTBFRNQ
+	Amt: 1
+After operations:
+From: V
+To: LBSTBFRNQJ
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHG", "RMB", "LBSTBFRNQJ", "NHFJDJLJSRRH", "V", "DMQ"]
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHG", "RMB", "LBSTBFRNQJ", "NHFJDJLJSRRH", "V", "DMQ"]
+Move: move 1 from 8 to 4
+	From: V
+	To: NNQBNHG
+	Amt: 1
+After operations:
+From: 
+To: NNQBNHGV
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHGV", "RMB", "LBSTBFRNQJ", "NHFJDJLJSRRH", "", "DMQ"]
+Stacks: ["LB", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHGV", "RMB", "LBSTBFRNQJ", "NHFJDJLJSRRH", "", "DMQ"]
+Move: move 9 from 7 to 1
+	From: NHFJDJLJSRRH
+	To: LB
+	Amt: 9
+After operations:
+From: NHF
+To: LBJDJLJSRRH
+Stacks: ["LBJDJLJSRRH", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHGV", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQ"]
+Stacks: ["LBJDJLJSRRH", "HWWHTFCZTWFMSJ", "TLTD", "NNQBNHGV", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQ"]
+Move: move 8 from 2 to 4
+	From: HWWHTFCZTWFMSJ
+	To: NNQBNHGV
+	Amt: 8
+After operations:
+From: HWWHTF
+To: NNQBNHGVCZTWFMSJ
+Stacks: ["LBJDJLJSRRH", "HWWHTF", "TLTD", "NNQBNHGVCZTWFMSJ", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQ"]
+Stacks: ["LBJDJLJSRRH", "HWWHTF", "TLTD", "NNQBNHGVCZTWFMSJ", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQ"]
+Move: move 4 from 2 to 9
+	From: HWWHTF
+	To: DMQ
+	Amt: 4
+After operations:
+From: HW
+To: DMQWHTF
+Stacks: ["LBJDJLJSRRH", "HW", "TLTD", "NNQBNHGVCZTWFMSJ", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQWHTF"]
+Stacks: ["LBJDJLJSRRH", "HW", "TLTD", "NNQBNHGVCZTWFMSJ", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQWHTF"]
+Move: move 2 from 2 to 1
+	From: HW
+	To: LBJDJLJSRRH
+	Amt: 2
+After operations:
+From: 
+To: LBJDJLJSRRHHW
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQWHTF"]
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "RMB", "LBSTBFRNQJ", "NHF", "", "DMQWHTF"]
+Move: move 3 from 5 to 8
+	From: RMB
+	To: 
+	Amt: 3
+After operations:
+From: 
+To: RMB
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "", "LBSTBFRNQJ", "NHF", "RMB", "DMQWHTF"]
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "", "LBSTBFRNQJ", "NHF", "RMB", "DMQWHTF"]
+Move: move 1 from 8 to 6
+	From: RMB
+	To: LBSTBFRNQJ
+	Amt: 1
+After operations:
+From: RM
+To: LBSTBFRNQJB
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "", "LBSTBFRNQJB", "NHF", "RM", "DMQWHTF"]
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "", "LBSTBFRNQJB", "NHF", "RM", "DMQWHTF"]
+Move: move 1 from 7 to 8
+	From: NHF
+	To: RM
+	Amt: 1
+After operations:
+From: NH
+To: RMF
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "", "LBSTBFRNQJB", "NH", "RMF", "DMQWHTF"]
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "", "LBSTBFRNQJB", "NH", "RMF", "DMQWHTF"]
+Move: move 1 from 6 to 5
+	From: LBSTBFRNQJB
+	To: 
+	Amt: 1
+After operations:
+From: LBSTBFRNQJ
+To: B
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "B", "LBSTBFRNQJ", "NH", "RMF", "DMQWHTF"]
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "B", "LBSTBFRNQJ", "NH", "RMF", "DMQWHTF"]
+Move: move 3 from 9 to 5
+	From: DMQWHTF
+	To: B
+	Amt: 3
+After operations:
+From: DMQW
+To: BHTF
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "BHTF", "LBSTBFRNQJ", "NH", "RMF", "DMQW"]
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "BHTF", "LBSTBFRNQJ", "NH", "RMF", "DMQW"]
+Move: move 2 from 9 to 5
+	From: DMQW
+	To: BHTF
+	Amt: 2
+After operations:
+From: DM
+To: BHTFQW
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBSTBFRNQJ", "NH", "RMF", "DM"]
+Stacks: ["LBJDJLJSRRHHW", "", "TLTD", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBSTBFRNQJ", "NH", "RMF", "DM"]
+Move: move 4 from 3 to 9
+	From: TLTD
+	To: DM
+	Amt: 4
+After operations:
+From: 
+To: DMTLTD
+Stacks: ["LBJDJLJSRRHHW", "", "", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBSTBFRNQJ", "NH", "RMF", "DMTLTD"]
+Stacks: ["LBJDJLJSRRHHW", "", "", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBSTBFRNQJ", "NH", "RMF", "DMTLTD"]
+Move: move 3 from 6 to 3
+	From: LBSTBFRNQJ
+	To: 
+	Amt: 3
+After operations:
+From: LBSTBFR
+To: NQJ
+Stacks: ["LBJDJLJSRRHHW", "", "NQJ", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBSTBFR", "NH", "RMF", "DMTLTD"]
+Stacks: ["LBJDJLJSRRHHW", "", "NQJ", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBSTBFR", "NH", "RMF", "DMTLTD"]
+Move: move 3 from 6 to 9
+	From: LBSTBFR
+	To: DMTLTD
+	Amt: 3
+After operations:
+From: LBST
+To: DMTLTDBFR
+Stacks: ["LBJDJLJSRRHHW", "", "NQJ", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBST", "NH", "RMF", "DMTLTDBFR"]
+Stacks: ["LBJDJLJSRRHHW", "", "NQJ", "NNQBNHGVCZTWFMSJ", "BHTFQW", "LBST", "NH", "RMF", "DMTLTDBFR"]
+Move: move 9 from 4 to 1
+	From: NNQBNHGVCZTWFMSJ
+	To: LBJDJLJSRRHHW
+	Amt: 9
+After operations:
+From: NNQBNHG
+To: LBJDJLJSRRHHWVCZTWFMSJ
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "NQJ", "NNQBNHG", "BHTFQW", "LBST", "NH", "RMF", "DMTLTDBFR"]
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "NQJ", "NNQBNHG", "BHTFQW", "LBST", "NH", "RMF", "DMTLTDBFR"]
+Move: move 1 from 9 to 8
+	From: DMTLTDBFR
+	To: RMF
+	Amt: 1
+After operations:
+From: DMTLTDBF
+To: RMFR
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "NQJ", "NNQBNHG", "BHTFQW", "LBST", "NH", "RMFR", "DMTLTDBF"]
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "NQJ", "NNQBNHG", "BHTFQW", "LBST", "NH", "RMFR", "DMTLTDBF"]
+Move: move 3 from 3 to 6
+	From: NQJ
+	To: LBST
+	Amt: 3
+After operations:
+From: 
+To: LBSTNQJ
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHG", "BHTFQW", "LBSTNQJ", "NH", "RMFR", "DMTLTDBF"]
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHG", "BHTFQW", "LBSTNQJ", "NH", "RMFR", "DMTLTDBF"]
+Move: move 2 from 7 to 4
+	From: NH
+	To: NNQBNHG
+	Amt: 2
+After operations:
+From: 
+To: NNQBNHGNH
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHGNH", "BHTFQW", "LBSTNQJ", "", "RMFR", "DMTLTDBF"]
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHGNH", "BHTFQW", "LBSTNQJ", "", "RMFR", "DMTLTDBF"]
+Move: move 4 from 8 to 5
+	From: RMFR
+	To: BHTFQW
+	Amt: 4
+After operations:
+From: 
+To: BHTFQWRMFR
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHGNH", "BHTFQWRMFR", "LBSTNQJ", "", "", "DMTLTDBF"]
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHGNH", "BHTFQWRMFR", "LBSTNQJ", "", "", "DMTLTDBF"]
+Move: move 7 from 5 to 6
+	From: BHTFQWRMFR
+	To: LBSTNQJ
+	Amt: 7
+After operations:
+From: BHT
+To: LBSTNQJFQWRMFR
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFR", "", "", "DMTLTDBF"]
+Stacks: ["LBJDJLJSRRHHWVCZTWFMSJ", "", "", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFR", "", "", "DMTLTDBF"]
+Move: move 19 from 1 to 9
+	From: LBJDJLJSRRHHWVCZTWFMSJ
+	To: DMTLTDBF
+	Amt: 19
+After operations:
+From: LBJ
+To: DMTLTDBFDJLJSRRHHWVCZTWFMSJ
+Stacks: ["LBJ", "", "", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFR", "", "", "DMTLTDBFDJLJSRRHHWVCZTWFMSJ"]
+Stacks: ["LBJ", "", "", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFR", "", "", "DMTLTDBFDJLJSRRHHWVCZTWFMSJ"]
+Move: move 5 from 9 to 3
+	From: DMTLTDBFDJLJSRRHHWVCZTWFMSJ
+	To: 
+	Amt: 5
+After operations:
+From: DMTLTDBFDJLJSRRHHWVCZT
+To: WFMSJ
+Stacks: ["LBJ", "", "WFMSJ", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFR", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Stacks: ["LBJ", "", "WFMSJ", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFR", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Move: move 2 from 1 to 6
+	From: LBJ
+	To: LBSTNQJFQWRMFR
+	Amt: 2
+After operations:
+From: L
+To: LBSTNQJFQWRMFRBJ
+Stacks: ["L", "", "WFMSJ", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFRBJ", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Stacks: ["L", "", "WFMSJ", "NNQBNHGNH", "BHT", "LBSTNQJFQWRMFRBJ", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Move: move 1 from 4 to 6
+	From: NNQBNHGNH
+	To: LBSTNQJFQWRMFRBJ
+	Amt: 1
+After operations:
+From: NNQBNHGN
+To: LBSTNQJFQWRMFRBJH
+Stacks: ["L", "", "WFMSJ", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Stacks: ["L", "", "WFMSJ", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Move: move 4 from 3 to 2
+	From: WFMSJ
+	To: 
+	Amt: 4
+After operations:
+From: W
+To: FMSJ
+Stacks: ["L", "FMSJ", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Stacks: ["L", "FMSJ", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "", "", "DMTLTDBFDJLJSRRHHWVCZT"]
+Move: move 21 from 9 to 7
+	From: DMTLTDBFDJLJSRRHHWVCZT
+	To: 
+	Amt: 21
+After operations:
+From: D
+To: MTLTDBFDJLJSRRHHWVCZT
+Stacks: ["L", "FMSJ", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "", "D"]
+Stacks: ["L", "FMSJ", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "", "D"]
+Move: move 1 from 1 to 2
+	From: L
+	To: FMSJ
+	Amt: 1
+After operations:
+From: 
+To: FMSJL
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "", "D"]
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "", "D"]
+Move: move 1 from 9 to 1
+	From: D
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: D
+Stacks: ["D", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "", ""]
+Stacks: ["D", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "", ""]
+Move: move 1 from 1 to 8
+	From: D
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: D
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "D", ""]
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJH", "MTLTDBFDJLJSRRHHWVCZT", "D", ""]
+Move: move 16 from 7 to 6
+	From: MTLTDBFDJLJSRRHHWVCZT
+	To: LBSTNQJFQWRMFRBJH
+	Amt: 16
+After operations:
+From: MTLTD
+To: LBSTNQJFQWRMFRBJHBFDJLJSRRHHWVCZT
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJHBFDJLJSRRHHWVCZT", "MTLTD", "D", ""]
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHT", "LBSTNQJFQWRMFRBJHBFDJLJSRRHHWVCZT", "MTLTD", "D", ""]
+Move: move 24 from 6 to 5
+	From: LBSTNQJFQWRMFRBJHBFDJLJSRRHHWVCZT
+	To: BHT
+	Amt: 24
+After operations:
+From: LBSTNQJFQ
+To: BHTWRMFRBJHBFDJLJSRRHHWVCZT
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHTWRMFRBJHBFDJLJSRRHHWVCZT", "LBSTNQJFQ", "MTLTD", "D", ""]
+Stacks: ["", "FMSJL", "W", "NNQBNHGN", "BHTWRMFRBJHBFDJLJSRRHHWVCZT", "LBSTNQJFQ", "MTLTD", "D", ""]
+Move: move 7 from 4 to 5
+	From: NNQBNHGN
+	To: BHTWRMFRBJHBFDJLJSRRHHWVCZT
+	Amt: 7
+After operations:
+From: N
+To: BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN
+Stacks: ["", "FMSJL", "W", "N", "BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "LBSTNQJFQ", "MTLTD", "D", ""]
+Stacks: ["", "FMSJL", "W", "N", "BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "LBSTNQJFQ", "MTLTD", "D", ""]
+Move: move 1 from 8 to 3
+	From: D
+	To: W
+	Amt: 1
+After operations:
+From: 
+To: WD
+Stacks: ["", "FMSJL", "WD", "N", "BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "LBSTNQJFQ", "MTLTD", "", ""]
+Stacks: ["", "FMSJL", "WD", "N", "BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "LBSTNQJFQ", "MTLTD", "", ""]
+Move: move 2 from 2 to 8
+	From: FMSJL
+	To: 
+	Amt: 2
+After operations:
+From: FMS
+To: JL
+Stacks: ["", "FMS", "WD", "N", "BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "LBSTNQJFQ", "MTLTD", "JL", ""]
+Stacks: ["", "FMS", "WD", "N", "BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "LBSTNQJFQ", "MTLTD", "JL", ""]
+Move: move 31 from 5 to 8
+	From: BHTWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN
+	To: JL
+	Amt: 31
+After operations:
+From: BHT
+To: JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN
+Stacks: ["", "FMS", "WD", "N", "BHT", "LBSTNQJFQ", "MTLTD", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", ""]
+Stacks: ["", "FMS", "WD", "N", "BHT", "LBSTNQJFQ", "MTLTD", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", ""]
+Move: move 1 from 4 to 6
+	From: N
+	To: LBSTNQJFQ
+	Amt: 1
+After operations:
+From: 
+To: LBSTNQJFQN
+Stacks: ["", "FMS", "WD", "", "BHT", "LBSTNQJFQN", "MTLTD", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", ""]
+Stacks: ["", "FMS", "WD", "", "BHT", "LBSTNQJFQN", "MTLTD", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", ""]
+Move: move 2 from 6 to 9
+	From: LBSTNQJFQN
+	To: 
+	Amt: 2
+After operations:
+From: LBSTNQJF
+To: QN
+Stacks: ["", "FMS", "WD", "", "BHT", "LBSTNQJF", "MTLTD", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "QN"]
+Stacks: ["", "FMS", "WD", "", "BHT", "LBSTNQJF", "MTLTD", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "QN"]
+Move: move 1 from 7 to 4
+	From: MTLTD
+	To: 
+	Amt: 1
+After operations:
+From: MTLT
+To: D
+Stacks: ["", "FMS", "WD", "D", "BHT", "LBSTNQJF", "MTLT", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "QN"]
+Stacks: ["", "FMS", "WD", "D", "BHT", "LBSTNQJF", "MTLT", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "QN"]
+Move: move 3 from 7 to 9
+	From: MTLT
+	To: QN
+	Amt: 3
+After operations:
+From: M
+To: QNTLT
+Stacks: ["", "FMS", "WD", "D", "BHT", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "QNTLT"]
+Stacks: ["", "FMS", "WD", "D", "BHT", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN", "QNTLT"]
+Move: move 1 from 4 to 8
+	From: D
+	To: JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGN
+	Amt: 1
+After operations:
+From: 
+To: JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND
+Stacks: ["", "FMS", "WD", "", "BHT", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Stacks: ["", "FMS", "WD", "", "BHT", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Move: move 2 from 3 to 5
+	From: WD
+	To: BHT
+	Amt: 2
+After operations:
+From: 
+To: BHTWD
+Stacks: ["", "FMS", "", "", "BHTWD", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Stacks: ["", "FMS", "", "", "BHTWD", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Move: move 1 from 2 to 3
+	From: FMS
+	To: 
+	Amt: 1
+After operations:
+From: FM
+To: S
+Stacks: ["", "FM", "S", "", "BHTWD", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Stacks: ["", "FM", "S", "", "BHTWD", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Move: move 1 from 3 to 7
+	From: S
+	To: M
+	Amt: 1
+After operations:
+From: 
+To: MS
+Stacks: ["", "FM", "", "", "BHTWD", "LBSTNQJF", "MS", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Stacks: ["", "FM", "", "", "BHTWD", "LBSTNQJF", "MS", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLT"]
+Move: move 1 from 7 to 9
+	From: MS
+	To: QNTLT
+	Amt: 1
+After operations:
+From: M
+To: QNTLTS
+Stacks: ["", "FM", "", "", "BHTWD", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLTS"]
+Stacks: ["", "FM", "", "", "BHTWD", "LBSTNQJF", "M", "JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND", "QNTLTS"]
+Move: move 24 from 8 to 6
+	From: JLWRMFRBJHBFDJLJSRRHHWVCZTNQBNHGND
+	To: LBSTNQJF
+	Amt: 24
+After operations:
+From: JLWRMFRBJH
+To: LBSTNQJFBFDJLJSRRHHWVCZTNQBNHGND
+Stacks: ["", "FM", "", "", "BHTWD", "LBSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "M", "JLWRMFRBJH", "QNTLTS"]
+Stacks: ["", "FM", "", "", "BHTWD", "LBSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "M", "JLWRMFRBJH", "QNTLTS"]
+Move: move 1 from 8 to 1
+	From: JLWRMFRBJH
+	To: 
+	Amt: 1
+After operations:
+From: JLWRMFRBJ
+To: H
+Stacks: ["H", "FM", "", "", "BHTWD", "LBSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "M", "JLWRMFRBJ", "QNTLTS"]
+Stacks: ["H", "FM", "", "", "BHTWD", "LBSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "M", "JLWRMFRBJ", "QNTLTS"]
+Move: move 30 from 6 to 1
+	From: LBSTNQJFBFDJLJSRRHHWVCZTNQBNHGND
+	To: H
+	Amt: 30
+After operations:
+From: LB
+To: HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FM", "", "", "BHTWD", "LB", "M", "JLWRMFRBJ", "QNTLTS"]
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FM", "", "", "BHTWD", "LB", "M", "JLWRMFRBJ", "QNTLTS"]
+Move: move 2 from 5 to 2
+	From: BHTWD
+	To: FM
+	Amt: 2
+After operations:
+From: BHT
+To: FMWD
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "LB", "M", "JLWRMFRBJ", "QNTLTS"]
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "LB", "M", "JLWRMFRBJ", "QNTLTS"]
+Move: move 1 from 6 to 9
+	From: LB
+	To: QNTLTS
+	Amt: 1
+After operations:
+From: L
+To: QNTLTSB
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "L", "M", "JLWRMFRBJ", "QNTLTSB"]
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "L", "M", "JLWRMFRBJ", "QNTLTSB"]
+Move: move 6 from 9 to 7
+	From: QNTLTSB
+	To: M
+	Amt: 6
+After operations:
+From: Q
+To: MNTLTSB
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 1 from 6 to 4
+	From: L
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: L
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "L", "BHT", "", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "L", "BHT", "", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 1 from 4 to 6
+	From: L
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: L
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND", "FMWD", "", "", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 23 from 1 to 3
+	From: HSTNQJFBFDJLJSRRHHWVCZTNQBNHGND
+	To: 
+	Amt: 23
+After operations:
+From: HSTNQJFB
+To: FDJLJSRRHHWVCZTNQBNHGND
+Stacks: ["HSTNQJFB", "FMWD", "FDJLJSRRHHWVCZTNQBNHGND", "", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFB", "FMWD", "FDJLJSRRHHWVCZTNQBNHGND", "", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 21 from 3 to 4
+	From: FDJLJSRRHHWVCZTNQBNHGND
+	To: 
+	Amt: 21
+After operations:
+From: FD
+To: JLJSRRHHWVCZTNQBNHGND
+Stacks: ["HSTNQJFB", "FMWD", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFB", "FMWD", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHT", "L", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 4 from 2 to 6
+	From: FMWD
+	To: L
+	Amt: 4
+After operations:
+From: 
+To: LFMWD
+Stacks: ["HSTNQJFB", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHT", "LFMWD", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFB", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHT", "LFMWD", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 3 from 6 to 1
+	From: LFMWD
+	To: HSTNQJFB
+	Amt: 3
+After operations:
+From: LF
+To: HSTNQJFBMWD
+Stacks: ["HSTNQJFBMWD", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHT", "LF", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFBMWD", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHT", "LF", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 1 from 5 to 1
+	From: BHT
+	To: HSTNQJFBMWD
+	Amt: 1
+After operations:
+From: BH
+To: HSTNQJFBMWDT
+Stacks: ["HSTNQJFBMWDT", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LF", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Stacks: ["HSTNQJFBMWDT", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LF", "MNTLTSB", "JLWRMFRBJ", "Q"]
+Move: move 4 from 1 to 9
+	From: HSTNQJFBMWDT
+	To: Q
+	Amt: 4
+After operations:
+From: HSTNQJFB
+To: QMWDT
+Stacks: ["HSTNQJFB", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LF", "MNTLTSB", "JLWRMFRBJ", "QMWDT"]
+Stacks: ["HSTNQJFB", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LF", "MNTLTSB", "JLWRMFRBJ", "QMWDT"]
+Move: move 3 from 9 to 6
+	From: QMWDT
+	To: LF
+	Amt: 3
+After operations:
+From: QM
+To: LFWDT
+Stacks: ["HSTNQJFB", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LFWDT", "MNTLTSB", "JLWRMFRBJ", "QM"]
+Stacks: ["HSTNQJFB", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LFWDT", "MNTLTSB", "JLWRMFRBJ", "QM"]
+Move: move 8 from 1 to 6
+	From: HSTNQJFB
+	To: LFWDT
+	Amt: 8
+After operations:
+From: 
+To: LFWDTHSTNQJFB
+Stacks: ["", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LFWDTHSTNQJFB", "MNTLTSB", "JLWRMFRBJ", "QM"]
+Stacks: ["", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BH", "LFWDTHSTNQJFB", "MNTLTSB", "JLWRMFRBJ", "QM"]
+Move: move 4 from 8 to 5
+	From: JLWRMFRBJ
+	To: BH
+	Amt: 4
+After operations:
+From: JLWRM
+To: BHFRBJ
+Stacks: ["", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHFRBJ", "LFWDTHSTNQJFB", "MNTLTSB", "JLWRM", "QM"]
+Stacks: ["", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHFRBJ", "LFWDTHSTNQJFB", "MNTLTSB", "JLWRM", "QM"]
+Move: move 2 from 7 to 5
+	From: MNTLTSB
+	To: BHFRBJ
+	Amt: 2
+After operations:
+From: MNTLT
+To: BHFRBJSB
+Stacks: ["", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QM"]
+Stacks: ["", "", "FD", "JLJSRRHHWVCZTNQBNHGND", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QM"]
+Move: move 7 from 4 to 3
+	From: JLJSRRHHWVCZTNQBNHGND
+	To: FD
+	Amt: 7
+After operations:
+From: JLJSRRHHWVCZTN
+To: FDQBNHGND
+Stacks: ["", "", "FDQBNHGND", "JLJSRRHHWVCZTN", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QM"]
+Stacks: ["", "", "FDQBNHGND", "JLJSRRHHWVCZTN", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QM"]
+Move: move 3 from 4 to 9
+	From: JLJSRRHHWVCZTN
+	To: QM
+	Amt: 3
+After operations:
+From: JLJSRRHHWVC
+To: QMZTN
+Stacks: ["", "", "FDQBNHGND", "JLJSRRHHWVC", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QMZTN"]
+Stacks: ["", "", "FDQBNHGND", "JLJSRRHHWVC", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QMZTN"]
+Move: move 9 from 3 to 9
+	From: FDQBNHGND
+	To: QMZTN
+	Amt: 9
+After operations:
+From: 
+To: QMZTNFDQBNHGND
+Stacks: ["", "", "", "JLJSRRHHWVC", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QMZTNFDQBNHGND"]
+Stacks: ["", "", "", "JLJSRRHHWVC", "BHFRBJSB", "LFWDTHSTNQJFB", "MNTLT", "JLWRM", "QMZTNFDQBNHGND"]
+Move: move 1 from 7 to 6
+	From: MNTLT
+	To: LFWDTHSTNQJFB
+	Amt: 1
+After operations:
+From: MNTL
+To: LFWDTHSTNQJFBT
+Stacks: ["", "", "", "JLJSRRHHWVC", "BHFRBJSB", "LFWDTHSTNQJFBT", "MNTL", "JLWRM", "QMZTNFDQBNHGND"]
+Stacks: ["", "", "", "JLJSRRHHWVC", "BHFRBJSB", "LFWDTHSTNQJFBT", "MNTL", "JLWRM", "QMZTNFDQBNHGND"]
+Move: move 6 from 5 to 8
+	From: BHFRBJSB
+	To: JLWRM
+	Amt: 6
+After operations:
+From: BH
+To: JLWRMFRBJSB
+Stacks: ["", "", "", "JLJSRRHHWVC", "BH", "LFWDTHSTNQJFBT", "MNTL", "JLWRMFRBJSB", "QMZTNFDQBNHGND"]
+Stacks: ["", "", "", "JLJSRRHHWVC", "BH", "LFWDTHSTNQJFBT", "MNTL", "JLWRMFRBJSB", "QMZTNFDQBNHGND"]
+Move: move 14 from 6 to 2
+	From: LFWDTHSTNQJFBT
+	To: 
+	Amt: 14
+After operations:
+From: 
+To: LFWDTHSTNQJFBT
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHHWVC", "BH", "", "MNTL", "JLWRMFRBJSB", "QMZTNFDQBNHGND"]
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHHWVC", "BH", "", "MNTL", "JLWRMFRBJSB", "QMZTNFDQBNHGND"]
+Move: move 4 from 8 to 4
+	From: JLWRMFRBJSB
+	To: JLJSRRHHWVC
+	Amt: 4
+After operations:
+From: JLWRMFR
+To: JLJSRRHHWVCBJSB
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHHWVCBJSB", "BH", "", "MNTL", "JLWRMFR", "QMZTNFDQBNHGND"]
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHHWVCBJSB", "BH", "", "MNTL", "JLWRMFR", "QMZTNFDQBNHGND"]
+Move: move 7 from 4 to 5
+	From: JLJSRRHHWVCBJSB
+	To: BH
+	Amt: 7
+After operations:
+From: JLJSRRHH
+To: BHWVCBJSB
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHH", "BHWVCBJSB", "", "MNTL", "JLWRMFR", "QMZTNFDQBNHGND"]
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHH", "BHWVCBJSB", "", "MNTL", "JLWRMFR", "QMZTNFDQBNHGND"]
+Move: move 1 from 7 to 9
+	From: MNTL
+	To: QMZTNFDQBNHGND
+	Amt: 1
+After operations:
+From: MNT
+To: QMZTNFDQBNHGNDL
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHH", "BHWVCBJSB", "", "MNT", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "LFWDTHSTNQJFBT", "", "JLJSRRHH", "BHWVCBJSB", "", "MNT", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Move: move 6 from 4 to 3
+	From: JLJSRRHH
+	To: 
+	Amt: 6
+After operations:
+From: JL
+To: JSRRHH
+Stacks: ["", "LFWDTHSTNQJFBT", "JSRRHH", "JL", "BHWVCBJSB", "", "MNT", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "LFWDTHSTNQJFBT", "JSRRHH", "JL", "BHWVCBJSB", "", "MNT", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Move: move 13 from 2 to 6
+	From: LFWDTHSTNQJFBT
+	To: 
+	Amt: 13
+After operations:
+From: L
+To: FWDTHSTNQJFBT
+Stacks: ["", "L", "JSRRHH", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNT", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "L", "JSRRHH", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNT", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Move: move 5 from 3 to 7
+	From: JSRRHH
+	To: MNT
+	Amt: 5
+After operations:
+From: J
+To: MNTSRRHH
+Stacks: ["", "L", "J", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "L", "J", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Move: move 1 from 3 to 8
+	From: J
+	To: JLWRMFR
+	Amt: 1
+After operations:
+From: 
+To: JLWRMFRJ
+Stacks: ["", "L", "", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLWRMFRJ", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "L", "", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLWRMFRJ", "QMZTNFDQBNHGNDL"]
+Move: move 1 from 8 to 2
+	From: JLWRMFRJ
+	To: L
+	Amt: 1
+After operations:
+From: JLWRMFR
+To: LJ
+Stacks: ["", "LJ", "", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "LJ", "", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLWRMFR", "QMZTNFDQBNHGNDL"]
+Move: move 4 from 8 to 3
+	From: JLWRMFR
+	To: 
+	Amt: 4
+After operations:
+From: JLW
+To: RMFR
+Stacks: ["", "LJ", "RMFR", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLW", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "LJ", "RMFR", "JL", "BHWVCBJSB", "FWDTHSTNQJFBT", "MNTSRRHH", "JLW", "QMZTNFDQBNHGNDL"]
+Move: move 6 from 6 to 4
+	From: FWDTHSTNQJFBT
+	To: JL
+	Amt: 6
+After operations:
+From: FWDTHST
+To: JLNQJFBT
+Stacks: ["", "LJ", "RMFR", "JLNQJFBT", "BHWVCBJSB", "FWDTHST", "MNTSRRHH", "JLW", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "LJ", "RMFR", "JLNQJFBT", "BHWVCBJSB", "FWDTHST", "MNTSRRHH", "JLW", "QMZTNFDQBNHGNDL"]
+Move: move 2 from 2 to 8
+	From: LJ
+	To: JLW
+	Amt: 2
+After operations:
+From: 
+To: JLWLJ
+Stacks: ["", "", "RMFR", "JLNQJFBT", "BHWVCBJSB", "FWDTHST", "MNTSRRHH", "JLWLJ", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "", "RMFR", "JLNQJFBT", "BHWVCBJSB", "FWDTHST", "MNTSRRHH", "JLWLJ", "QMZTNFDQBNHGNDL"]
+Move: move 5 from 4 to 7
+	From: JLNQJFBT
+	To: MNTSRRHH
+	Amt: 5
+After operations:
+From: JLN
+To: MNTSRRHHQJFBT
+Stacks: ["", "", "RMFR", "JLN", "BHWVCBJSB", "FWDTHST", "MNTSRRHHQJFBT", "JLWLJ", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "", "RMFR", "JLN", "BHWVCBJSB", "FWDTHST", "MNTSRRHHQJFBT", "JLWLJ", "QMZTNFDQBNHGNDL"]
+Move: move 3 from 7 to 5
+	From: MNTSRRHHQJFBT
+	To: BHWVCBJSB
+	Amt: 3
+After operations:
+From: MNTSRRHHQJ
+To: BHWVCBJSBFBT
+Stacks: ["", "", "RMFR", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRRHHQJ", "JLWLJ", "QMZTNFDQBNHGNDL"]
+Stacks: ["", "", "RMFR", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRRHHQJ", "JLWLJ", "QMZTNFDQBNHGNDL"]
+Move: move 1 from 7 to 9
+	From: MNTSRRHHQJ
+	To: QMZTNFDQBNHGNDL
+	Amt: 1
+After operations:
+From: MNTSRRHHQ
+To: QMZTNFDQBNHGNDLJ
+Stacks: ["", "", "RMFR", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRRHHQ", "JLWLJ", "QMZTNFDQBNHGNDLJ"]
+Stacks: ["", "", "RMFR", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRRHHQ", "JLWLJ", "QMZTNFDQBNHGNDLJ"]
+Move: move 2 from 3 to 9
+	From: RMFR
+	To: QMZTNFDQBNHGNDLJ
+	Amt: 2
+After operations:
+From: RM
+To: QMZTNFDQBNHGNDLJFR
+Stacks: ["", "", "RM", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRRHHQ", "JLWLJ", "QMZTNFDQBNHGNDLJFR"]
+Stacks: ["", "", "RM", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRRHHQ", "JLWLJ", "QMZTNFDQBNHGNDLJFR"]
+Move: move 3 from 7 to 3
+	From: MNTSRRHHQ
+	To: RM
+	Amt: 3
+After operations:
+From: MNTSRR
+To: RMHHQ
+Stacks: ["", "", "RMHHQ", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRR", "JLWLJ", "QMZTNFDQBNHGNDLJFR"]
+Stacks: ["", "", "RMHHQ", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSRR", "JLWLJ", "QMZTNFDQBNHGNDLJFR"]
+Move: move 1 from 7 to 9
+	From: MNTSRR
+	To: QMZTNFDQBNHGNDLJFR
+	Amt: 1
+After operations:
+From: MNTSR
+To: QMZTNFDQBNHGNDLJFRR
+Stacks: ["", "", "RMHHQ", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSR", "JLWLJ", "QMZTNFDQBNHGNDLJFRR"]
+Stacks: ["", "", "RMHHQ", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTSR", "JLWLJ", "QMZTNFDQBNHGNDLJFRR"]
+Move: move 1 from 7 to 9
+	From: MNTSR
+	To: QMZTNFDQBNHGNDLJFRR
+	Amt: 1
+After operations:
+From: MNTS
+To: QMZTNFDQBNHGNDLJFRRR
+Stacks: ["", "", "RMHHQ", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTS", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Stacks: ["", "", "RMHHQ", "JLN", "BHWVCBJSBFBT", "FWDTHST", "MNTS", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Move: move 3 from 4 to 1
+	From: JLN
+	To: 
+	Amt: 3
+After operations:
+From: 
+To: JLN
+Stacks: ["JLN", "", "RMHHQ", "", "BHWVCBJSBFBT", "FWDTHST", "MNTS", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Stacks: ["JLN", "", "RMHHQ", "", "BHWVCBJSBFBT", "FWDTHST", "MNTS", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Move: move 6 from 6 to 1
+	From: FWDTHST
+	To: JLN
+	Amt: 6
+After operations:
+From: F
+To: JLNWDTHST
+Stacks: ["JLNWDTHST", "", "RMHHQ", "", "BHWVCBJSBFBT", "F", "MNTS", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Stacks: ["JLNWDTHST", "", "RMHHQ", "", "BHWVCBJSBFBT", "F", "MNTS", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Move: move 2 from 7 to 5
+	From: MNTS
+	To: BHWVCBJSBFBT
+	Amt: 2
+After operations:
+From: MN
+To: BHWVCBJSBFBTTS
+Stacks: ["JLNWDTHST", "", "RMHHQ", "", "BHWVCBJSBFBTTS", "F", "MN", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Stacks: ["JLNWDTHST", "", "RMHHQ", "", "BHWVCBJSBFBTTS", "F", "MN", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Move: move 1 from 3 to 5
+	From: RMHHQ
+	To: BHWVCBJSBFBTTS
+	Amt: 1
+After operations:
+From: RMHH
+To: BHWVCBJSBFBTTSQ
+Stacks: ["JLNWDTHST", "", "RMHH", "", "BHWVCBJSBFBTTSQ", "F", "MN", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Stacks: ["JLNWDTHST", "", "RMHH", "", "BHWVCBJSBFBTTSQ", "F", "MN", "JLWLJ", "QMZTNFDQBNHGNDLJFRRR"]
+Move: move 11 from 9 to 4
+	From: QMZTNFDQBNHGNDLJFRRR
+	To: 
+	Amt: 11
+After operations:
+From: QMZTNFDQB
+To: NHGNDLJFRRR
+Stacks: ["JLNWDTHST", "", "RMHH", "NHGNDLJFRRR", "BHWVCBJSBFBTTSQ", "F", "MN", "JLWLJ", "QMZTNFDQB"]
+Stacks: ["JLNWDTHST", "", "RMHH", "NHGNDLJFRRR", "BHWVCBJSBFBTTSQ", "F", "MN", "JLWLJ", "QMZTNFDQB"]
+Move: move 9 from 4 to 5
+	From: NHGNDLJFRRR
+	To: BHWVCBJSBFBTTSQ
+	Amt: 9
+After operations:
+From: NH
+To: BHWVCBJSBFBTTSQGNDLJFRRR
+Stacks: ["JLNWDTHST", "", "RMHH", "NH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWLJ", "QMZTNFDQB"]
+Stacks: ["JLNWDTHST", "", "RMHH", "NH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWLJ", "QMZTNFDQB"]
+Move: move 3 from 3 to 4
+	From: RMHH
+	To: NH
+	Amt: 3
+After operations:
+From: R
+To: NHMHH
+Stacks: ["JLNWDTHST", "", "R", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWLJ", "QMZTNFDQB"]
+Stacks: ["JLNWDTHST", "", "R", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWLJ", "QMZTNFDQB"]
+Move: move 1 from 3 to 9
+	From: R
+	To: QMZTNFDQB
+	Amt: 1
+After operations:
+From: 
+To: QMZTNFDQBR
+Stacks: ["JLNWDTHST", "", "", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWLJ", "QMZTNFDQBR"]
+Stacks: ["JLNWDTHST", "", "", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWLJ", "QMZTNFDQBR"]
+Move: move 2 from 8 to 1
+	From: JLWLJ
+	To: JLNWDTHST
+	Amt: 2
+After operations:
+From: JLW
+To: JLNWDTHSTLJ
+Stacks: ["JLNWDTHSTLJ", "", "", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLW", "QMZTNFDQBR"]
+Stacks: ["JLNWDTHSTLJ", "", "", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLW", "QMZTNFDQBR"]
+Move: move 9 from 1 to 8
+	From: JLNWDTHSTLJ
+	To: JLW
+	Amt: 9
+After operations:
+From: JL
+To: JLWNWDTHSTLJ
+Stacks: ["JL", "", "", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWNWDTHSTLJ", "QMZTNFDQBR"]
+Stacks: ["JL", "", "", "NHMHH", "BHWVCBJSBFBTTSQGNDLJFRRR", "F", "MN", "JLWNWDTHSTLJ", "QMZTNFDQBR"]
+Move: move 22 from 5 to 8
+	From: BHWVCBJSBFBTTSQGNDLJFRRR
+	To: JLWNWDTHSTLJ
+	Amt: 22
+After operations:
+From: BH
+To: JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR
+Stacks: ["JL", "", "", "NHMHH", "BH", "F", "MN", "JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR", "QMZTNFDQBR"]
+Stacks: ["JL", "", "", "NHMHH", "BH", "F", "MN", "JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR", "QMZTNFDQBR"]
+Move: move 2 from 1 to 3
+	From: JL
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: JL
+Stacks: ["", "", "JL", "NHMHH", "BH", "F", "MN", "JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR", "QMZTNFDQBR"]
+Stacks: ["", "", "JL", "NHMHH", "BH", "F", "MN", "JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR", "QMZTNFDQBR"]
+Move: move 3 from 4 to 6
+	From: NHMHH
+	To: F
+	Amt: 3
+After operations:
+From: NH
+To: FMHH
+Stacks: ["", "", "JL", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR", "QMZTNFDQBR"]
+Stacks: ["", "", "JL", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR", "QMZTNFDQBR"]
+Move: move 14 from 8 to 9
+	From: JLWNWDTHSTLJWVCBJSBFBTTSQGNDLJFRRR
+	To: QMZTNFDQBR
+	Amt: 14
+After operations:
+From: JLWNWDTHSTLJWVCBJSBF
+To: QMZTNFDQBRBTTSQGNDLJFRRR
+Stacks: ["", "", "JL", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZTNFDQBRBTTSQGNDLJFRRR"]
+Stacks: ["", "", "JL", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZTNFDQBRBTTSQGNDLJFRRR"]
+Move: move 1 from 3 to 9
+	From: JL
+	To: QMZTNFDQBRBTTSQGNDLJFRRR
+	Amt: 1
+After operations:
+From: J
+To: QMZTNFDQBRBTTSQGNDLJFRRRL
+Stacks: ["", "", "J", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZTNFDQBRBTTSQGNDLJFRRRL"]
+Stacks: ["", "", "J", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZTNFDQBRBTTSQGNDLJFRRRL"]
+Move: move 19 from 9 to 3
+	From: QMZTNFDQBRBTTSQGNDLJFRRRL
+	To: J
+	Amt: 19
+After operations:
+From: QMZTNF
+To: JDQBRBTTSQGNDLJFRRRL
+Stacks: ["", "", "JDQBRBTTSQGNDLJFRRRL", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZTNF"]
+Stacks: ["", "", "JDQBRBTTSQGNDLJFRRRL", "NH", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZTNF"]
+Move: move 3 from 9 to 4
+	From: QMZTNF
+	To: NH
+	Amt: 3
+After operations:
+From: QMZ
+To: NHTNF
+Stacks: ["", "", "JDQBRBTTSQGNDLJFRRRL", "NHTNF", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZ"]
+Stacks: ["", "", "JDQBRBTTSQGNDLJFRRRL", "NHTNF", "BH", "FMHH", "MN", "JLWNWDTHSTLJWVCBJSBF", "QMZ"]
+Move: move 2 from 7 to 2
+	From: MN
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: MN
+Stacks: ["", "MN", "JDQBRBTTSQGNDLJFRRRL", "NHTNF", "BH", "FMHH", "", "JLWNWDTHSTLJWVCBJSBF", "QMZ"]
+Stacks: ["", "MN", "JDQBRBTTSQGNDLJFRRRL", "NHTNF", "BH", "FMHH", "", "JLWNWDTHSTLJWVCBJSBF", "QMZ"]
+Move: move 1 from 4 to 6
+	From: NHTNF
+	To: FMHH
+	Amt: 1
+After operations:
+From: NHTN
+To: FMHHF
+Stacks: ["", "MN", "JDQBRBTTSQGNDLJFRRRL", "NHTN", "BH", "FMHHF", "", "JLWNWDTHSTLJWVCBJSBF", "QMZ"]
+Stacks: ["", "MN", "JDQBRBTTSQGNDLJFRRRL", "NHTN", "BH", "FMHHF", "", "JLWNWDTHSTLJWVCBJSBF", "QMZ"]
+Move: move 1 from 3 to 8
+	From: JDQBRBTTSQGNDLJFRRRL
+	To: JLWNWDTHSTLJWVCBJSBF
+	Amt: 1
+After operations:
+From: JDQBRBTTSQGNDLJFRRR
+To: JLWNWDTHSTLJWVCBJSBFL
+Stacks: ["", "MN", "JDQBRBTTSQGNDLJFRRR", "NHTN", "BH", "FMHHF", "", "JLWNWDTHSTLJWVCBJSBFL", "QMZ"]
+Stacks: ["", "MN", "JDQBRBTTSQGNDLJFRRR", "NHTN", "BH", "FMHHF", "", "JLWNWDTHSTLJWVCBJSBFL", "QMZ"]
+Move: move 8 from 3 to 1
+	From: JDQBRBTTSQGNDLJFRRR
+	To: 
+	Amt: 8
+After operations:
+From: JDQBRBTTSQG
+To: NDLJFRRR
+Stacks: ["NDLJFRRR", "MN", "JDQBRBTTSQG", "NHTN", "BH", "FMHHF", "", "JLWNWDTHSTLJWVCBJSBFL", "QMZ"]
+Stacks: ["NDLJFRRR", "MN", "JDQBRBTTSQG", "NHTN", "BH", "FMHHF", "", "JLWNWDTHSTLJWVCBJSBFL", "QMZ"]
+Move: move 2 from 9 to 6
+	From: QMZ
+	To: FMHHF
+	Amt: 2
+After operations:
+From: Q
+To: FMHHFMZ
+Stacks: ["NDLJFRRR", "MN", "JDQBRBTTSQG", "NHTN", "BH", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "Q"]
+Stacks: ["NDLJFRRR", "MN", "JDQBRBTTSQG", "NHTN", "BH", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "Q"]
+Move: move 1 from 2 to 5
+	From: MN
+	To: BH
+	Amt: 1
+After operations:
+From: M
+To: BHN
+Stacks: ["NDLJFRRR", "M", "JDQBRBTTSQG", "NHTN", "BHN", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "Q"]
+Stacks: ["NDLJFRRR", "M", "JDQBRBTTSQG", "NHTN", "BHN", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "Q"]
+Move: move 3 from 4 to 9
+	From: NHTN
+	To: Q
+	Amt: 3
+After operations:
+From: N
+To: QHTN
+Stacks: ["NDLJFRRR", "M", "JDQBRBTTSQG", "N", "BHN", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "QHTN"]
+Stacks: ["NDLJFRRR", "M", "JDQBRBTTSQG", "N", "BHN", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "QHTN"]
+Move: move 1 from 2 to 3
+	From: M
+	To: JDQBRBTTSQG
+	Amt: 1
+After operations:
+From: 
+To: JDQBRBTTSQGM
+Stacks: ["NDLJFRRR", "", "JDQBRBTTSQGM", "N", "BHN", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "QHTN"]
+Stacks: ["NDLJFRRR", "", "JDQBRBTTSQGM", "N", "BHN", "FMHHFMZ", "", "JLWNWDTHSTLJWVCBJSBFL", "QHTN"]
+Move: move 20 from 8 to 3
+	From: JLWNWDTHSTLJWVCBJSBFL
+	To: JDQBRBTTSQGM
+	Amt: 20
+After operations:
+From: J
+To: JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL
+Stacks: ["NDLJFRRR", "", "JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL", "N", "BHN", "FMHHFMZ", "", "J", "QHTN"]
+Stacks: ["NDLJFRRR", "", "JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL", "N", "BHN", "FMHHFMZ", "", "J", "QHTN"]
+Move: move 4 from 9 to 5
+	From: QHTN
+	To: BHN
+	Amt: 4
+After operations:
+From: 
+To: BHNQHTN
+Stacks: ["NDLJFRRR", "", "JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL", "N", "BHNQHTN", "FMHHFMZ", "", "J", ""]
+Stacks: ["NDLJFRRR", "", "JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL", "N", "BHNQHTN", "FMHHFMZ", "", "J", ""]
+Move: move 1 from 4 to 2
+	From: N
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: N
+Stacks: ["NDLJFRRR", "N", "JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL", "", "BHNQHTN", "FMHHFMZ", "", "J", ""]
+Stacks: ["NDLJFRRR", "N", "JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL", "", "BHNQHTN", "FMHHFMZ", "", "J", ""]
+Move: move 26 from 3 to 5
+	From: JDQBRBTTSQGMLWNWDTHSTLJWVCBJSBFL
+	To: BHNQHTN
+	Amt: 26
+After operations:
+From: JDQBRB
+To: BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL
+Stacks: ["NDLJFRRR", "N", "JDQBRB", "", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "", "J", ""]
+Stacks: ["NDLJFRRR", "N", "JDQBRB", "", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "", "J", ""]
+Move: move 1 from 8 to 3
+	From: J
+	To: JDQBRB
+	Amt: 1
+After operations:
+From: 
+To: JDQBRBJ
+Stacks: ["NDLJFRRR", "N", "JDQBRBJ", "", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "", "", ""]
+Stacks: ["NDLJFRRR", "N", "JDQBRBJ", "", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "", "", ""]
+Move: move 8 from 1 to 4
+	From: NDLJFRRR
+	To: 
+	Amt: 8
+After operations:
+From: 
+To: NDLJFRRR
+Stacks: ["", "N", "JDQBRBJ", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "", "", ""]
+Stacks: ["", "N", "JDQBRBJ", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "", "", ""]
+Move: move 1 from 3 to 7
+	From: JDQBRBJ
+	To: 
+	Amt: 1
+After operations:
+From: JDQBRB
+To: J
+Stacks: ["", "N", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "J", "", ""]
+Stacks: ["", "N", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "J", "", ""]
+Move: move 1 from 2 to 1
+	From: N
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: N
+Stacks: ["N", "", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "J", "", ""]
+Stacks: ["N", "", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "J", "", ""]
+Move: move 1 from 1 to 6
+	From: N
+	To: FMHHFMZ
+	Amt: 1
+After operations:
+From: 
+To: FMHHFMZN
+Stacks: ["", "", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZN", "J", "", ""]
+Stacks: ["", "", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZN", "J", "", ""]
+Move: move 1 from 6 to 7
+	From: FMHHFMZN
+	To: J
+	Amt: 1
+After operations:
+From: FMHHFMZ
+To: JN
+Stacks: ["", "", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "JN", "", ""]
+Stacks: ["", "", "JDQBRB", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL", "FMHHFMZ", "JN", "", ""]
+Move: move 4 from 5 to 3
+	From: BHNQHTNTTSQGMLWNWDTHSTLJWVCBJSBFL
+	To: JDQBRB
+	Amt: 4
+After operations:
+From: BHNQHTNTTSQGMLWNWDTHSTLJWVCBJ
+To: JDQBRBSBFL
+Stacks: ["", "", "JDQBRBSBFL", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJ", "FMHHFMZ", "JN", "", ""]
+Stacks: ["", "", "JDQBRBSBFL", "NDLJFRRR", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJ", "FMHHFMZ", "JN", "", ""]
+Move: move 3 from 4 to 2
+	From: NDLJFRRR
+	To: 
+	Amt: 3
+After operations:
+From: NDLJF
+To: RRR
+Stacks: ["", "RRR", "JDQBRBSBFL", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJ", "FMHHFMZ", "JN", "", ""]
+Stacks: ["", "RRR", "JDQBRBSBFL", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJWVCBJ", "FMHHFMZ", "JN", "", ""]
+Move: move 5 from 5 to 3
+	From: BHNQHTNTTSQGMLWNWDTHSTLJWVCBJ
+	To: JDQBRBSBFL
+	Amt: 5
+After operations:
+From: BHNQHTNTTSQGMLWNWDTHSTLJ
+To: JDQBRBSBFLWVCBJ
+Stacks: ["", "RRR", "JDQBRBSBFLWVCBJ", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJ", "FMHHFMZ", "JN", "", ""]
+Stacks: ["", "RRR", "JDQBRBSBFLWVCBJ", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJ", "FMHHFMZ", "JN", "", ""]
+Move: move 2 from 2 to 6
+	From: RRR
+	To: FMHHFMZ
+	Amt: 2
+After operations:
+From: R
+To: FMHHFMZRR
+Stacks: ["", "R", "JDQBRBSBFLWVCBJ", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJ", "FMHHFMZRR", "JN", "", ""]
+Stacks: ["", "R", "JDQBRBSBFLWVCBJ", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJ", "FMHHFMZRR", "JN", "", ""]
+Move: move 3 from 3 to 5
+	From: JDQBRBSBFLWVCBJ
+	To: BHNQHTNTTSQGMLWNWDTHSTLJ
+	Amt: 3
+After operations:
+From: JDQBRBSBFLWV
+To: BHNQHTNTTSQGMLWNWDTHSTLJCBJ
+Stacks: ["", "R", "JDQBRBSBFLWV", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "", ""]
+Stacks: ["", "R", "JDQBRBSBFLWV", "NDLJF", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "", ""]
+Move: move 2 from 4 to 8
+	From: NDLJF
+	To: 
+	Amt: 2
+After operations:
+From: NDL
+To: JF
+Stacks: ["", "R", "JDQBRBSBFLWV", "NDL", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "JF", ""]
+Stacks: ["", "R", "JDQBRBSBFLWV", "NDL", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "JF", ""]
+Move: move 5 from 3 to 9
+	From: JDQBRBSBFLWV
+	To: 
+	Amt: 5
+After operations:
+From: JDQBRBS
+To: BFLWV
+Stacks: ["", "R", "JDQBRBS", "NDL", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "JF", "BFLWV"]
+Stacks: ["", "R", "JDQBRBS", "NDL", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "JF", "BFLWV"]
+Move: move 5 from 9 to 8
+	From: BFLWV
+	To: JF
+	Amt: 5
+After operations:
+From: 
+To: JFBFLWV
+Stacks: ["", "R", "JDQBRBS", "NDL", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "JFBFLWV", ""]
+Stacks: ["", "R", "JDQBRBS", "NDL", "BHNQHTNTTSQGMLWNWDTHSTLJCBJ", "FMHHFMZRR", "JN", "JFBFLWV", ""]
+Move: move 19 from 5 to 9
+	From: BHNQHTNTTSQGMLWNWDTHSTLJCBJ
+	To: 
+	Amt: 19
+After operations:
+From: BHNQHTNT
+To: TSQGMLWNWDTHSTLJCBJ
+Stacks: ["", "R", "JDQBRBS", "NDL", "BHNQHTNT", "FMHHFMZRR", "JN", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Stacks: ["", "R", "JDQBRBS", "NDL", "BHNQHTNT", "FMHHFMZRR", "JN", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Move: move 1 from 5 to 2
+	From: BHNQHTNT
+	To: R
+	Amt: 1
+After operations:
+From: BHNQHTN
+To: RT
+Stacks: ["", "RT", "JDQBRBS", "NDL", "BHNQHTN", "FMHHFMZRR", "JN", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Stacks: ["", "RT", "JDQBRBS", "NDL", "BHNQHTN", "FMHHFMZRR", "JN", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Move: move 2 from 7 to 1
+	From: JN
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: JN
+Stacks: ["JN", "RT", "JDQBRBS", "NDL", "BHNQHTN", "FMHHFMZRR", "", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Stacks: ["JN", "RT", "JDQBRBS", "NDL", "BHNQHTN", "FMHHFMZRR", "", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Move: move 1 from 1 to 7
+	From: JN
+	To: 
+	Amt: 1
+After operations:
+From: J
+To: N
+Stacks: ["J", "RT", "JDQBRBS", "NDL", "BHNQHTN", "FMHHFMZRR", "N", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Stacks: ["J", "RT", "JDQBRBS", "NDL", "BHNQHTN", "FMHHFMZRR", "N", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Move: move 1 from 7 to 4
+	From: N
+	To: NDL
+	Amt: 1
+After operations:
+From: 
+To: NDLN
+Stacks: ["J", "RT", "JDQBRBS", "NDLN", "BHNQHTN", "FMHHFMZRR", "", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Stacks: ["J", "RT", "JDQBRBS", "NDLN", "BHNQHTN", "FMHHFMZRR", "", "JFBFLWV", "TSQGMLWNWDTHSTLJCBJ"]
+Move: move 13 from 9 to 3
+	From: TSQGMLWNWDTHSTLJCBJ
+	To: JDQBRBS
+	Amt: 13
+After operations:
+From: TSQGML
+To: JDQBRBSWNWDTHSTLJCBJ
+Stacks: ["J", "RT", "JDQBRBSWNWDTHSTLJCBJ", "NDLN", "BHNQHTN", "FMHHFMZRR", "", "JFBFLWV", "TSQGML"]
+Stacks: ["J", "RT", "JDQBRBSWNWDTHSTLJCBJ", "NDLN", "BHNQHTN", "FMHHFMZRR", "", "JFBFLWV", "TSQGML"]
+Move: move 8 from 6 to 2
+	From: FMHHFMZRR
+	To: RT
+	Amt: 8
+After operations:
+From: F
+To: RTMHHFMZRR
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNWDTHSTLJCBJ", "NDLN", "BHNQHTN", "F", "", "JFBFLWV", "TSQGML"]
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNWDTHSTLJCBJ", "NDLN", "BHNQHTN", "F", "", "JFBFLWV", "TSQGML"]
+Move: move 10 from 3 to 5
+	From: JDQBRBSWNWDTHSTLJCBJ
+	To: BHNQHTN
+	Amt: 10
+After operations:
+From: JDQBRBSWNW
+To: BHNQHTNDTHSTLJCBJ
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNW", "NDLN", "BHNQHTNDTHSTLJCBJ", "F", "", "JFBFLWV", "TSQGML"]
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNW", "NDLN", "BHNQHTNDTHSTLJCBJ", "F", "", "JFBFLWV", "TSQGML"]
+Move: move 14 from 5 to 4
+	From: BHNQHTNDTHSTLJCBJ
+	To: NDLN
+	Amt: 14
+After operations:
+From: BHN
+To: NDLNQHTNDTHSTLJCBJ
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNW", "NDLNQHTNDTHSTLJCBJ", "BHN", "F", "", "JFBFLWV", "TSQGML"]
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNW", "NDLNQHTNDTHSTLJCBJ", "BHN", "F", "", "JFBFLWV", "TSQGML"]
+Move: move 7 from 8 to 4
+	From: JFBFLWV
+	To: NDLNQHTNDTHSTLJCBJ
+	Amt: 7
+After operations:
+From: 
+To: NDLNQHTNDTHSTLJCBJJFBFLWV
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNW", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "F", "", "", "TSQGML"]
+Stacks: ["J", "RTMHHFMZRR", "JDQBRBSWNW", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "F", "", "", "TSQGML"]
+Move: move 1 from 6 to 2
+	From: F
+	To: RTMHHFMZRR
+	Amt: 1
+After operations:
+From: 
+To: RTMHHFMZRRF
+Stacks: ["J", "RTMHHFMZRRF", "JDQBRBSWNW", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "", "", "TSQGML"]
+Stacks: ["J", "RTMHHFMZRRF", "JDQBRBSWNW", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "", "", "TSQGML"]
+Move: move 6 from 3 to 8
+	From: JDQBRBSWNW
+	To: 
+	Amt: 6
+After operations:
+From: JDQB
+To: RBSWNW
+Stacks: ["J", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "", "RBSWNW", "TSQGML"]
+Stacks: ["J", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "", "RBSWNW", "TSQGML"]
+Move: move 4 from 9 to 7
+	From: TSQGML
+	To: 
+	Amt: 4
+After operations:
+From: TS
+To: QGML
+Stacks: ["J", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGML", "RBSWNW", "TS"]
+Stacks: ["J", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGML", "RBSWNW", "TS"]
+Move: move 2 from 9 to 8
+	From: TS
+	To: RBSWNW
+	Amt: 2
+After operations:
+From: 
+To: RBSWNWTS
+Stacks: ["J", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGML", "RBSWNWTS", ""]
+Stacks: ["J", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGML", "RBSWNWTS", ""]
+Move: move 1 from 7 to 1
+	From: QGML
+	To: J
+	Amt: 1
+After operations:
+From: QGM
+To: JL
+Stacks: ["JL", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGM", "RBSWNWTS", ""]
+Stacks: ["JL", "RTMHHFMZRRF", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGM", "RBSWNWTS", ""]
+Move: move 3 from 2 to 7
+	From: RTMHHFMZRRF
+	To: QGM
+	Amt: 3
+After operations:
+From: RTMHHFMZ
+To: QGMRRF
+Stacks: ["JL", "RTMHHFMZ", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGMRRF", "RBSWNWTS", ""]
+Stacks: ["JL", "RTMHHFMZ", "JDQB", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BHN", "", "QGMRRF", "RBSWNWTS", ""]
+Move: move 1 from 5 to 3
+	From: BHN
+	To: JDQB
+	Amt: 1
+After operations:
+From: BH
+To: JDQBN
+Stacks: ["JL", "RTMHHFMZ", "JDQBN", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BH", "", "QGMRRF", "RBSWNWTS", ""]
+Stacks: ["JL", "RTMHHFMZ", "JDQBN", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BH", "", "QGMRRF", "RBSWNWTS", ""]
+Move: move 7 from 8 to 6
+	From: RBSWNWTS
+	To: 
+	Amt: 7
+After operations:
+From: R
+To: BSWNWTS
+Stacks: ["JL", "RTMHHFMZ", "JDQBN", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BH", "BSWNWTS", "QGMRRF", "R", ""]
+Stacks: ["JL", "RTMHHFMZ", "JDQBN", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BH", "BSWNWTS", "QGMRRF", "R", ""]
+Move: move 5 from 6 to 2
+	From: BSWNWTS
+	To: RTMHHFMZ
+	Amt: 5
+After operations:
+From: BS
+To: RTMHHFMZWNWTS
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BH", "BS", "QGMRRF", "R", ""]
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCBJJFBFLWV", "BH", "BS", "QGMRRF", "R", ""]
+Move: move 8 from 4 to 5
+	From: NDLNQHTNDTHSTLJCBJJFBFLWV
+	To: BH
+	Amt: 8
+After operations:
+From: NDLNQHTNDTHSTLJCB
+To: BHJJFBFLWV
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBFLWV", "BS", "QGMRRF", "R", ""]
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBFLWV", "BS", "QGMRRF", "R", ""]
+Move: move 3 from 5 to 8
+	From: BHJJFBFLWV
+	To: R
+	Amt: 3
+After operations:
+From: BHJJFBF
+To: RLWV
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BS", "QGMRRF", "RLWV", ""]
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BS", "QGMRRF", "RLWV", ""]
+Move: move 3 from 8 to 6
+	From: RLWV
+	To: BS
+	Amt: 3
+After operations:
+From: R
+To: BSLWV
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BSLWV", "QGMRRF", "R", ""]
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BSLWV", "QGMRRF", "R", ""]
+Move: move 5 from 7 to 9
+	From: QGMRRF
+	To: 
+	Amt: 5
+After operations:
+From: Q
+To: GMRRF
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BSLWV", "Q", "R", "GMRRF"]
+Stacks: ["JL", "RTMHHFMZWNWTS", "JDQBN", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BSLWV", "Q", "R", "GMRRF"]
+Move: move 5 from 3 to 6
+	From: JDQBN
+	To: BSLWV
+	Amt: 5
+After operations:
+From: 
+To: BSLWVJDQBN
+Stacks: ["JL", "RTMHHFMZWNWTS", "", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BSLWVJDQBN", "Q", "R", "GMRRF"]
+Stacks: ["JL", "RTMHHFMZWNWTS", "", "NDLNQHTNDTHSTLJCB", "BHJJFBF", "BSLWVJDQBN", "Q", "R", "GMRRF"]
+Move: move 1 from 9 to 4
+	From: GMRRF
+	To: NDLNQHTNDTHSTLJCB
+	Amt: 1
+After operations:
+From: GMRR
+To: NDLNQHTNDTHSTLJCBF
+Stacks: ["JL", "RTMHHFMZWNWTS", "", "NDLNQHTNDTHSTLJCBF", "BHJJFBF", "BSLWVJDQBN", "Q", "R", "GMRR"]
+Stacks: ["JL", "RTMHHFMZWNWTS", "", "NDLNQHTNDTHSTLJCBF", "BHJJFBF", "BSLWVJDQBN", "Q", "R", "GMRR"]
+Move: move 17 from 4 to 7
+	From: NDLNQHTNDTHSTLJCBF
+	To: Q
+	Amt: 17
+After operations:
+From: N
+To: QDLNQHTNDTHSTLJCBF
+Stacks: ["JL", "RTMHHFMZWNWTS", "", "N", "BHJJFBF", "BSLWVJDQBN", "QDLNQHTNDTHSTLJCBF", "R", "GMRR"]
+Stacks: ["JL", "RTMHHFMZWNWTS", "", "N", "BHJJFBF", "BSLWVJDQBN", "QDLNQHTNDTHSTLJCBF", "R", "GMRR"]
+Move: move 1 from 8 to 1
+	From: R
+	To: JL
+	Amt: 1
+After operations:
+From: 
+To: JLR
+Stacks: ["JLR", "RTMHHFMZWNWTS", "", "N", "BHJJFBF", "BSLWVJDQBN", "QDLNQHTNDTHSTLJCBF", "", "GMRR"]
+Stacks: ["JLR", "RTMHHFMZWNWTS", "", "N", "BHJJFBF", "BSLWVJDQBN", "QDLNQHTNDTHSTLJCBF", "", "GMRR"]
+Move: move 12 from 7 to 8
+	From: QDLNQHTNDTHSTLJCBF
+	To: 
+	Amt: 12
+After operations:
+From: QDLNQH
+To: TNDTHSTLJCBF
+Stacks: ["JLR", "RTMHHFMZWNWTS", "", "N", "BHJJFBF", "BSLWVJDQBN", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Stacks: ["JLR", "RTMHHFMZWNWTS", "", "N", "BHJJFBF", "BSLWVJDQBN", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Move: move 3 from 1 to 4
+	From: JLR
+	To: N
+	Amt: 3
+After operations:
+From: 
+To: NJLR
+Stacks: ["", "RTMHHFMZWNWTS", "", "NJLR", "BHJJFBF", "BSLWVJDQBN", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Stacks: ["", "RTMHHFMZWNWTS", "", "NJLR", "BHJJFBF", "BSLWVJDQBN", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Move: move 2 from 4 to 6
+	From: NJLR
+	To: BSLWVJDQBN
+	Amt: 2
+After operations:
+From: NJ
+To: BSLWVJDQBNLR
+Stacks: ["", "RTMHHFMZWNWTS", "", "NJ", "BHJJFBF", "BSLWVJDQBNLR", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Stacks: ["", "RTMHHFMZWNWTS", "", "NJ", "BHJJFBF", "BSLWVJDQBNLR", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Move: move 8 from 6 to 1
+	From: BSLWVJDQBNLR
+	To: 
+	Amt: 8
+After operations:
+From: BSLW
+To: VJDQBNLR
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "", "NJ", "BHJJFBF", "BSLW", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "", "NJ", "BHJJFBF", "BSLW", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Move: move 4 from 6 to 3
+	From: BSLW
+	To: 
+	Amt: 4
+After operations:
+From: 
+To: BSLW
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "BSLW", "NJ", "BHJJFBF", "", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "BSLW", "NJ", "BHJJFBF", "", "QDLNQH", "TNDTHSTLJCBF", "GMRR"]
+Move: move 1 from 7 to 8
+	From: QDLNQH
+	To: TNDTHSTLJCBF
+	Amt: 1
+After operations:
+From: QDLNQ
+To: TNDTHSTLJCBFH
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "BSLW", "NJ", "BHJJFBF", "", "QDLNQ", "TNDTHSTLJCBFH", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "BSLW", "NJ", "BHJJFBF", "", "QDLNQ", "TNDTHSTLJCBFH", "GMRR"]
+Move: move 5 from 5 to 8
+	From: BHJJFBF
+	To: TNDTHSTLJCBFH
+	Amt: 5
+After operations:
+From: BH
+To: TNDTHSTLJCBFHJJFBF
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "BSLW", "NJ", "BH", "", "QDLNQ", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNWTS", "BSLW", "NJ", "BH", "", "QDLNQ", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Move: move 4 from 7 to 1
+	From: QDLNQ
+	To: VJDQBNLR
+	Amt: 4
+After operations:
+From: Q
+To: VJDQBNLRDLNQ
+Stacks: ["VJDQBNLRDLNQ", "RTMHHFMZWNWTS", "BSLW", "NJ", "BH", "", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Stacks: ["VJDQBNLRDLNQ", "RTMHHFMZWNWTS", "BSLW", "NJ", "BH", "", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Move: move 3 from 2 to 6
+	From: RTMHHFMZWNWTS
+	To: 
+	Amt: 3
+After operations:
+From: RTMHHFMZWN
+To: WTS
+Stacks: ["VJDQBNLRDLNQ", "RTMHHFMZWN", "BSLW", "NJ", "BH", "WTS", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Stacks: ["VJDQBNLRDLNQ", "RTMHHFMZWN", "BSLW", "NJ", "BH", "WTS", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Move: move 2 from 5 to 1
+	From: BH
+	To: VJDQBNLRDLNQ
+	Amt: 2
+After operations:
+From: 
+To: VJDQBNLRDLNQBH
+Stacks: ["VJDQBNLRDLNQBH", "RTMHHFMZWN", "BSLW", "NJ", "", "WTS", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Stacks: ["VJDQBNLRDLNQBH", "RTMHHFMZWN", "BSLW", "NJ", "", "WTS", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Move: move 6 from 1 to 6
+	From: VJDQBNLRDLNQBH
+	To: WTS
+	Amt: 6
+After operations:
+From: VJDQBNLR
+To: WTSDLNQBH
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "BSLW", "NJ", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "BSLW", "NJ", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Move: move 4 from 3 to 5
+	From: BSLW
+	To: 
+	Amt: 4
+After operations:
+From: 
+To: BSLW
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "", "NJ", "BSLW", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "", "NJ", "BSLW", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Move: move 4 from 5 to 3
+	From: BSLW
+	To: 
+	Amt: 4
+After operations:
+From: 
+To: BSLW
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "BSLW", "NJ", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "BSLW", "NJ", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBF", "GMRR"]
+Move: move 1 from 4 to 8
+	From: NJ
+	To: TNDTHSTLJCBFHJJFBF
+	Amt: 1
+After operations:
+From: N
+To: TNDTHSTLJCBFHJJFBFJ
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "BSLW", "N", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBFJ", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWN", "BSLW", "N", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBFJ", "GMRR"]
+Move: move 3 from 3 to 2
+	From: BSLW
+	To: RTMHHFMZWN
+	Amt: 3
+After operations:
+From: B
+To: RTMHHFMZWNSLW
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "B", "N", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBFJ", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "B", "N", "", "WTSDLNQBH", "Q", "TNDTHSTLJCBFHJJFBFJ", "GMRR"]
+Move: move 17 from 8 to 4
+	From: TNDTHSTLJCBFHJJFBFJ
+	To: N
+	Amt: 17
+After operations:
+From: TN
+To: NDTHSTLJCBFHJJFBFJ
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "B", "NDTHSTLJCBFHJJFBFJ", "", "WTSDLNQBH", "Q", "TN", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "B", "NDTHSTLJCBFHJJFBFJ", "", "WTSDLNQBH", "Q", "TN", "GMRR"]
+Move: move 6 from 6 to 3
+	From: WTSDLNQBH
+	To: B
+	Amt: 6
+After operations:
+From: WTS
+To: BDLNQBH
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQBH", "NDTHSTLJCBFHJJFBFJ", "", "WTS", "Q", "TN", "GMRR"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQBH", "NDTHSTLJCBFHJJFBFJ", "", "WTS", "Q", "TN", "GMRR"]
+Move: move 14 from 4 to 9
+	From: NDTHSTLJCBFHJJFBFJ
+	To: GMRR
+	Amt: 14
+After operations:
+From: NDTH
+To: GMRRSTLJCBFHJJFBFJ
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQBH", "NDTH", "", "WTS", "Q", "TN", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQBH", "NDTH", "", "WTS", "Q", "TN", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 3 to 8
+	From: BDLNQBH
+	To: TN
+	Amt: 1
+After operations:
+From: BDLNQB
+To: TNH
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQB", "NDTH", "", "WTS", "Q", "TNH", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQB", "NDTH", "", "WTS", "Q", "TNH", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 7 to 4
+	From: Q
+	To: NDTH
+	Amt: 1
+After operations:
+From: 
+To: NDTHQ
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQB", "NDTHQ", "", "WTS", "", "TNH", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQB", "NDTHQ", "", "WTS", "", "TNH", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 3 from 8 to 3
+	From: TNH
+	To: BDLNQB
+	Amt: 3
+After operations:
+From: 
+To: BDLNQBTNH
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQBTNH", "NDTHQ", "", "WTS", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJDQBNLR", "RTMHHFMZWNSLW", "BDLNQBTNH", "NDTHQ", "", "WTS", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 5 from 2 to 5
+	From: RTMHHFMZWNSLW
+	To: 
+	Amt: 5
+After operations:
+From: RTMHHFMZ
+To: WNSLW
+Stacks: ["VJDQBNLR", "RTMHHFMZ", "BDLNQBTNH", "NDTHQ", "WNSLW", "WTS", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJDQBNLR", "RTMHHFMZ", "BDLNQBTNH", "NDTHQ", "WNSLW", "WTS", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 6 from 1 to 7
+	From: VJDQBNLR
+	To: 
+	Amt: 6
+After operations:
+From: VJ
+To: DQBNLR
+Stacks: ["VJ", "RTMHHFMZ", "BDLNQBTNH", "NDTHQ", "WNSLW", "WTS", "DQBNLR", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJ", "RTMHHFMZ", "BDLNQBTNH", "NDTHQ", "WNSLW", "WTS", "DQBNLR", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 2 from 6 to 4
+	From: WTS
+	To: NDTHQ
+	Amt: 2
+After operations:
+From: W
+To: NDTHQTS
+Stacks: ["VJ", "RTMHHFMZ", "BDLNQBTNH", "NDTHQTS", "WNSLW", "W", "DQBNLR", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJ", "RTMHHFMZ", "BDLNQBTNH", "NDTHQTS", "WNSLW", "W", "DQBNLR", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 4 from 5 to 7
+	From: WNSLW
+	To: DQBNLR
+	Amt: 4
+After operations:
+From: W
+To: DQBNLRNSLW
+Stacks: ["VJ", "RTMHHFMZ", "BDLNQBTNH", "NDTHQTS", "W", "W", "DQBNLRNSLW", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VJ", "RTMHHFMZ", "BDLNQBTNH", "NDTHQTS", "W", "W", "DQBNLRNSLW", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 1 to 5
+	From: VJ
+	To: W
+	Amt: 1
+After operations:
+From: V
+To: WJ
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNH", "NDTHQTS", "WJ", "W", "DQBNLRNSLW", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNH", "NDTHQTS", "WJ", "W", "DQBNLRNSLW", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 6 to 3
+	From: W
+	To: BDLNQBTNH
+	Amt: 1
+After operations:
+From: 
+To: BDLNQBTNHW
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNHW", "NDTHQTS", "WJ", "", "DQBNLRNSLW", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNHW", "NDTHQTS", "WJ", "", "DQBNLRNSLW", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 10 from 7 to 4
+	From: DQBNLRNSLW
+	To: NDTHQTS
+	Amt: 10
+After operations:
+From: 
+To: NDTHQTSDQBNLRNSLW
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNHW", "NDTHQTSDQBNLRNSLW", "WJ", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNHW", "NDTHQTSDQBNLRNSLW", "WJ", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 5 to 4
+	From: WJ
+	To: NDTHQTSDQBNLRNSLW
+	Amt: 1
+After operations:
+From: W
+To: NDTHQTSDQBNLRNSLWJ
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNHW", "NDTHQTSDQBNLRNSLWJ", "W", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["V", "RTMHHFMZ", "BDLNQBTNHW", "NDTHQTSDQBNLRNSLWJ", "W", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 2 to 3
+	From: RTMHHFMZ
+	To: BDLNQBTNHW
+	Amt: 1
+After operations:
+From: RTMHHFM
+To: BDLNQBTNHWZ
+Stacks: ["V", "RTMHHFM", "BDLNQBTNHWZ", "NDTHQTSDQBNLRNSLWJ", "W", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["V", "RTMHHFM", "BDLNQBTNHWZ", "NDTHQTSDQBNLRNSLWJ", "W", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 15 from 4 to 5
+	From: NDTHQTSDQBNLRNSLWJ
+	To: W
+	Amt: 15
+After operations:
+From: NDT
+To: WHQTSDQBNLRNSLWJ
+Stacks: ["V", "RTMHHFM", "BDLNQBTNHWZ", "NDT", "WHQTSDQBNLRNSLWJ", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["V", "RTMHHFM", "BDLNQBTNHWZ", "NDT", "WHQTSDQBNLRNSLWJ", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 3 from 3 to 1
+	From: BDLNQBTNHWZ
+	To: V
+	Amt: 3
+After operations:
+From: BDLNQBTN
+To: VHWZ
+Stacks: ["VHWZ", "RTMHHFM", "BDLNQBTN", "NDT", "WHQTSDQBNLRNSLWJ", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VHWZ", "RTMHHFM", "BDLNQBTN", "NDT", "WHQTSDQBNLRNSLWJ", "", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 6 from 2 to 6
+	From: RTMHHFM
+	To: 
+	Amt: 6
+After operations:
+From: R
+To: TMHHFM
+Stacks: ["VHWZ", "R", "BDLNQBTN", "NDT", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VHWZ", "R", "BDLNQBTN", "NDT", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 2 to 3
+	From: R
+	To: BDLNQBTN
+	Amt: 1
+After operations:
+From: 
+To: BDLNQBTNR
+Stacks: ["VHWZ", "", "BDLNQBTNR", "NDT", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VHWZ", "", "BDLNQBTNR", "NDT", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 2 from 4 to 7
+	From: NDT
+	To: 
+	Amt: 2
+After operations:
+From: N
+To: DT
+Stacks: ["VHWZ", "", "BDLNQBTNR", "N", "WHQTSDQBNLRNSLWJ", "TMHHFM", "DT", "", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VHWZ", "", "BDLNQBTNR", "N", "WHQTSDQBNLRNSLWJ", "TMHHFM", "DT", "", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 2 from 7 to 8
+	From: DT
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: DT
+Stacks: ["VHWZ", "", "BDLNQBTNR", "N", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VHWZ", "", "BDLNQBTNR", "N", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 4 to 2
+	From: N
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: N
+Stacks: ["VHWZ", "N", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VHWZ", "N", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 2 from 1 to 7
+	From: VHWZ
+	To: 
+	Amt: 2
+After operations:
+From: VH
+To: WZ
+Stacks: ["VH", "N", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "WZ", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VH", "N", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "WZ", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 1 from 7 to 2
+	From: WZ
+	To: N
+	Amt: 1
+After operations:
+From: W
+To: NZ
+Stacks: ["VH", "NZ", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "W", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Stacks: ["VH", "NZ", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "W", "DT", "GMRRSTLJCBFHJJFBFJ"]
+Move: move 12 from 9 to 1
+	From: GMRRSTLJCBFHJJFBFJ
+	To: VH
+	Amt: 12
+After operations:
+From: GMRRST
+To: VHLJCBFHJJFBFJ
+Stacks: ["VHLJCBFHJJFBFJ", "NZ", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "W", "DT", "GMRRST"]
+Stacks: ["VHLJCBFHJJFBFJ", "NZ", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJ", "TMHHFM", "W", "DT", "GMRRST"]
+Move: move 4 from 9 to 5
+	From: GMRRST
+	To: WHQTSDQBNLRNSLWJ
+	Amt: 4
+After operations:
+From: GM
+To: WHQTSDQBNLRNSLWJRRST
+Stacks: ["VHLJCBFHJJFBFJ", "NZ", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJRRST", "TMHHFM", "W", "DT", "GM"]
+Stacks: ["VHLJCBFHJJFBFJ", "NZ", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJRRST", "TMHHFM", "W", "DT", "GM"]
+Move: move 4 from 6 to 2
+	From: TMHHFM
+	To: NZ
+	Amt: 4
+After operations:
+From: TM
+To: NZHHFM
+Stacks: ["VHLJCBFHJJFBFJ", "NZHHFM", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJRRST", "TM", "W", "DT", "GM"]
+Stacks: ["VHLJCBFHJJFBFJ", "NZHHFM", "BDLNQBTNR", "", "WHQTSDQBNLRNSLWJRRST", "TM", "W", "DT", "GM"]
+Move: move 1 from 7 to 3
+	From: W
+	To: BDLNQBTNR
+	Amt: 1
+After operations:
+From: 
+To: BDLNQBTNRW
+Stacks: ["VHLJCBFHJJFBFJ", "NZHHFM", "BDLNQBTNRW", "", "WHQTSDQBNLRNSLWJRRST", "TM", "", "DT", "GM"]
+Stacks: ["VHLJCBFHJJFBFJ", "NZHHFM", "BDLNQBTNRW", "", "WHQTSDQBNLRNSLWJRRST", "TM", "", "DT", "GM"]
+Move: move 6 from 2 to 4
+	From: NZHHFM
+	To: 
+	Amt: 6
+After operations:
+From: 
+To: NZHHFM
+Stacks: ["VHLJCBFHJJFBFJ", "", "BDLNQBTNRW", "NZHHFM", "WHQTSDQBNLRNSLWJRRST", "TM", "", "DT", "GM"]
+Stacks: ["VHLJCBFHJJFBFJ", "", "BDLNQBTNRW", "NZHHFM", "WHQTSDQBNLRNSLWJRRST", "TM", "", "DT", "GM"]
+Move: move 1 from 8 to 5
+	From: DT
+	To: WHQTSDQBNLRNSLWJRRST
+	Amt: 1
+After operations:
+From: D
+To: WHQTSDQBNLRNSLWJRRSTT
+Stacks: ["VHLJCBFHJJFBFJ", "", "BDLNQBTNRW", "NZHHFM", "WHQTSDQBNLRNSLWJRRSTT", "TM", "", "D", "GM"]
+Stacks: ["VHLJCBFHJJFBFJ", "", "BDLNQBTNRW", "NZHHFM", "WHQTSDQBNLRNSLWJRRSTT", "TM", "", "D", "GM"]
+Move: move 2 from 4 to 2
+	From: NZHHFM
+	To: 
+	Amt: 2
+After operations:
+From: NZHH
+To: FM
+Stacks: ["VHLJCBFHJJFBFJ", "FM", "BDLNQBTNRW", "NZHH", "WHQTSDQBNLRNSLWJRRSTT", "TM", "", "D", "GM"]
+Stacks: ["VHLJCBFHJJFBFJ", "FM", "BDLNQBTNRW", "NZHH", "WHQTSDQBNLRNSLWJRRSTT", "TM", "", "D", "GM"]
+Move: move 11 from 1 to 7
+	From: VHLJCBFHJJFBFJ
+	To: 
+	Amt: 11
+After operations:
+From: VHL
+To: JCBFHJJFBFJ
+Stacks: ["VHL", "FM", "BDLNQBTNRW", "NZHH", "WHQTSDQBNLRNSLWJRRSTT", "TM", "JCBFHJJFBFJ", "D", "GM"]
+Stacks: ["VHL", "FM", "BDLNQBTNRW", "NZHH", "WHQTSDQBNLRNSLWJRRSTT", "TM", "JCBFHJJFBFJ", "D", "GM"]
+Move: move 3 from 1 to 4
+	From: VHL
+	To: NZHH
+	Amt: 3
+After operations:
+From: 
+To: NZHHVHL
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHL", "WHQTSDQBNLRNSLWJRRSTT", "TM", "JCBFHJJFBFJ", "D", "GM"]
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHL", "WHQTSDQBNLRNSLWJRRSTT", "TM", "JCBFHJJFBFJ", "D", "GM"]
+Move: move 17 from 5 to 6
+	From: WHQTSDQBNLRNSLWJRRSTT
+	To: TM
+	Amt: 17
+After operations:
+From: WHQT
+To: TMSDQBNLRNSLWJRRSTT
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHL", "WHQT", "TMSDQBNLRNSLWJRRSTT", "JCBFHJJFBFJ", "D", "GM"]
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHL", "WHQT", "TMSDQBNLRNSLWJRRSTT", "JCBFHJJFBFJ", "D", "GM"]
+Move: move 15 from 6 to 4
+	From: TMSDQBNLRNSLWJRRSTT
+	To: NZHHVHL
+	Amt: 15
+After operations:
+From: TMSD
+To: NZHHVHLQBNLRNSLWJRRSTT
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHLQBNLRNSLWJRRSTT", "WHQT", "TMSD", "JCBFHJJFBFJ", "D", "GM"]
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHLQBNLRNSLWJRRSTT", "WHQT", "TMSD", "JCBFHJJFBFJ", "D", "GM"]
+Move: move 1 from 8 to 9
+	From: D
+	To: GM
+	Amt: 1
+After operations:
+From: 
+To: GMD
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHLQBNLRNSLWJRRSTT", "WHQT", "TMSD", "JCBFHJJFBFJ", "", "GMD"]
+Stacks: ["", "FM", "BDLNQBTNRW", "NZHHVHLQBNLRNSLWJRRSTT", "WHQT", "TMSD", "JCBFHJJFBFJ", "", "GMD"]
+Move: move 10 from 4 to 1
+	From: NZHHVHLQBNLRNSLWJRRSTT
+	To: 
+	Amt: 10
+After operations:
+From: NZHHVHLQBNLR
+To: NSLWJRRSTT
+Stacks: ["NSLWJRRSTT", "FM", "BDLNQBTNRW", "NZHHVHLQBNLR", "WHQT", "TMSD", "JCBFHJJFBFJ", "", "GMD"]
+Stacks: ["NSLWJRRSTT", "FM", "BDLNQBTNRW", "NZHHVHLQBNLR", "WHQT", "TMSD", "JCBFHJJFBFJ", "", "GMD"]
+Move: move 1 from 3 to 9
+	From: BDLNQBTNRW
+	To: GMD
+	Amt: 1
+After operations:
+From: BDLNQBTNR
+To: GMDW
+Stacks: ["NSLWJRRSTT", "FM", "BDLNQBTNR", "NZHHVHLQBNLR", "WHQT", "TMSD", "JCBFHJJFBFJ", "", "GMDW"]
+Stacks: ["NSLWJRRSTT", "FM", "BDLNQBTNR", "NZHHVHLQBNLR", "WHQT", "TMSD", "JCBFHJJFBFJ", "", "GMDW"]
+Move: move 2 from 6 to 5
+	From: TMSD
+	To: WHQT
+	Amt: 2
+After operations:
+From: TM
+To: WHQTSD
+Stacks: ["NSLWJRRSTT", "FM", "BDLNQBTNR", "NZHHVHLQBNLR", "WHQTSD", "TM", "JCBFHJJFBFJ", "", "GMDW"]
+Stacks: ["NSLWJRRSTT", "FM", "BDLNQBTNR", "NZHHVHLQBNLR", "WHQTSD", "TM", "JCBFHJJFBFJ", "", "GMDW"]
+Move: move 1 from 2 to 6
+	From: FM
+	To: TM
+	Amt: 1
+After operations:
+From: F
+To: TMM
+Stacks: ["NSLWJRRSTT", "F", "BDLNQBTNR", "NZHHVHLQBNLR", "WHQTSD", "TMM", "JCBFHJJFBFJ", "", "GMDW"]
+Stacks: ["NSLWJRRSTT", "F", "BDLNQBTNR", "NZHHVHLQBNLR", "WHQTSD", "TMM", "JCBFHJJFBFJ", "", "GMDW"]
+Move: move 4 from 5 to 6
+	From: WHQTSD
+	To: TMM
+	Amt: 4
+After operations:
+From: WH
+To: TMMQTSD
+Stacks: ["NSLWJRRSTT", "F", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "TMMQTSD", "JCBFHJJFBFJ", "", "GMDW"]
+Stacks: ["NSLWJRRSTT", "F", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "TMMQTSD", "JCBFHJJFBFJ", "", "GMDW"]
+Move: move 4 from 1 to 2
+	From: NSLWJRRSTT
+	To: F
+	Amt: 4
+After operations:
+From: NSLWJR
+To: FRSTT
+Stacks: ["NSLWJR", "FRSTT", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "TMMQTSD", "JCBFHJJFBFJ", "", "GMDW"]
+Stacks: ["NSLWJR", "FRSTT", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "TMMQTSD", "JCBFHJJFBFJ", "", "GMDW"]
+Move: move 6 from 6 to 7
+	From: TMMQTSD
+	To: JCBFHJJFBFJ
+	Amt: 6
+After operations:
+From: T
+To: JCBFHJJFBFJMMQTSD
+Stacks: ["NSLWJR", "FRSTT", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "T", "JCBFHJJFBFJMMQTSD", "", "GMDW"]
+Stacks: ["NSLWJR", "FRSTT", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "T", "JCBFHJJFBFJMMQTSD", "", "GMDW"]
+Move: move 2 from 2 to 6
+	From: FRSTT
+	To: T
+	Amt: 2
+After operations:
+From: FRS
+To: TTT
+Stacks: ["NSLWJR", "FRS", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDW"]
+Stacks: ["NSLWJR", "FRS", "BDLNQBTNR", "NZHHVHLQBNLR", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDW"]
+Move: move 9 from 4 to 9
+	From: NZHHVHLQBNLR
+	To: GMDW
+	Amt: 9
+After operations:
+From: NZH
+To: GMDWHVHLQBNLR
+Stacks: ["NSLWJR", "FRS", "BDLNQBTNR", "NZH", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDWHVHLQBNLR"]
+Stacks: ["NSLWJR", "FRS", "BDLNQBTNR", "NZH", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDWHVHLQBNLR"]
+Move: move 6 from 1 to 2
+	From: NSLWJR
+	To: FRS
+	Amt: 6
+After operations:
+From: 
+To: FRSNSLWJR
+Stacks: ["", "FRSNSLWJR", "BDLNQBTNR", "NZH", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDWHVHLQBNLR"]
+Stacks: ["", "FRSNSLWJR", "BDLNQBTNR", "NZH", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDWHVHLQBNLR"]
+Move: move 3 from 4 to 1
+	From: NZH
+	To: 
+	Amt: 3
+After operations:
+From: 
+To: NZH
+Stacks: ["NZH", "FRSNSLWJR", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDWHVHLQBNLR"]
+Stacks: ["NZH", "FRSNSLWJR", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "", "GMDWHVHLQBNLR"]
+Move: move 10 from 9 to 8
+	From: GMDWHVHLQBNLR
+	To: 
+	Amt: 10
+After operations:
+From: GMD
+To: WHVHLQBNLR
+Stacks: ["NZH", "FRSNSLWJR", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "WHVHLQBNLR", "GMD"]
+Stacks: ["NZH", "FRSNSLWJR", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "WHVHLQBNLR", "GMD"]
+Move: move 4 from 2 to 1
+	From: FRSNSLWJR
+	To: NZH
+	Amt: 4
+After operations:
+From: FRSNS
+To: NZHLWJR
+Stacks: ["NZHLWJR", "FRSNS", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "WHVHLQBNLR", "GMD"]
+Stacks: ["NZHLWJR", "FRSNS", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "WHVHLQBNLR", "GMD"]
+Move: move 1 from 1 to 2
+	From: NZHLWJR
+	To: FRSNS
+	Amt: 1
+After operations:
+From: NZHLWJ
+To: FRSNSR
+Stacks: ["NZHLWJ", "FRSNSR", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "WHVHLQBNLR", "GMD"]
+Stacks: ["NZHLWJ", "FRSNSR", "BDLNQBTNR", "", "WH", "TTT", "JCBFHJJFBFJMMQTSD", "WHVHLQBNLR", "GMD"]
+Move: move 5 from 8 to 6
+	From: WHVHLQBNLR
+	To: TTT
+	Amt: 5
+After operations:
+From: WHVHL
+To: TTTQBNLR
+Stacks: ["NZHLWJ", "FRSNSR", "BDLNQBTNR", "", "WH", "TTTQBNLR", "JCBFHJJFBFJMMQTSD", "WHVHL", "GMD"]
+Stacks: ["NZHLWJ", "FRSNSR", "BDLNQBTNR", "", "WH", "TTTQBNLR", "JCBFHJJFBFJMMQTSD", "WHVHL", "GMD"]
+Move: move 1 from 2 to 7
+	From: FRSNSR
+	To: JCBFHJJFBFJMMQTSD
+	Amt: 1
+After operations:
+From: FRSNS
+To: JCBFHJJFBFJMMQTSDR
+Stacks: ["NZHLWJ", "FRSNS", "BDLNQBTNR", "", "WH", "TTTQBNLR", "JCBFHJJFBFJMMQTSDR", "WHVHL", "GMD"]
+Stacks: ["NZHLWJ", "FRSNS", "BDLNQBTNR", "", "WH", "TTTQBNLR", "JCBFHJJFBFJMMQTSDR", "WHVHL", "GMD"]
+Move: move 1 from 9 to 4
+	From: GMD
+	To: 
+	Amt: 1
+After operations:
+From: GM
+To: D
+Stacks: ["NZHLWJ", "FRSNS", "BDLNQBTNR", "D", "WH", "TTTQBNLR", "JCBFHJJFBFJMMQTSDR", "WHVHL", "GM"]
+Stacks: ["NZHLWJ", "FRSNS", "BDLNQBTNR", "D", "WH", "TTTQBNLR", "JCBFHJJFBFJMMQTSDR", "WHVHL", "GM"]
+Move: move 2 from 6 to 9
+	From: TTTQBNLR
+	To: GM
+	Amt: 2
+After operations:
+From: TTTQBN
+To: GMLR
+Stacks: ["NZHLWJ", "FRSNS", "BDLNQBTNR", "D", "WH", "TTTQBN", "JCBFHJJFBFJMMQTSDR", "WHVHL", "GMLR"]
+Stacks: ["NZHLWJ", "FRSNS", "BDLNQBTNR", "D", "WH", "TTTQBN", "JCBFHJJFBFJMMQTSDR", "WHVHL", "GMLR"]
+Move: move 13 from 7 to 2
+	From: JCBFHJJFBFJMMQTSDR
+	To: FRSNS
+	Amt: 13
+After operations:
+From: JCBFH
+To: FRSNSJJFBFJMMQTSDR
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDR", "BDLNQBTNR", "D", "WH", "TTTQBN", "JCBFH", "WHVHL", "GMLR"]
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDR", "BDLNQBTNR", "D", "WH", "TTTQBN", "JCBFH", "WHVHL", "GMLR"]
+Move: move 5 from 7 to 5
+	From: JCBFH
+	To: WH
+	Amt: 5
+After operations:
+From: 
+To: WHJCBFH
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDR", "BDLNQBTNR", "D", "WHJCBFH", "TTTQBN", "", "WHVHL", "GMLR"]
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDR", "BDLNQBTNR", "D", "WHJCBFH", "TTTQBN", "", "WHVHL", "GMLR"]
+Move: move 2 from 5 to 2
+	From: WHJCBFH
+	To: FRSNSJJFBFJMMQTSDR
+	Amt: 2
+After operations:
+From: WHJCB
+To: FRSNSJJFBFJMMQTSDRFH
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDRFH", "BDLNQBTNR", "D", "WHJCB", "TTTQBN", "", "WHVHL", "GMLR"]
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDRFH", "BDLNQBTNR", "D", "WHJCB", "TTTQBN", "", "WHVHL", "GMLR"]
+Move: move 1 from 4 to 5
+	From: D
+	To: WHJCB
+	Amt: 1
+After operations:
+From: 
+To: WHJCBD
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDRFH", "BDLNQBTNR", "", "WHJCBD", "TTTQBN", "", "WHVHL", "GMLR"]
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDRFH", "BDLNQBTNR", "", "WHJCBD", "TTTQBN", "", "WHVHL", "GMLR"]
+Move: move 4 from 8 to 4
+	From: WHVHL
+	To: 
+	Amt: 4
+After operations:
+From: W
+To: HVHL
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDRFH", "BDLNQBTNR", "HVHL", "WHJCBD", "TTTQBN", "", "W", "GMLR"]
+Stacks: ["NZHLWJ", "FRSNSJJFBFJMMQTSDRFH", "BDLNQBTNR", "HVHL", "WHJCBD", "TTTQBN", "", "W", "GMLR"]
+Move: move 17 from 2 to 6
+	From: FRSNSJJFBFJMMQTSDRFH
+	To: TTTQBN
+	Amt: 17
+After operations:
+From: FRS
+To: TTTQBNNSJJFBFJMMQTSDRFH
+Stacks: ["NZHLWJ", "FRS", "BDLNQBTNR", "HVHL", "WHJCBD", "TTTQBNNSJJFBFJMMQTSDRFH", "", "W", "GMLR"]
+Stacks: ["NZHLWJ", "FRS", "BDLNQBTNR", "HVHL", "WHJCBD", "TTTQBNNSJJFBFJMMQTSDRFH", "", "W", "GMLR"]
+Move: move 3 from 4 to 6
+	From: HVHL
+	To: TTTQBNNSJJFBFJMMQTSDRFH
+	Amt: 3
+After operations:
+From: H
+To: TTTQBNNSJJFBFJMMQTSDRFHVHL
+Stacks: ["NZHLWJ", "FRS", "BDLNQBTNR", "H", "WHJCBD", "TTTQBNNSJJFBFJMMQTSDRFHVHL", "", "W", "GMLR"]
+Stacks: ["NZHLWJ", "FRS", "BDLNQBTNR", "H", "WHJCBD", "TTTQBNNSJJFBFJMMQTSDRFHVHL", "", "W", "GMLR"]
+Move: move 2 from 9 to 1
+	From: GMLR
+	To: NZHLWJ
+	Amt: 2
+After operations:
+From: GM
+To: NZHLWJLR
+Stacks: ["NZHLWJLR", "FRS", "BDLNQBTNR", "H", "WHJCBD", "TTTQBNNSJJFBFJMMQTSDRFHVHL", "", "W", "GM"]
+Stacks: ["NZHLWJLR", "FRS", "BDLNQBTNR", "H", "WHJCBD", "TTTQBNNSJJFBFJMMQTSDRFHVHL", "", "W", "GM"]
+Move: move 7 from 6 to 8
+	From: TTTQBNNSJJFBFJMMQTSDRFHVHL
+	To: W
+	Amt: 7
+After operations:
+From: TTTQBNNSJJFBFJMMQTS
+To: WDRFHVHL
+Stacks: ["NZHLWJLR", "FRS", "BDLNQBTNR", "H", "WHJCBD", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "GM"]
+Stacks: ["NZHLWJLR", "FRS", "BDLNQBTNR", "H", "WHJCBD", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "GM"]
+Move: move 1 from 5 to 2
+	From: WHJCBD
+	To: FRS
+	Amt: 1
+After operations:
+From: WHJCB
+To: FRSD
+Stacks: ["NZHLWJLR", "FRSD", "BDLNQBTNR", "H", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "GM"]
+Stacks: ["NZHLWJLR", "FRSD", "BDLNQBTNR", "H", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "GM"]
+Move: move 1 from 4 to 1
+	From: H
+	To: NZHLWJLR
+	Amt: 1
+After operations:
+From: 
+To: NZHLWJLRH
+Stacks: ["NZHLWJLRH", "FRSD", "BDLNQBTNR", "", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "GM"]
+Stacks: ["NZHLWJLRH", "FRSD", "BDLNQBTNR", "", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "GM"]
+Move: move 2 from 9 to 4
+	From: GM
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: GM
+Stacks: ["NZHLWJLRH", "FRSD", "BDLNQBTNR", "GM", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", ""]
+Stacks: ["NZHLWJLRH", "FRSD", "BDLNQBTNR", "GM", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", ""]
+Move: move 1 from 3 to 9
+	From: BDLNQBTNR
+	To: 
+	Amt: 1
+After operations:
+From: BDLNQBTN
+To: R
+Stacks: ["NZHLWJLRH", "FRSD", "BDLNQBTN", "GM", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "R"]
+Stacks: ["NZHLWJLRH", "FRSD", "BDLNQBTN", "GM", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "", "WDRFHVHL", "R"]
+Move: move 4 from 3 to 7
+	From: BDLNQBTN
+	To: 
+	Amt: 4
+After operations:
+From: BDLN
+To: QBTN
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "QBTN", "WDRFHVHL", "R"]
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "WHJCB", "TTTQBNNSJJFBFJMMQTS", "QBTN", "WDRFHVHL", "R"]
+Move: move 2 from 8 to 5
+	From: WDRFHVHL
+	To: WHJCB
+	Amt: 2
+After operations:
+From: WDRFHV
+To: WHJCBHL
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "WHJCBHL", "TTTQBNNSJJFBFJMMQTS", "QBTN", "WDRFHV", "R"]
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "WHJCBHL", "TTTQBNNSJJFBFJMMQTS", "QBTN", "WDRFHV", "R"]
+Move: move 3 from 7 to 5
+	From: QBTN
+	To: WHJCBHL
+	Amt: 3
+After operations:
+From: Q
+To: WHJCBHLBTN
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "WHJCBHLBTN", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHV", "R"]
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "WHJCBHLBTN", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHV", "R"]
+Move: move 10 from 5 to 8
+	From: WHJCBHLBTN
+	To: WDRFHV
+	Amt: 10
+After operations:
+From: 
+To: WDRFHVWHJCBHLBTN
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZHLWJLRH", "FRSD", "BDLN", "GM", "", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 2 from 2 to 4
+	From: FRSD
+	To: GM
+	Amt: 2
+After operations:
+From: FR
+To: GMSD
+Stacks: ["NZHLWJLRH", "FR", "BDLN", "GMSD", "", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZHLWJLRH", "FR", "BDLN", "GMSD", "", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 6 from 1 to 2
+	From: NZHLWJLRH
+	To: FR
+	Amt: 6
+After operations:
+From: NZH
+To: FRLWJLRH
+Stacks: ["NZH", "FRLWJLRH", "BDLN", "GMSD", "", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "FRLWJLRH", "BDLN", "GMSD", "", "TTTQBNNSJJFBFJMMQTS", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 4 from 6 to 3
+	From: TTTQBNNSJJFBFJMMQTS
+	To: BDLN
+	Amt: 4
+After operations:
+From: TTTQBNNSJJFBFJM
+To: BDLNMQTS
+Stacks: ["NZH", "FRLWJLRH", "BDLNMQTS", "GMSD", "", "TTTQBNNSJJFBFJM", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "FRLWJLRH", "BDLNMQTS", "GMSD", "", "TTTQBNNSJJFBFJM", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 8 from 2 to 6
+	From: FRLWJLRH
+	To: TTTQBNNSJJFBFJM
+	Amt: 8
+After operations:
+From: 
+To: TTTQBNNSJJFBFJMFRLWJLRH
+Stacks: ["NZH", "", "BDLNMQTS", "GMSD", "", "TTTQBNNSJJFBFJMFRLWJLRH", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "", "BDLNMQTS", "GMSD", "", "TTTQBNNSJJFBFJMFRLWJLRH", "Q", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 1 from 7 to 4
+	From: Q
+	To: GMSD
+	Amt: 1
+After operations:
+From: 
+To: GMSDQ
+Stacks: ["NZH", "", "BDLNMQTS", "GMSDQ", "", "TTTQBNNSJJFBFJMFRLWJLRH", "", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "", "BDLNMQTS", "GMSDQ", "", "TTTQBNNSJJFBFJMFRLWJLRH", "", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 5 from 4 to 5
+	From: GMSDQ
+	To: 
+	Amt: 5
+After operations:
+From: 
+To: GMSDQ
+Stacks: ["NZH", "", "BDLNMQTS", "", "GMSDQ", "TTTQBNNSJJFBFJMFRLWJLRH", "", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "", "BDLNMQTS", "", "GMSDQ", "TTTQBNNSJJFBFJMFRLWJLRH", "", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 7 from 6 to 7
+	From: TTTQBNNSJJFBFJMFRLWJLRH
+	To: 
+	Amt: 7
+After operations:
+From: TTTQBNNSJJFBFJMF
+To: RLWJLRH
+Stacks: ["NZH", "", "BDLNMQTS", "", "GMSDQ", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "", "BDLNMQTS", "", "GMSDQ", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 5 from 3 to 5
+	From: BDLNMQTS
+	To: GMSDQ
+	Amt: 5
+After operations:
+From: BDL
+To: GMSDQNMQTS
+Stacks: ["NZH", "", "BDL", "", "GMSDQNMQTS", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "", "BDL", "", "GMSDQNMQTS", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 5 from 5 to 2
+	From: GMSDQNMQTS
+	To: 
+	Amt: 5
+After operations:
+From: GMSDQ
+To: NMQTS
+Stacks: ["NZH", "NMQTS", "BDL", "", "GMSDQ", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBHLBTN", "R"]
+Stacks: ["NZH", "NMQTS", "BDL", "", "GMSDQ", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBHLBTN", "R"]
+Move: move 4 from 8 to 1
+	From: WDRFHVWHJCBHLBTN
+	To: NZH
+	Amt: 4
+After operations:
+From: WDRFHVWHJCBH
+To: NZHLBTN
+Stacks: ["NZHLBTN", "NMQTS", "BDL", "", "GMSDQ", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Stacks: ["NZHLBTN", "NMQTS", "BDL", "", "GMSDQ", "TTTQBNNSJJFBFJMF", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Move: move 6 from 1 to 6
+	From: NZHLBTN
+	To: TTTQBNNSJJFBFJMF
+	Amt: 6
+After operations:
+From: N
+To: TTTQBNNSJJFBFJMFZHLBTN
+Stacks: ["N", "NMQTS", "BDL", "", "GMSDQ", "TTTQBNNSJJFBFJMFZHLBTN", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Stacks: ["N", "NMQTS", "BDL", "", "GMSDQ", "TTTQBNNSJJFBFJMFZHLBTN", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Move: move 3 from 3 to 2
+	From: BDL
+	To: NMQTS
+	Amt: 3
+After operations:
+From: 
+To: NMQTSBDL
+Stacks: ["N", "NMQTSBDL", "", "", "GMSDQ", "TTTQBNNSJJFBFJMFZHLBTN", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Stacks: ["N", "NMQTSBDL", "", "", "GMSDQ", "TTTQBNNSJJFBFJMFZHLBTN", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Move: move 22 from 6 to 2
+	From: TTTQBNNSJJFBFJMFZHLBTN
+	To: NMQTSBDL
+	Amt: 22
+After operations:
+From: 
+To: NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "", "RLWJLRH", "WDRFHVWHJCBH", "R"]
+Move: move 1 from 9 to 7
+	From: R
+	To: RLWJLRH
+	Amt: 1
+After operations:
+From: 
+To: RLWJLRHR
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "", "RLWJLRHR", "WDRFHVWHJCBH", ""]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "", "RLWJLRHR", "WDRFHVWHJCBH", ""]
+Move: move 8 from 8 to 6
+	From: WDRFHVWHJCBH
+	To: 
+	Amt: 8
+After operations:
+From: WDRF
+To: HVWHJCBH
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "HVWHJCBH", "RLWJLRHR", "WDRF", ""]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "HVWHJCBH", "RLWJLRHR", "WDRF", ""]
+Move: move 1 from 7 to 6
+	From: RLWJLRHR
+	To: HVWHJCBH
+	Amt: 1
+After operations:
+From: RLWJLRH
+To: HVWHJCBHR
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "HVWHJCBHR", "RLWJLRH", "WDRF", ""]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSDQ", "HVWHJCBHR", "RLWJLRH", "WDRF", ""]
+Move: move 2 from 5 to 7
+	From: GMSDQ
+	To: RLWJLRH
+	Amt: 2
+After operations:
+From: GMS
+To: RLWJLRHDQ
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMS", "HVWHJCBHR", "RLWJLRHDQ", "WDRF", ""]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMS", "HVWHJCBHR", "RLWJLRHDQ", "WDRF", ""]
+Move: move 4 from 8 to 5
+	From: WDRF
+	To: GMS
+	Amt: 4
+After operations:
+From: 
+To: GMSWDRF
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSWDRF", "HVWHJCBHR", "RLWJLRHDQ", "", ""]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSWDRF", "HVWHJCBHR", "RLWJLRHDQ", "", ""]
+Move: move 7 from 6 to 7
+	From: HVWHJCBHR
+	To: RLWJLRHDQ
+	Amt: 7
+After operations:
+From: HV
+To: RLWJLRHDQWHJCBHR
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSWDRF", "HV", "RLWJLRHDQWHJCBHR", "", ""]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "", "GMSWDRF", "HV", "RLWJLRHDQWHJCBHR", "", ""]
+Move: move 2 from 6 to 4
+	From: HV
+	To: 
+	Amt: 2
+After operations:
+From: 
+To: HV
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "HV", "GMSWDRF", "", "RLWJLRHDQWHJCBHR", "", ""]
+Stacks: ["N", "NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN", "", "HV", "GMSWDRF", "", "RLWJLRHDQWHJCBHR", "", ""]
+Move: move 14 from 2 to 1
+	From: NMQTSBDLTTTQBNNSJJFBFJMFZHLBTN
+	To: N
+	Amt: 14
+After operations:
+From: NMQTSBDLTTTQBNNS
+To: NJJFBFJMFZHLBTN
+Stacks: ["NJJFBFJMFZHLBTN", "NMQTSBDLTTTQBNNS", "", "HV", "GMSWDRF", "", "RLWJLRHDQWHJCBHR", "", ""]
+Stacks: ["NJJFBFJMFZHLBTN", "NMQTSBDLTTTQBNNS", "", "HV", "GMSWDRF", "", "RLWJLRHDQWHJCBHR", "", ""]
+Move: move 7 from 1 to 3
+	From: NJJFBFJMFZHLBTN
+	To: 
+	Amt: 7
+After operations:
+From: NJJFBFJM
+To: FZHLBTN
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTN", "HV", "GMSWDRF", "", "RLWJLRHDQWHJCBHR", "", ""]
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTN", "HV", "GMSWDRF", "", "RLWJLRHDQWHJCBHR", "", ""]
+Move: move 12 from 7 to 3
+	From: RLWJLRHDQWHJCBHR
+	To: FZHLBTN
+	Amt: 12
+After operations:
+From: RLWJ
+To: FZHLBTNLRHDQWHJCBHR
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHR", "HV", "GMSWDRF", "", "RLWJ", "", ""]
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHR", "HV", "GMSWDRF", "", "RLWJ", "", ""]
+Move: move 1 from 4 to 3
+	From: HV
+	To: FZHLBTNLRHDQWHJCBHR
+	Amt: 1
+After operations:
+From: H
+To: FZHLBTNLRHDQWHJCBHRV
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRV", "H", "GMSWDRF", "", "RLWJ", "", ""]
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRV", "H", "GMSWDRF", "", "RLWJ", "", ""]
+Move: move 2 from 5 to 8
+	From: GMSWDRF
+	To: 
+	Amt: 2
+After operations:
+From: GMSWD
+To: RF
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRV", "H", "GMSWD", "", "RLWJ", "RF", ""]
+Stacks: ["NJJFBFJM", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRV", "H", "GMSWD", "", "RLWJ", "RF", ""]
+Move: move 2 from 8 to 1
+	From: RF
+	To: NJJFBFJM
+	Amt: 2
+After operations:
+From: 
+To: NJJFBFJMRF
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRV", "H", "GMSWD", "", "RLWJ", "", ""]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRV", "H", "GMSWD", "", "RLWJ", "", ""]
+Move: move 1 from 4 to 3
+	From: H
+	To: FZHLBTNLRHDQWHJCBHRV
+	Amt: 1
+After operations:
+From: 
+To: FZHLBTNLRHDQWHJCBHRVH
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJ", "", ""]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJ", "", ""]
+Move: move 6 from 2 to 9
+	From: NMQTSBDLTTTQBNNS
+	To: 
+	Amt: 6
+After operations:
+From: NMQTSBDLTT
+To: TQBNNS
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTT", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJ", "", "TQBNNS"]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTT", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJ", "", "TQBNNS"]
+Move: move 6 from 9 to 2
+	From: TQBNNS
+	To: NMQTSBDLTT
+	Amt: 6
+After operations:
+From: 
+To: NMQTSBDLTTTQBNNS
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJ", "", ""]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBNNS", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJ", "", ""]
+Move: move 2 from 2 to 7
+	From: NMQTSBDLTTTQBNNS
+	To: RLWJ
+	Amt: 2
+After operations:
+From: NMQTSBDLTTTQBN
+To: RLWJNS
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBN", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJNS", "", ""]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBN", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWD", "", "RLWJNS", "", ""]
+Move: move 6 from 7 to 5
+	From: RLWJNS
+	To: GMSWD
+	Amt: 6
+After operations:
+From: 
+To: GMSWDRLWJNS
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBN", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWDRLWJNS", "", "", "", ""]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBN", "FZHLBTNLRHDQWHJCBHRVH", "", "GMSWDRLWJNS", "", "", "", ""]
+Move: move 13 from 3 to 5
+	From: FZHLBTNLRHDQWHJCBHRVH
+	To: GMSWDRLWJNS
+	Amt: 13
+After operations:
+From: FZHLBTNL
+To: GMSWDRLWJNSRHDQWHJCBHRVH
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBN", "FZHLBTNL", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "", "", "", ""]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLTTTQBN", "FZHLBTNL", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "", "", "", ""]
+Move: move 5 from 2 to 6
+	From: NMQTSBDLTTTQBN
+	To: 
+	Amt: 5
+After operations:
+From: NMQTSBDLT
+To: TTQBN
+Stacks: ["NJJFBFJMRF", "NMQTSBDLT", "FZHLBTNL", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "TTQBN", "", "", ""]
+Stacks: ["NJJFBFJMRF", "NMQTSBDLT", "FZHLBTNL", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "TTQBN", "", "", ""]
+Move: move 5 from 6 to 1
+	From: TTQBN
+	To: NJJFBFJMRF
+	Amt: 5
+After operations:
+From: 
+To: NJJFBFJMRFTTQBN
+Stacks: ["NJJFBFJMRFTTQBN", "NMQTSBDLT", "FZHLBTNL", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "", "", "", ""]
+Stacks: ["NJJFBFJMRFTTQBN", "NMQTSBDLT", "FZHLBTNL", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "", "", "", ""]
+Move: move 2 from 3 to 6
+	From: FZHLBTNL
+	To: 
+	Amt: 2
+After operations:
+From: FZHLBT
+To: NL
+Stacks: ["NJJFBFJMRFTTQBN", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "NL", "", "", ""]
+Stacks: ["NJJFBFJMRFTTQBN", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVH", "NL", "", "", ""]
+Move: move 1 from 6 to 5
+	From: NL
+	To: GMSWDRLWJNSRHDQWHJCBHRVH
+	Amt: 1
+After operations:
+From: N
+To: GMSWDRLWJNSRHDQWHJCBHRVHL
+Stacks: ["NJJFBFJMRFTTQBN", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "N", "", "", ""]
+Stacks: ["NJJFBFJMRFTTQBN", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "N", "", "", ""]
+Move: move 1 from 6 to 1
+	From: N
+	To: NJJFBFJMRFTTQBN
+	Amt: 1
+After operations:
+From: 
+To: NJJFBFJMRFTTQBNN
+Stacks: ["NJJFBFJMRFTTQBNN", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "", ""]
+Stacks: ["NJJFBFJMRFTTQBNN", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "", ""]
+Move: move 3 from 1 to 9
+	From: NJJFBFJMRFTTQBNN
+	To: 
+	Amt: 3
+After operations:
+From: NJJFBFJMRFTTQ
+To: BNN
+Stacks: ["NJJFBFJMRFTTQ", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "", "BNN"]
+Stacks: ["NJJFBFJMRFTTQ", "NMQTSBDLT", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "", "BNN"]
+Move: move 6 from 2 to 7
+	From: NMQTSBDLT
+	To: 
+	Amt: 6
+After operations:
+From: NMQ
+To: TSBDLT
+Stacks: ["NJJFBFJMRFTTQ", "NMQ", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "TSBDLT", "", "BNN"]
+Stacks: ["NJJFBFJMRFTTQ", "NMQ", "FZHLBT", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "TSBDLT", "", "BNN"]
+Move: move 1 from 2 to 3
+	From: NMQ
+	To: FZHLBT
+	Amt: 1
+After operations:
+From: NM
+To: FZHLBTQ
+Stacks: ["NJJFBFJMRFTTQ", "NM", "FZHLBTQ", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "TSBDLT", "", "BNN"]
+Stacks: ["NJJFBFJMRFTTQ", "NM", "FZHLBTQ", "", "GMSWDRLWJNSRHDQWHJCBHRVHL", "", "TSBDLT", "", "BNN"]
+Move: move 24 from 5 to 2
+	From: GMSWDRLWJNSRHDQWHJCBHRVHL
+	To: NM
+	Amt: 24
+After operations:
+From: G
+To: NMMSWDRLWJNSRHDQWHJCBHRVHL
+Stacks: ["NJJFBFJMRFTTQ", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "FZHLBTQ", "", "G", "", "TSBDLT", "", "BNN"]
+Stacks: ["NJJFBFJMRFTTQ", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "FZHLBTQ", "", "G", "", "TSBDLT", "", "BNN"]
+Move: move 7 from 3 to 7
+	From: FZHLBTQ
+	To: TSBDLT
+	Amt: 7
+After operations:
+From: 
+To: TSBDLTFZHLBTQ
+Stacks: ["NJJFBFJMRFTTQ", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "", "TSBDLTFZHLBTQ", "", "BNN"]
+Stacks: ["NJJFBFJMRFTTQ", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "", "TSBDLTFZHLBTQ", "", "BNN"]
+Move: move 13 from 7 to 9
+	From: TSBDLTFZHLBTQ
+	To: BNN
+	Amt: 13
+After operations:
+From: 
+To: BNNTSBDLTFZHLBTQ
+Stacks: ["NJJFBFJMRFTTQ", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "", "", "", "BNNTSBDLTFZHLBTQ"]
+Stacks: ["NJJFBFJMRFTTQ", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "", "", "", "BNNTSBDLTFZHLBTQ"]
+Move: move 4 from 1 to 9
+	From: NJJFBFJMRFTTQ
+	To: BNNTSBDLTFZHLBTQ
+	Amt: 4
+After operations:
+From: NJJFBFJMR
+To: BNNTSBDLTFZHLBTQFTTQ
+Stacks: ["NJJFBFJMR", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "", "", "", "BNNTSBDLTFZHLBTQFTTQ"]
+Stacks: ["NJJFBFJMR", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "", "", "", "BNNTSBDLTFZHLBTQFTTQ"]
+Move: move 4 from 1 to 6
+	From: NJJFBFJMR
+	To: 
+	Amt: 4
+After operations:
+From: NJJFB
+To: FJMR
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "FJMR", "", "", "BNNTSBDLTFZHLBTQFTTQ"]
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "G", "FJMR", "", "", "BNNTSBDLTFZHLBTQFTTQ"]
+Move: move 1 from 5 to 6
+	From: G
+	To: FJMR
+	Amt: 1
+After operations:
+From: 
+To: FJMRG
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "", "FJMRG", "", "", "BNNTSBDLTFZHLBTQFTTQ"]
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "", "FJMRG", "", "", "BNNTSBDLTFZHLBTQFTTQ"]
+Move: move 16 from 9 to 5
+	From: BNNTSBDLTFZHLBTQFTTQ
+	To: 
+	Amt: 16
+After operations:
+From: BNNT
+To: SBDLTFZHLBTQFTTQ
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "SBDLTFZHLBTQFTTQ", "FJMRG", "", "", "BNNT"]
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "", "SBDLTFZHLBTQFTTQ", "FJMRG", "", "", "BNNT"]
+Move: move 1 from 6 to 4
+	From: FJMRG
+	To: 
+	Amt: 1
+After operations:
+From: FJMR
+To: G
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "G", "SBDLTFZHLBTQFTTQ", "FJMR", "", "", "BNNT"]
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHL", "", "G", "SBDLTFZHLBTQFTTQ", "FJMR", "", "", "BNNT"]
+Move: move 1 from 5 to 2
+	From: SBDLTFZHLBTQFTTQ
+	To: NMMSWDRLWJNSRHDQWHJCBHRVHL
+	Amt: 1
+After operations:
+From: SBDLTFZHLBTQFTT
+To: NMMSWDRLWJNSRHDQWHJCBHRVHLQ
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHLQ", "", "G", "SBDLTFZHLBTQFTT", "FJMR", "", "", "BNNT"]
+Stacks: ["NJJFB", "NMMSWDRLWJNSRHDQWHJCBHRVHLQ", "", "G", "SBDLTFZHLBTQFTT", "FJMR", "", "", "BNNT"]
+Move: move 5 from 1 to 3
+	From: NJJFB
+	To: 
+	Amt: 5
+After operations:
+From: 
+To: NJJFB
+Stacks: ["", "NMMSWDRLWJNSRHDQWHJCBHRVHLQ", "NJJFB", "G", "SBDLTFZHLBTQFTT", "FJMR", "", "", "BNNT"]
+Stacks: ["", "NMMSWDRLWJNSRHDQWHJCBHRVHLQ", "NJJFB", "G", "SBDLTFZHLBTQFTT", "FJMR", "", "", "BNNT"]
+Move: move 11 from 2 to 1
+	From: NMMSWDRLWJNSRHDQWHJCBHRVHLQ
+	To: 
+	Amt: 11
+After operations:
+From: NMMSWDRLWJNSRHDQ
+To: WHJCBHRVHLQ
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJFB", "G", "SBDLTFZHLBTQFTT", "FJMR", "", "", "BNNT"]
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJFB", "G", "SBDLTFZHLBTQFTT", "FJMR", "", "", "BNNT"]
+Move: move 4 from 9 to 6
+	From: BNNT
+	To: FJMR
+	Amt: 4
+After operations:
+From: 
+To: FJMRBNNT
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJFB", "G", "SBDLTFZHLBTQFTT", "FJMRBNNT", "", "", ""]
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJFB", "G", "SBDLTFZHLBTQFTT", "FJMRBNNT", "", "", ""]
+Move: move 1 from 4 to 7
+	From: G
+	To: 
+	Amt: 1
+After operations:
+From: 
+To: G
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJFB", "", "SBDLTFZHLBTQFTT", "FJMRBNNT", "G", "", ""]
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJFB", "", "SBDLTFZHLBTQFTT", "FJMRBNNT", "G", "", ""]
+Move: move 2 from 3 to 4
+	From: NJJFB
+	To: 
+	Amt: 2
+After operations:
+From: NJJ
+To: FB
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJ", "FB", "SBDLTFZHLBTQFTT", "FJMRBNNT", "G", "", ""]
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJ", "FB", "SBDLTFZHLBTQFTT", "FJMRBNNT", "G", "", ""]
+Move: move 6 from 6 to 9
+	From: FJMRBNNT
+	To: 
+	Amt: 6
+After operations:
+From: FJ
+To: MRBNNT
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJ", "FB", "SBDLTFZHLBTQFTT", "FJ", "G", "", "MRBNNT"]
+Stacks: ["WHJCBHRVHLQ", "NMMSWDRLWJNSRHDQ", "NJJ", "FB", "SBDLTFZHLBTQFTT", "FJ", "G", "", "MRBNNT"]
+Move: move 1 from 1 to 3
+	From: WHJCBHRVHLQ
+	To: NJJ
+	Amt: 1
+After operations:
+From: WHJCBHRVHL
+To: NJJQ
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRHDQ", "NJJQ", "FB", "SBDLTFZHLBTQFTT", "FJ", "G", "", "MRBNNT"]
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRHDQ", "NJJQ", "FB", "SBDLTFZHLBTQFTT", "FJ", "G", "", "MRBNNT"]
+Move: move 2 from 9 to 4
+	From: MRBNNT
+	To: FB
+	Amt: 2
+After operations:
+From: MRBN
+To: FBNT
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRHDQ", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "G", "", "MRBN"]
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRHDQ", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "G", "", "MRBN"]
+Move: move 1 from 7 to 9
+	From: G
+	To: MRBN
+	Amt: 1
+After operations:
+From: 
+To: MRBNG
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRHDQ", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "MRBNG"]
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRHDQ", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "MRBNG"]
+Move: move 4 from 2 to 9
+	From: NMMSWDRLWJNSRHDQ
+	To: MRBNG
+	Amt: 4
+After operations:
+From: NMMSWDRLWJNS
+To: MRBNGRHDQ
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNS", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "MRBNGRHDQ"]
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNS", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "MRBNGRHDQ"]
+Move: move 8 from 9 to 2
+	From: MRBNGRHDQ
+	To: NMMSWDRLWJNS
+	Amt: 8
+After operations:
+From: M
+To: NMMSWDRLWJNSRBNGRHDQ
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRBNGRHDQ", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "M"]
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRBNGRHDQ", "NJJQ", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "M"]
+Move: move 3 from 3 to 2
+	From: NJJQ
+	To: NMMSWDRLWJNSRBNGRHDQ
+	Amt: 3
+After operations:
+From: N
+To: NMMSWDRLWJNSRBNGRHDQJJQ
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "M"]
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "", "", "M"]
+Move: move 1 from 9 to 4
+	From: M
+	To: FBNT
+	Amt: 1
+After operations:
+From: 
+To: FBNTM
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNTM", "SBDLTFZHLBTQFTT", "FJ", "", "", ""]
+Stacks: ["WHJCBHRVHL", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNTM", "SBDLTFZHLBTQFTT", "FJ", "", "", ""]
+Move: move 5 from 1 to 7
+	From: WHJCBHRVHL
+	To: 
+	Amt: 5
+After operations:
+From: WHJCB
+To: HRVHL
+Stacks: ["WHJCB", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNTM", "SBDLTFZHLBTQFTT", "FJ", "HRVHL", "", ""]
+Stacks: ["WHJCB", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNTM", "SBDLTFZHLBTQFTT", "FJ", "HRVHL", "", ""]
+Move: move 1 from 4 to 8
+	From: FBNTM
+	To: 
+	Amt: 1
+After operations:
+From: FBNT
+To: M
+Stacks: ["WHJCB", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "HRVHL", "M", ""]
+Stacks: ["WHJCB", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "HRVHL", "M", ""]
+Move: move 2 from 1 to 9
+	From: WHJCB
+	To: 
+	Amt: 2
+After operations:
+From: WHJ
+To: CB
+Stacks: ["WHJ", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "HRVHL", "M", "CB"]
+Stacks: ["WHJ", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "HRVHL", "M", "CB"]
+Move: move 1 from 8 to 7
+	From: M
+	To: HRVHL
+	Amt: 1
+After operations:
+From: 
+To: HRVHLM
+Stacks: ["WHJ", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "HRVHLM", "", "CB"]
+Stacks: ["WHJ", "NMMSWDRLWJNSRBNGRHDQJJQ", "N", "FBNT", "SBDLTFZHLBTQFTT", "FJ", "HRVHLM", "", "CB"]
+Move: move 6 from 5 to 3
+	From: SBDLTFZHLBTQFTT
+	To: N
+	Amt: 6
+After operations:
+From: SBDLTFZHL
+To: NBTQFTT
+Stacks: ["WHJ", "NMMSWDRLWJNSRBNGRHDQJJQ", "NBTQFTT", "FBNT", "SBDLTFZHL", "FJ", "HRVHLM", "", "CB"]
+Stacks: ["WHJ", "NMMSWDRLWJNSRBNGRHDQJJQ", "NBTQFTT", "FBNT", "SBDLTFZHL", "FJ", "HRVHLM", "", "CB"]
+Move: move 1 from 5 to 1
+	From: SBDLTFZHL
+	To: WHJ
+	Amt: 1
+After operations:
+From: SBDLTFZH
+To: WHJL
+Stacks: ["WHJL", "NMMSWDRLWJNSRBNGRHDQJJQ", "NBTQFTT", "FBNT", "SBDLTFZH", "FJ", "HRVHLM", "", "CB"]
+Stacks: ["WHJL", "NMMSWDRLWJNSRBNGRHDQJJQ", "NBTQFTT", "FBNT", "SBDLTFZH", "FJ", "HRVHLM", "", "CB"]
+Move: move 5 from 2 to 3
+	From: NMMSWDRLWJNSRBNGRHDQJJQ
+	To: NBTQFTT
+	Amt: 5
+After operations:
+From: NMMSWDRLWJNSRBNGRH
+To: NBTQFTTDQJJQ
+Stacks: ["WHJL", "NMMSWDRLWJNSRBNGRH", "NBTQFTTDQJJQ", "FBNT", "SBDLTFZH", "FJ", "HRVHLM", "", "CB"]
+Stacks: ["WHJL", "NMMSWDRLWJNSRBNGRH", "NBTQFTTDQJJQ", "FBNT", "SBDLTFZH", "FJ", "HRVHLM", "", "CB"]
+Move: move 4 from 1 to 5
+	From: WHJL
+	To: SBDLTFZH
+	Amt: 4
+After operations:
+From: 
+To: SBDLTFZHWHJL
+Stacks: ["", "NMMSWDRLWJNSRBNGRH", "NBTQFTTDQJJQ", "FBNT", "SBDLTFZHWHJL", "FJ", "HRVHLM", "", "CB"]
+Stacks: ["", "NMMSWDRLWJNSRBNGRH", "NBTQFTTDQJJQ", "FBNT", "SBDLTFZHWHJL", "FJ", "HRVHLM", "", "CB"]
+Move: move 4 from 7 to 1
+	From: HRVHLM
+	To: 
+	Amt: 4
+After operations:
+From: HR
+To: VHLM
+Stacks: ["VHLM", "NMMSWDRLWJNSRBNGRH", "NBTQFTTDQJJQ", "FBNT", "SBDLTFZHWHJL", "FJ", "HR", "", "CB"]
+Stacks: ["VHLM", "NMMSWDRLWJNSRBNGRH", "NBTQFTTDQJJQ", "FBNT", "SBDLTFZHWHJL", "FJ", "HR", "", "CB"]
+Move: move 8 from 5 to 8
+	From: SBDLTFZHWHJL
+	To: 
+	Amt: 8
+After operations:
+From: SBDL
+To: TFZHWHJL
+Stacks: ["VHLM", "NMMSWDRLWJNSRBNGRH", "NBTQFTTDQJJQ", "FBNT", "SBDL", "FJ", "HR", "TFZHWHJL", "CB"]
+M
+H
+Q
+T
+L
+J
+R
+L
+B
+513
