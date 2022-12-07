@@ -1,30 +1,6 @@
 
-
-
-
 const filename : &str = "./input.txt";
 
-struct Stack {
-    stack: String 
-}
-impl Stack{
-
-    fn new() -> Stack {
-        Stack{
-            stack:String::from("") 
-        }
-    }
-    fn push(&mut self, add : char) -> &String{
-        self.stack = self.stack.to_string()+&add.to_string();    
-        &self.stack
-    }
-    fn pop(&mut self) -> char {
-        self.stack = self.stack[0..self.stack.len()-1].to_string();
-        
-        let bytes : u8 = self.stack.as_bytes()[self.stack.len()];
-        bytes as char
-    }
-}
 
 fn constructStacks(lines : &Vec<&str>){
     // Get line number for stack base
