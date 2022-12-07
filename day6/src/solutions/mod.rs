@@ -17,7 +17,6 @@ fn repeatedChars(input : &str) -> bool {
 pub fn solve1() -> usize{
     
     let input_raw : String = std::fs::read_to_string("./input.txt").unwrap();
-    let lines : Vec<&str> = input_raw.split("\n").collect();
     
     let input_chars : Vec<char> = input_raw.chars().collect();
     let mut index : usize = 0;
@@ -34,7 +33,6 @@ pub fn solve1() -> usize{
 
 pub fn solve2() -> usize{
     let input_raw : String = std::fs::read_to_string("./input.txt").unwrap();
-    let lines : Vec<&str> = input_raw.split("\n").collect();
 
  
     let input_chars : Vec<char> = input_raw.chars().collect();
